@@ -1,0 +1,35 @@
+baseURL: "https://nhagiaodich.com"
+languageCode: en-us
+title: Nhà Giao Dịch
+theme: PaperMod
+paginate: 5
+
+params:
+  gtm: "GMT-adfadf"
+  homeInfoParams:
+    Title: "Xin chào"
+    Content: "Chào mừng đến với Blog Nhà Giao Dịch. Đây là website cung cấp các thông tin bổ ích về giao dịch. Hy vọng các bạn sẽ tìm được công thức giao dịch chiến thắng của mình ở đây. Chúc các bạn trở thành Trader có lợi nhuận ổn định."
+  socialIcons:
+    - name: twitter
+      url: "https://twitter.com/nhagiaodich_com"
+    - name: tiktok
+      url: "https://tiktok.com/@nhagiaodich_com"
+    - name: facebook
+      url: "https://facebook.com"
+    - name: youtube
+      url: "https://youtube.com"
+
+menu:
+  main:
+    - identifier: categories
+      name: Phân loại
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+    - identifier: archives
+      name: Lưu trữ
+      url: /archives/
+      weight: 30
