@@ -34,3 +34,7 @@ menu:
       name: Lưu trữ
       url: /archives/
       weight: 30
+    - identifier: about
+      name: Buy me a coffee
+      url: /buymeacoffee/
+      weight: 40
