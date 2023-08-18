@@ -9,6 +9,8 @@ cover:
 tags: ["giaodich", "tamly"]
 categories: ["trading"]
 ---
+> "**_Không có cách gì đánh bại trò chơi Roulette, trừ khi bạn ăn cắp tiền của nó." Albert Einstein_**.
+
 
 Đây là Las Vegas, thủ phủ Casino thế giới. Có bao giờ bạn tự hỏi tại sao nhà cái luôn luôn thịnh, dù nền kinh tế có thăng có trầm, có lên có xuống? Một nhà cái casino được vận hành dựa trên 02 nguyên tắc cơ bản chính
 
