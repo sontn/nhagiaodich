@@ -3,6 +3,7 @@ title: "Công thức thành công của Trader"
 date: 2023-08-17T10:27:22+07:00
 draft: false
 cover:
+    image: 'img/congthuctrader/succeed.jpg'
     alt: 'Nhà Giao Dịch'
     caption: 'Nhà Giao Dịch'
 tags: ["giaodich", "tamly"]
@@ -16,6 +17,8 @@ Công thức thành công của Trader Giàu, bao gồm ba thành tố cơ bản
 **\- Quản trị rủi ro**
 
 **\- Tâm lý giao dịch**
+
+![Phần trăm](/img/congthuctrader/phantram.png)
 
 Các trọng số của các thành tố như sau: Hệ thống giao dịch: 10%, Quản trị rủi ro: 10%, Tâm lý giao dịch: 80%. Các Trader mới vào nghề thường sa đà vào mất rất nhiều thời gian, có khi cả 10 năm trời vào thành tố hệ thống giao dịch. Đây là một cách đặt sai trọng tâm nghiêm trọng. Tại sao có sự sai nghiêm trọng này? Đó là do nhận thức trong tiềm thức rằng phải có 1 cách thức giao dịch thật sự đặc biệt luôn luôn chiến thắng được thị trường cho mỗi lệnh vào. Và vì vậy phải đi tìm được Chén Thánh này. Quan niệm này giống hệt như các vị vua chúa hàng nghin năm trước, như Tần Thủy Hoàng, tin rằng phải có thuốc trường sinh bất lão. Hay các nhà giả kim đã tốn hằng trăm hàng nghìn năm để tìm cách biến kim loại khác thành vàng. Cho tới thời điểm hiện tại, chưa có một bằng chứng nào chứng minh được sự bất tử của con người, cũng như biến kim loại thành vàng. Do vậy, chân lý sự thật hiển nhiên số 1 trong trading là:
 

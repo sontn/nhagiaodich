@@ -3,6 +3,7 @@ title: "Tụng kinh"
 date: 2023-08-17T10:27:22+07:00
 draft: false
 cover:
+    image: 'img/tungkinh/niemtin.jpg'
     alt: 'Nhà Giao Dịch'
     caption: 'Nhà Giao Dịch'
 tags: ["tamly"]
