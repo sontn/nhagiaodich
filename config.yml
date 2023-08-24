@@ -20,6 +20,12 @@ params:
     - name: youtube
       url: "https://www.youtube.com/@nhagiaodich_com"
 
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary
+
 menu:
   main:
     - identifier: categories
@@ -34,7 +40,12 @@ menu:
       name: Lưu trữ
       url: /archives/
       weight: 30
+    - identifier: search
+      name: Tìm kiếm
+      url: /search/
+      weight: 40    
     - identifier: about
       name: Buy me a coffee
       url: /buymeacoffee/
-      weight: 40
+      weight: 50
+    
