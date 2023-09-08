@@ -297,3 +297,19 @@ Tôi là nhà giao dịch có lợi nhuận ổn định
 Tôi là nhà giao dịch có lợi nhuận ổn định
 
 Tôi là nhà giao dịch có lợi nhuận ổn định
+
+Tôi là nhà giao dịch có lợi nhuận ổn định
+
+Tôi là nhà giao dịch có lợi nhuận ổn định
+
+Tôi là nhà giao dịch có lợi nhuận ổn định
+
+Tôi là nhà giao dịch có lợi nhuận ổn định
+
+Tôi là nhà giao dịch có lợi nhuận ổn định
+
+Tôi là nhà giao dịch có lợi nhuận ổn định
+
+Tôi là nhà giao dịch có lợi nhuận ổn định
+
+Tôi là nhà giao dịch có lợi nhuận ổn định
