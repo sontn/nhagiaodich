@@ -92,6 +92,8 @@ Tôi là nhà giao dịch có lợi nhuận ổn định
 
 Tôi là nhà giao dịch có lợi nhuận ổn định
 
+Tôi là nhà giao dịch có lợi nhuận ổn định
+
 Tôi là nhà giao dịch có lợi nhuận ổn đinh
 
 Tôi là nhà giao dịch có lợi nhuận ổn định
