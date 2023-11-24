@@ -10,6 +10,9 @@ params:
     Title: "Xin chào"
     Content: "Chào mừng đến với Blog Nhà Giao Dịch. Đây là website cung cấp các thông tin bổ ích về giao dịch. Hy vọng các bạn sẽ tìm được công thức giao dịch chiến thắng của mình ở đây. Chúc các bạn trở thành Trader có lợi nhuận ổn định."
 
+  disqusShortname: nhagiaodich
+  comments: true
+
   socialIcons:
     - name: twitter
       url: "https://twitter.com/nhagiaodich_com"
