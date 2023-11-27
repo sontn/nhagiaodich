@@ -32,45 +32,45 @@ Tôi gọi Sua là cú đêm bởi vì đăng nhập diễn đàn bất cứ gi�
 
 Vào năm Sua mười chín tuổi thì bố mất. Những ngày tháng đó chỉ giá vàng nhảy nhót mới kéo Sua ra được khỏi nỗi đau. Tôi để ý tới Sua khi em làm thơ tưởng nhớ người bố yêu quý ra đi vội vàng. Chị gái Sua lấy chồng, mẹ chia đôi mảnh đất, phần của mình Sua bán lấy thêm vốn đầu tư. Những năm 2011, 2012 mỗi năm Sua kiếm lãi được chừng vài ba trăm triệu, giỏi hơn người chú là thầy dạy đã lăn lộn trên thị trường thời gian kinh nghiệm gấp đôi Sua. Đến giờ, chú của Sua vẫn chưa ăn được đồng nào của thị trường, không những thế, còn nướng thêm.
 
-- Cú đêm, hơn ba giờ sáng rồi kìa.
+\- Cú đêm, hơn ba giờ sáng rồi kìa.
 
-- Em vừa dậy chốt lệnh, ngủ liền nè.
+\- Em vừa dậy chốt lệnh, ngủ liền nè.
 
 Bảy giờ sáng đã thấy Sua hò hét trên diễn đàn. Cô gái không ngại ngần công khai lệnh lỗ. Diễn đàn năm trăm thành viên kết nối với nhau hòng giảm bớt thương đau. Sua không bị tâm lý bầy đàn, chỉ tin vào cảm nhận của chính mình. Làm theo ý mình có chết cũng không trách được ai.
 
-- Vào lệnh liên tục vậy say sóng đấy.
+\- Vào lệnh liên tục vậy say sóng đấy.
 
-- Em lại kẹt rồi anh ơi. Nhìn đồ thị mười phút mà không vào một lệnh nào em không chịu được.
+\- Em lại kẹt rồi anh ơi. Nhìn đồ thị mười phút mà không vào một lệnh nào em không chịu được.
 
-- Tắt máy tính đi.
+\- Tắt máy tính đi.
 
-- Không tắt được, công việc em phải làm trên máy mà.
+\- Không tắt được, công việc em phải làm trên máy mà.
 
 Đêm qua Sua vào một lệnh bán, vừa mở cửa thị trường giá tăng vọt, không kịp cắt lệnh.
 
-- Em nên học phân tích kỹ thuật một cách bài bản đi. Chơi ào ào vậy không ổn đâu.
+\- Em nên học phân tích kỹ thuật một cách bài bản đi. Chơi ào ào vậy không ổn đâu.
 
-- Phân tích kỹ thuật mà thắng được thì cả thế giới này người ta bỏ hết nghề để đi trade cho giàu rồi.
+\- Phân tích kỹ thuật mà thắng được thì cả thế giới này người ta bỏ hết nghề để đi trade cho giàu rồi.
 
-- Em phải cài lệnh cắt lỗ để bảo vệ tài khoản. Phải tập luyện cho nó thành phản xạ.
+\- Em phải cài lệnh cắt lỗ để bảo vệ tài khoản. Phải tập luyện cho nó thành phản xạ.
 
-- Anh có tuân thủ được vậy không?
+\- Anh có tuân thủ được vậy không?
 
-- Anh đang cố gắng. Anh em mình cùng nhắc nhau thực hiện.
+\- Anh đang cố gắng. Anh em mình cùng nhắc nhau thực hiện.
 
-- Lỗ lệnh này mất ngang cả tháng lương, coi như tháng này đi làm không công vậy. Hên nhờ rủi chịu.
+\- Lỗ lệnh này mất ngang cả tháng lương, coi như tháng này đi làm không công vậy. Hên nhờ rủi chịu.
 
-- Sao hên mãi được. Em phải có kế hoạch quản lý vốn.
+\- Sao hên mãi được. Em phải có kế hoạch quản lý vốn.
 
-- Xong nốt lệnh này em nghe anh.
+\- Xong nốt lệnh này em nghe anh.
 
 Một buổi sáng không thấy Sua online, chiều em nhắn đã cưới chồng. Một buổi sáng như thế vào hai năm sau, em lại nhắn sáng nay vừa ly hôn.
 
-- Cứ ì ra không chịu ký thì chúng nó cũng chẳng làm gì được em, nhưng nhục lắm anh. Bồ nó sắp sinh con đến nơi rồi mình mới biết.
+\- Cứ ì ra không chịu ký thì chúng nó cũng chẳng làm gì được em, nhưng nhục lắm anh. Bồ nó sắp sinh con đến nơi rồi mình mới biết.
 
-- Có phải vì em đắm đuối vào vàng quá mà thành ra thế?
+\- Có phải vì em đắm đuối vào vàng quá mà thành ra thế?
 
-- Em không biết nữa. Anh ấy ruồng bỏ mẹ con em. Anh ơi, có phải đời em đã mắc sai lầm lớn nhất?
+\- Em không biết nữa. Anh ấy ruồng bỏ mẹ con em. Anh ơi, có phải đời em đã mắc sai lầm lớn nhất?
 
 ***
 
@@ -81,87 +81,87 @@ Một vài sàn có chính sách khuyến mại. Nộp tiền vào chơi sẽ đ
 Tôi đã hèn rồi mà tiền vẫn cứ trôi tuột.
 
 ***
-- Em gặp chuyện lớn.
+\- Em gặp chuyện lớn.
 
-- Anh nghe.
+\- Anh nghe.
 
-- Sếp em bị sờ gáy. Ổng mượn hết lời lãi vốn liếng của em bao năm để lo việc.
+\- Sếp em bị sờ gáy. Ổng mượn hết lời lãi vốn liếng của em bao năm để lo việc.
 
-- Sao em phải có trách nhiệm đó?
+\- Sao em phải có trách nhiệm đó?
 
-- Ổng là bạn tốt của bố em ngày xưa. Không giúp có khi ổng đi tù.
+\- Ổng là bạn tốt của bố em ngày xưa. Không giúp có khi ổng đi tù.
 
-- Em lo không lấy lại được à?
+\- Em lo không lấy lại được à?
 
-- Không, em lo chuyện khác. Vốn nhỏ em khó giao dịch lắm, rất căng thẳng, mất hoài.
+\- Không, em lo chuyện khác. Vốn nhỏ em khó giao dịch lắm, rất căng thẳng, mất hoài.
 
-- Em tạm nghỉ đi.
+\- Em tạm nghỉ đi.
 
-- Em không nghỉ được. Chẳng biết bao giờ người ta mới đưa tiền cho mình.
+\- Em không nghỉ được. Chẳng biết bao giờ người ta mới đưa tiền cho mình.
 
-- Em chơi credit không?
+\- Em chơi credit không?
 
-- Là sao anh?
+\- Là sao anh?
 
-- Sàn cho mình mượn tiền trade, cuối tuần tổng kết, lãi mình lấy còn lỗ phải bù vào. Chỉ vậy thôi, không có điều kiện gì hết. Anh quen chủ sàn, có thể bảo lãnh cho em.
+\- Sàn cho mình mượn tiền trade, cuối tuần tổng kết, lãi mình lấy còn lỗ phải bù vào. Chỉ vậy thôi, không có điều kiện gì hết. Anh quen chủ sàn, có thể bảo lãnh cho em.
 
 Sua nhanh chóng cài phần mềm mới, nhận pass với tài khoản là hai nghìn đô. Biết chắc trader sẽ chết nhưng vì vài phần trăm hoa hồng người môi giới của các sàn sẽ tìm cách khuyến dụ khách đang giãy chết sa bẫy. Tôi lại rước thêm áp lực cho em bằng công thức nhiệt tình cộng ngu dốt.
 
-- Khoản lỗ này anh bao, dừng ở đây nhé.
+\- Khoản lỗ này anh bao, dừng ở đây nhé.
 
-- Hay anh ứng cho em tài khoản mười nghìn.
+\- Hay anh ứng cho em tài khoản mười nghìn.
 
-- Số tiền này lớn, anh không bảo lãnh được, phải có giấy ghi nợ, phiền phức lắm.
+\- Số tiền này lớn, anh không bảo lãnh được, phải có giấy ghi nợ, phiền phức lắm.
 
-- Cùng lắm em gửi cho anh giấy tờ nhà của mẹ.
+\- Cùng lắm em gửi cho anh giấy tờ nhà của mẹ.
 
-- Em điên rồi.
+\- Em điên rồi.
 
-- Em liều, em không điên.
+\- Em liều, em không điên.
 
-- Mất hết thì sao?
+\- Mất hết thì sao?
 
-- Chấp nhận.
+\- Chấp nhận.
 
-- Anh sợ em. Thú tính mạnh quá.
+\- Anh sợ em. Thú tính mạnh quá.
 
-- Em cũng sợ em.
+\- Em cũng sợ em.
 
-- Em bỏ trade đi. Sống vậy còn gì là hạnh phúc.
+\- Em bỏ trade đi. Sống vậy còn gì là hạnh phúc.
 
-- Anh có bỏ được không?
+\- Anh có bỏ được không?
 
-- Anh không.
+\- Anh không.
 
-- Em cũng thế.
+\- Em cũng thế.
 
 Được rồi lại mất. Mất rồi nỗ lực làm lại từ số âm. Ngày này qua tháng khác. Này là chiến lược này là phân tích.
 
 ***
 
-- Em vừa mua vàng.
+\- Em vừa mua vàng.
 
-- Lệnh to không?
+\- Lệnh to không?
 
-- Full luôn. Chỉ cần tăng mười giá là tài khoản nhân đôi. Em sẽ có đủ tiền trả hết cho vụ credit.
+\- Full luôn. Chỉ cần tăng mười giá là tài khoản nhân đôi. Em sẽ có đủ tiền trả hết cho vụ credit.
 
-- Nguy hiểm quá, một tiếng nữa ra tin siêu khủng. Nước Anh đang trưng cầu ý kiến vụ Brexit. Dặn em bao lần rồi, phải né vào lệnh khi tin mạnh sắp ra.
+\- Nguy hiểm quá, một tiếng nữa ra tin siêu khủng. Nước Anh đang trưng cầu ý kiến vụ Brexit. Dặn em bao lần rồi, phải né vào lệnh khi tin mạnh sắp ra.
 
-- Em quên. Giờ sao anh?
+\- Em quên. Giờ sao anh?
 
-- Canh mà thoát luôn chớ sao trăng gì nữa.
+\- Canh mà thoát luôn chớ sao trăng gì nữa.
 
-- Chết em, đang đi công chuyện nè.
+\- Chết em, đang đi công chuyện nè.
 
-- Điện thoại đâu?
+\- Điện thoại đâu?
 
-- Em xóa phần mềm trên điện thoại rồi. Giờ chơi máy bàn thôi.
+\- Em xóa phần mềm trên điện thoại rồi. Giờ chơi máy bàn thôi.
 
-- Sao xóa?
+\- Sao xóa?
 
-- Em không muốn mẹ biết. Hứa với mẹ là bỏ trade mấy lần rồi.
+\- Em không muốn mẹ biết. Hứa với mẹ là bỏ trade mấy lần rồi.
 
-- Không nói nhiều. Về nhanh lên canh lệnh, 45 phút nữa có kết quả.
+\- Không nói nhiều. Về nhanh lên canh lệnh, 45 phút nữa có kết quả.
 
 Ngày 23.6.2016 giá vàng ngay lập tức tăng 80 giá sau khi người dân Anh đồng ý rời khỏi EU, đây là mức tăng giá mạnh nhất của vàng kể từ năm 2008. Sua biến mất sau cuộc nhắn tin. Điện thoại không liên lạc được. Tôi nhắn tin riêng trong hòm thư diễn đàn. Tôi chờ Sua trở lại, kèm theo cái tin nóng đại loại như em đã lại lấy chồng lần hai, kỳ này em giàu to hay bất cứ một việc làm ngu ngốc nào đấy.
 
