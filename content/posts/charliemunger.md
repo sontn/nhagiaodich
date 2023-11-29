@@ -1,5 +1,5 @@
 ---
-title: "Charliemunger dạo chơi ở thế giới khác"
+title: "Charlie Munger dạo chơi ở thế giới khác"
 date: 2023-11-29T09:22:42+07:00
 draft: false
 cover:
