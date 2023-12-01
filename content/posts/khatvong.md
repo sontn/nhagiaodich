@@ -23,7 +23,7 @@ _Hãy sống như đồi núi vươn tới những tầm cao_
 
 _Hãy sống như biển trào, như biển trào để thấy bờ bến rộng_
 
-_Hãy sống như ước vọng để thấy đời mênh mông_
+_Hãy sống và ước vọng để thấy đời mênh mông_
 
 _Và sao không là gió, là mây để thấy trời bao la_
 
