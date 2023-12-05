@@ -1,6 +1,7 @@
 ---
 title: "Công thức thành công của Trader"
 date: 2023-08-17T10:27:22+07:00
+author: NhaGiaoDich
 draft: false
 cover:
     image: 'img/congthuctrader/succeed.jpg'

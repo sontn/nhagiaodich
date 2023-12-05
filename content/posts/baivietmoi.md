@@ -1,6 +1,7 @@
 ---
 title: "Giới thiệu về Giao dịch"
 date: 2023-08-21T15:32:39+07:00
+author: NhaGiaoDich
 draft: false
 cover:
     image: 'img/baivietmoi/coffee.jpg'

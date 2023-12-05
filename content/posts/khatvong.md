@@ -1,6 +1,7 @@
 ---
 title: "Khát vọng"
 date: 2023-12-01T09:46:42+07:00
+author: NhaGiaoDich
 draft: false
 cover:
     image: 'img/khatvong/khatvong.jpg'

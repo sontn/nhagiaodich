@@ -2,6 +2,7 @@
 title: "Trading thành thạo là như thế nào"
 date: 2023-11-23T10:20:18+07:00
 draft: false
+author: NhaGiaoDich
 cover:
     image: 'img/thanhthao/thanhthao.png'
     alt: 'Nhà Giao Dịch'

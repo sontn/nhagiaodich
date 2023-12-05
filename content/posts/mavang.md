@@ -2,6 +2,7 @@
 title: "Ma vàng"
 date: 2023-11-24T10:20:18+07:00
 draft: false
+author: NhaGiaoDich
 cover:
     image: 'img/mavang/mavang.jpg'
     alt: 'Nhà Giao Dịch'

@@ -2,6 +2,7 @@
 title: "5 giai đoạn để trở thành trader có lợi nhuận ổn định"
 date: 2023-08-24T10:20:18+07:00
 draft: false
+author: NhaGiaoDich
 cover:
     image: 'img/5buoc/pyramid.png'
     alt: 'Nhà Giao Dịch'
