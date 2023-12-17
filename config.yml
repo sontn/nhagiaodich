@@ -2,7 +2,7 @@ baseURL: "https://nhagiaodich.com"
 languageCode: en-us
 title: Nhà Giao Dịch
 theme: PaperMod
-paginate: 10
+paginate: 12
 
 params:
   env: production
