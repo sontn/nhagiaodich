@@ -13,8 +13,8 @@ params:
   disqusShortname: nhagiaodich1
   comments: true
   meta:
-    favicon: true
-    svg: true
+    favicon: false
+    svg: false
     faviconVersion: "1"
 
   socialIcons:
