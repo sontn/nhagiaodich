@@ -12,6 +12,10 @@ params:
 
   disqusShortname: nhagiaodich1
   comments: true
+  meta:
+    favicon: true
+    svg: true
+    faviconVersion: "1"
 
   socialIcons:
     - name: twitter
