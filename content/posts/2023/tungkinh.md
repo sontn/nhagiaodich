@@ -13,6 +13,14 @@ categories: ["trading"]
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+Persist until you succeed
+
+Persist until you succeed
+
+Persist until you succeed
+
+Persist until you succeed
+
 Risk first, reward later
 
 Risk first, reward later
