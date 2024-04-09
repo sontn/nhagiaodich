@@ -21,6 +21,14 @@ Persist until you succeed
 
 Persist until you succeed
 
+Persist until you succeed
+
+Persist until you succeed
+
+Persist until you succeed
+
+Persist until you succeed
+
 Risk first, reward later
 
 Risk first, reward later
