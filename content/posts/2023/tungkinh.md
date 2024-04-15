@@ -3740,3 +3740,27 @@ I am a positive trader
 I am a positive trader
 
 I am a positive trader
+
+I am a disciplined trader
+
+I am a disciplined trader
+
+I am a disciplined trader
+
+I am a disciplined trader
+
+I am a disciplined trader
+
+I am a disciplined trader
+
+I am a disciplined trader
+
+I am a disciplined trader
+
+I am a disciplined trader
+
+I am a disciplined trader
+
+I am a disciplined trader
+
+I am a disciplined trader
