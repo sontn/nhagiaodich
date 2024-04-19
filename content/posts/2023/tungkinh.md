@@ -3824,3 +3824,21 @@ I am a confident trader
 I am a confident trader
 
 I am a confident trader
+
+I am a confident trader
+
+Build up your confidence
+
+Build up your confidence
+
+Build up your confidence
+
+Build up your confidence
+
+Build up your confidence
+
+Build up your confidence
+
+Build up your confidence
+
+Build up your confidence
