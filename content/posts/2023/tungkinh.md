@@ -25,6 +25,22 @@ I am a confident trader
 
 I am a confident trader
 
+I am a confident trader
+
+I am a congident trader
+
+I am a confident trader
+
+I am a confident trader
+
+I am a confident trader
+
+I am a confident trader
+
+I am a confident trader
+
+I am a confident trader
+
 I am a patient trader
 
 I am a patient trader
