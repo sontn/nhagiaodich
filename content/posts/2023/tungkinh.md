@@ -3982,3 +3982,25 @@ Persist until you succeed
 Persist until you succeed
 
 Persist until you succeed
+
+I am a consistently profitable trader
+
+I am a consistently profitable trader
+
+I am a consistently profitable trader
+
+I am a consistently profitable trader
+
+I am a consistently profitable trader
+
+I am a consistently profitable trader
+
+I am a consistently profitable trader
+
+I am a consistently profitable trader
+
+I am a consistently profitable trader
+
+I am a consistenlty profitable trader
+
+I am a consistently profitable trader
