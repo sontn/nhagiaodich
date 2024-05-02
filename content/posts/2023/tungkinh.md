@@ -4054,3 +4054,25 @@ I am a consistently profitable trader
 I am a consistenlty profitable trader
 
 I am a consistently profitable trader
+
+Persist until you succeed
+
+Persist until you succeed
+
+Persist until you succeed
+
+Persist until you succeed
+
+Persist until you succeed
+
+I am a patient trader
+
+I am a patient trader
+
+I am a patient trader
+
+I am a patient trader
+
+I am a patient trader
+
+I am a patient trader
