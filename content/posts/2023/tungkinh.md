@@ -4076,3 +4076,27 @@ I am a patient trader
 I am a patient trader
 
 I am a patient trader
+
+I am a successful trader
+
+I am a successful trader
+
+I am a successful trader
+
+I am a successful trader
+
+I am a successful trader
+
+I am a successful trader
+
+I am a successful trader
+
+I am a successful trader
+
+I am a successful trader
+
+I am a successful trader
+
+I am a succcesful trader
+
+I am a successful trader
