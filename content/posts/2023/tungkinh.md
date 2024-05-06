@@ -4118,3 +4118,27 @@ I am a successful trader
 I am a succcesful trader
 
 I am a successful trader
+
+Persist until you succeed
+
+Persist until you succeed
+
+Persist until you succeed
+
+Persist until you succeed
+
+Persist until you succeed
+
+Persist until you succeed
+
+Persist until you succeed
+
+Persist until you succeed
+
+Persist until you succeed
+
+Persist until you succeed
+
+Persist until you succeed
+
+Persist until you succeed
