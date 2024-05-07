@@ -4142,3 +4142,27 @@ Persist until you succeed
 Persist until you succeed
 
 Persist until you succeed
+
+I am a disciplined trader
+
+I am a disciplined trader
+
+I am a disciplined trader
+
+I am a disciplined trader
+
+I am a disciplined trader
+
+I am a disciplined trader
+
+I am a disciplined trader
+
+I am a disciplined trader
+
+I am a disciplined trader
+
+I am a disciplined trader
+
+I am a disciplined trader
+
+I am a disciplined trader
