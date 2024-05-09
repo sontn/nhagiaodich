@@ -4188,3 +4188,30 @@ Persist until you succeed
 Persist until you succeed
 
 Persist until you succeed
+
+I am a confident trader
+
+I am a confident trader
+
+I am a confident trader
+
+I am a confident trader
+
+I am a confident trader
+
+I am a confident trader
+
+I am a confident trader
+
+I am a confident trader
+
+I am a confident trader
+
+I am a confident trader
+
+I am a confident trader
+
+I am a confident trader
+
+I am a confident trader
+
