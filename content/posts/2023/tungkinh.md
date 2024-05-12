@@ -13,6 +13,10 @@ categories: ["trading"]
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+I am going to build my own position. I persist until it succeeds
+
+I am going to build my own position. I persist until it succeeds
+
 I am going to build my own position. I persist until it succeeds.
 
 I am going to build my own position. I persist until it succeeds.
