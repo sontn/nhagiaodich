@@ -13,6 +13,18 @@ categories: ["trading"]
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+I am a fearless trader
+
+I am a fearless trader
+
+I am a fearless trader
+
+I am a fearless trader
+
+I am a fearleas trader
+
+I am a fearless trader
+
 I am going to build my own position. I persist until it succeeds
 
 I am going to build my own position. I persist until it succeeds
