@@ -21,6 +21,16 @@ I am a fearless trader
 
 I am a fearless trader
 
+I am a fearless trader
+
+I am a fearless trader
+
+I am a fearless trader
+
+I am a fearless trader
+
+I am a fearless trader
+
 I am a fearleas trader
 
 I am a fearless trader
