@@ -303,4 +303,4 @@ Thay vì trì hoãn mọi thứ và rồi cuống cuồng cố gắng bù lại 
 
 Và thay vì tập trung sự chú ý vào kết quả cuối cùng - thường là ngoài tầm kiểm soát của họ - họ tập trung vào quá trình đến đó, vào những nỗ lực của họ và vào những gì họ có thể kiểm soát được.
 
-Rồi, vào cuối mỗi ngày, họ đã đi một bưới nhỏ theo đúng hướng. Và họ chuẩn bị để đi một bước nữa vào ngày hôm sau.
+Rồi, vào cuối mỗi ngày, họ đã đi một bước nhỏ theo đúng hướng. Và họ chuẩn bị để đi một bước nữa vào ngày hôm sau.
