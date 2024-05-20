@@ -13,6 +13,8 @@ categories: ["trading"]
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+Kỷ luật là yếu tố quan trọng nhất đối với một nhà giao dịch
+
 Tôi là nhà giao dịch kỷ luật.
 
 Tôi là nhà giao dịch kỷ luật.
