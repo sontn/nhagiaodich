@@ -4444,3 +4444,27 @@ I am a confident trader
 I am a confident trader
 
 I am a confident trader
+
+Kỷ luật, thích nghi, nhất quán
+
+Kỷ luật, thích nghi, nhất quán
+
+Kỷ luật, thích nghi, nhất quán
+
+Kỷ luật, thích nghi, nhất quán
+
+Kỷ luật, thích nghi, nhất quán
+
+Kỷ luật, thích nghi, nhất quán
+
+Kỷ luật, thích nghi, nhất quán
+
+Kỷ luật, thích nghi, nhất quán
+
+Kỷ luật, thích nghi, nhất quán
+
+Kỷ luật, thích nghi, nhất quán
+
+Kỷ luật, thích nghi, nhất quán
+
+Kỷ luật, thích nghi, nhất quán
