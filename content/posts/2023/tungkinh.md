@@ -13,6 +13,10 @@ categories: ["trading"]
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+Kỷ luật lả yếu tố quan trọng nhất quyết định sự thành bại của trader
+
+Persist until you succeed
+
 Kỷ luật là yếu tố quan trọng nhất đối với một nhà giao dịch
 
 Tôi là nhà giao dịch kỷ luật.
