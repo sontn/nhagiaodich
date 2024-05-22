@@ -8,7 +8,7 @@ cover:
     alt: 'Nhà Giao Dịch'
     caption: 'Nhà Giao Dịch'
 tags: ["tamly"]
-categories: ["trading"]
+categories: ["trading","learning-skills"]
 ---
 Mấy tuần nay tôi phải học một bộ kiến thức mới, phục vụ cho công việc. Những kiến thức mà tôi chưa làm bao giờ. Cách học theo khóa học có một đặc điểm rất dở, nó làm tôi mất thói quen đặt câu hỏi và cứ nhắm mắt làm theo một cách không suy nghĩ và cũng không tư duy. Kết quả là những khóa học học xong thì sau một thời gian ngắn là tôi quên hết kiến thức, như kiểu Trư Bát Giới ăn nhân sâm, nuốt ực một cách xong cũng không biết vị nhân sâm là gì.
 

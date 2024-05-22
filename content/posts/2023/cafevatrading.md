@@ -8,7 +8,7 @@ cover:
     alt: 'Nhà Giao Dịch'
     caption: 'Nhà Giao Dịch'
 tags: ["tamly"]
-categories: ["trading"]
+categories: ["trading", "psychology"]
 ---
 
 Tình cờ khi xem được thông tin về lịch sử Cafe, một đồ uống có tính chất cách mạng, khai phá. Tôi tôi chỉnh ý tưởng này thành một câu quote về  trading như sau:
