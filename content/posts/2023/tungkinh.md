@@ -4472,3 +4472,25 @@ Kỷ luật, thích nghi, nhất quán
 Kỷ luật, thích nghi, nhất quán
 
 Kỷ luật, thích nghi, nhất quán
+
+Persist until you succeed
+
+Persist until you succeed
+
+Persist until you succeed
+
+Persist until you succeed
+
+Persist until you succeed
+
+Persist until you succeed
+
+Persist until you succeed
+
+Persist until you succeed
+
+Persist until you succeed
+
+Persist until you succeed
+
+Persist until you succeed
