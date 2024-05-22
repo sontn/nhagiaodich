@@ -7,7 +7,7 @@ cover:
     image: 'img/dovaden/dovaden.png'
     alt: 'Nhà Giao Dịch'
     caption: 'Nhà Giao Dịch'
-tags: ["tamly"]
+tags: ["tamlygiaodich"]
 categories: ["trading"]
 ---
 

@@ -7,7 +7,7 @@ cover:
     image: 'img/2024/phantichkythuatbangchatgpt4o/phantichkythuatbangchatgpt4o.png'
     alt: 'Nhà Giao Dịch'
     caption: 'Nhà Giao Dịch'
-tags: ["tamly"]
+tags: ["tamlygiaodich"]
 categories: ["trading","technical-analysis"]
 ---
 Cách đây 3 hôm, chatGPT có ra mắt Model mới là ChatGPT 4o có khả năng xử lý được âm thanh, hình ảnh một cách quá ấn tượng. Thế là tôi thử luôn việc dùng chatGPT 4o phân tích đồ thị kỹ thuật ETH. Có 1 vài điểm chatGPT đưa ra chưa chính xác, nhưng về tổng thể thì quá ngon. Tôi copy lại kết quả chat GPT phân tích ở dưới để các bạn tham khảo. Tôi vu vơ nghĩ về tương lai, sau này tôi sẽ vẫn chiến đấu với người chơi trading khác, hay là chiến đấu với AI, hay AI chiến đấu với AI và sẽ không còn bóng dáng con người nào nữa? Thật không thể tưởng tượng được, nhưng mọi thứ đều có thể xảy ra. Và tương lai thực sự bao giờ cũng là bất định.

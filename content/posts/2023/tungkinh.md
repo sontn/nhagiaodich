@@ -7,7 +7,7 @@ cover:
     image: 'img/tungkinh/niemtin.jpg'
     alt: 'Nhà Giao Dịch'
     caption: 'Nhà Giao Dịch'
-tags: ["tamly"]
+tags: ["tamlygiaodich"]
 categories: ["trading"]
 ---
 

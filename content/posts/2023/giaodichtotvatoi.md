@@ -7,7 +7,7 @@ cover:
     image: 'img/giaodichtotvatoi/goodandbad.jpg'
     alt: 'Nhà Giao Dịch'
     caption: 'Nhà Giao Dịch'
-tags: ["tamly"]
+tags: ["tamlygiaodich"]
 categories: ["trading"]
 ---
 

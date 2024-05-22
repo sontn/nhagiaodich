@@ -7,7 +7,7 @@ cover:
     image: 'img/baivietmoi/coffee.jpg'
     alt: 'Nhà Giao Dịch'
     caption: 'Nhà Giao Dịch'
-tags: ["tamly"]
+tags: ["tamlygiaodich"]
 categories: ["trading"]
 ---
 Giao dịch (trading) là hoạt động mua bán tài sản tài chính như cổ phiếu, tiền tệ, hàng hóa, và các sản phẩm tương tự trên thị trường tài chính. Mục tiêu của giao dịch thường là tạo ra lợi nhuận thông qua việc mua vào khi giá thấp và bán ra khi giá cao hơn. Giao dịch có thể thực hiện trên nhiều nền tảng khác nhau, bao gồm cả thị trường truyền thống và thị trường điện tử.

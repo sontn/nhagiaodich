@@ -7,7 +7,7 @@ cover:
     image: 'img/2024/nguoiychi/spirit.jpg'
     alt: 'Nhà Giao Dịch'
     caption: 'Nhà Giao Dịch'
-tags: ["tamly"]
+tags: ["tamlygiaodich"]
 categories: ["trading", "psychology"]
 ---
 

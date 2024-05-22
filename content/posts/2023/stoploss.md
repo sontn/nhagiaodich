@@ -7,7 +7,7 @@ cover:
     image: 'img/baivietmoi/stoploss.jpg'
     alt: 'Nhà Giao Dịch'
     caption: 'Nhà Giao Dịch'
-tags: ["tamly"]
+tags: ["tamlygiaodich"]
 categories: ["trading", "risk-management"]
 ---
 **Stop Loss** là một công cụ quan trọng trong giao dịch forex giúp bảo vệ vốn và quản lý rủi ro. Đây là một cách hiệu quả để ngăn chặn các khoản lỗ lớn và giữ cho tài khoản giao dịch của bạn an toàn.

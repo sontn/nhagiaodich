@@ -7,7 +7,7 @@ cover:
     image: 'img/nhacsitrantien/nhacsitrantien.png'
     alt: 'Nhà Giao Dịch'
     caption: 'Nhà Giao Dịch'
-tags: ["tamly"]
+tags: ["tamlygiaodich"]
 categories: ["trading"]
 ---
 

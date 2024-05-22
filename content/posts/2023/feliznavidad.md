@@ -7,7 +7,7 @@ cover:
     image: 'img/feliznavidad/feliznavidad.png'
     alt: 'Nhà Giao Dịch'
     caption: 'Nhà Giao Dịch'
-tags: ["tamly"]
+tags: ["tamlygiaodich"]
 categories: ["trading"]
 ---
 {{< youtube PvwbBkGasQg >}}

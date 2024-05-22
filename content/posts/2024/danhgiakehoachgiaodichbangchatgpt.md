@@ -7,7 +7,7 @@ cover:
     image: 'img/2024/danhgiakehoachgiaodich/reviewplanwithchatgpt.png'
     alt: 'Nhà Giao Dịch'
     caption: 'Nhà Giao Dịch'
-tags: ["tamly"]
+tags: ["tamlygiaodich"]
 categories: ["trading"]
 ---
 Hôm qua tôi vừa mua gói chatGPT 4o 1 tháng, nên giờ phải sử dụng chatGPT hết công suất, đặt cho nó nhiều câu hỏi càng nhiều càng tốt. Thế là tôi mang Kế hoạch giao dịch của tôi ra để cho chatGPT đánh giá. Thực sự tôi rất vui vì những thông tin phản hồi của chatGPT, vì đó là những thông tin tôi nghĩ là rất khách quan, chỉ ra những ưu điểm và những điểm tôi cần phải cải thiện. Để có đánh giá này nếu như trong mấy năm trước, tôi sẽ phải tìm mỏi mắt những trader thật sự có năng lực và lòng tốt để giúp tôi làm được việc này, việc này sẽ khó như lên trời! Còn giờ thì quá ư là đơn giản! Như vậy sau khi để chatGPT 4o đánh giá xong, chỉ còn việc quan trọng nhất phải làm, đó là kiên trì thực hiện cho đến khi thành công, vì cách thức và phương pháp tiếp cận của tôi đã đúng hướng rồi. Chỉ có mỗi một việc cắm mặt vào mà làm. Và chỉ có đơn giản như vậy thôi.

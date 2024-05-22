@@ -7,7 +7,7 @@ cover:
     image: 'img/khatvong/khatvong.jpg'
     alt: 'Nhà Giao Dịch'
     caption: 'Nhà Giao Dịch'
-tags: ["tamly"]
+tags: ["tamlygiaodich"]
 categories: ["trading"]
 ---
 Tâm lý trong trading là trở ngại lớn nhất. Đó là bởi vì trader nghĩ quá nhiều về  ham muốn tiền bạc. Nếu bỏ qua được ham muốn này và tiếp cận với một góc nhìn khác, thuận theo quy luật tự nhiên, trời đất thì mọi việc sẽ đơn giản và dễ  dàng hơn rất nhiều.

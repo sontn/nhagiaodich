@@ -7,7 +7,7 @@ cover:
     image: 'img/charliemunger/charliemunger.jpg'
     alt: 'Nhà Giao Dịch'
     caption: 'Nhà Giao Dịch'
-tags: ["tamly"]
+tags: ["tamlygiaodich"]
 categories: ["trading"]
 ---
 

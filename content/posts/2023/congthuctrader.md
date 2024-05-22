@@ -7,7 +7,7 @@ cover:
     image: 'img/congthuctrader/succeed.jpg'
     alt: 'Nhà Giao Dịch'
     caption: 'Nhà Giao Dịch'
-tags: ["giaodich", "tamly"]
+tags: ["giaodich", "tamlygiaodich"]
 categories: ["trading"]
 ---
 

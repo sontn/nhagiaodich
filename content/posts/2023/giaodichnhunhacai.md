@@ -7,7 +7,7 @@ cover:
     image: '/img/giaodichnhunhacai/las-vegas-casinos.jpg'
     alt: 'Nhà Giao Dịch'
     caption: 'Nhà Giao Dịch'
-tags: ["giaodich", "tamly"]
+tags: ["giaodich", "tamlygiaodich"]
 categories: ["trading"]
 ---
 > "**_Không có cách gì đánh bại trò chơi Roulette, trừ khi bạn ăn cắp tiền của nó." Albert Einstein_**.

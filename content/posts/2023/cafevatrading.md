@@ -7,7 +7,7 @@ cover:
     image: 'img/cafevatrading/cafevatrading.png'
     alt: 'Nhà Giao Dịch'
     caption: 'Nhà Giao Dịch'
-tags: ["tamly"]
+tags: ["tamlygiaodich"]
 categories: ["trading", "psychology"]
 ---
 

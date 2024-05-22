@@ -7,7 +7,7 @@ cover:
     image: 'img/2024/chongemlatrader/husband.png'
     alt: 'Nhà Giao Dịch'
     caption: 'Nhà Giao Dịch'
-tags: ["tamly"]
+tags: ["tamlygiaodich"]
 categories: ["trading"]
 ---
 

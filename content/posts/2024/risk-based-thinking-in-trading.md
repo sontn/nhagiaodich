@@ -7,7 +7,7 @@ cover:
   image: "img/2024/riskbasedthinking/risktrading.png"
   alt: "Nhà Giao Dịch"
   caption: "Nhà Giao Dịch"
-tags: ["tamly"]
+tags: ["tamlygiaodich"]
 categories: ["trading", "risk-management"]
 ---
 

@@ -7,7 +7,7 @@ cover:
     image: 'img/2024/tukyamthi/psychology.jpg'
     alt: 'Nhà Giao Dịch'
     caption: 'Nhà Giao Dịch'
-tags: ["tamly"]
+tags: ["tamlygiaodich"]
 categories: ["trading", "psychology"]
 ---
 Thí nghiệm tâm lý bằng bàn tay cao su cho thấy não bộ con người rất dễ bị đánh lừa bởi thị giác, và đã cho tôi mở mắt tại sao tâm lý lại thực sự chiếm trọng số 80-90% trong sự quyết định thành công của trading, thay vì các kỹ năng về phân tích đồ thị, quản trị vốn. Hãy xem video ngắn ở dưới để hiểu tại sao lại như vậy, dưới góc độ thí nghiệm khoa học nghiêm túc. Như vậy, ở góc độ tích cực, việc sử dụng phương pháp tự kỷ ám thị hợp lý sẽ cải thiện tâm lý giao dịch, từ đó quyết định vào thành công của việc trading. Ở góc độ không tích cực, việc nhận thức sai bản chất trading như không có hiểu biết về xác suất, không có phương pháp, vào lệnh cầu may, tham lam, sợ hãi... sẽ tạo tâm lý không phù hợp cho trader và từ đó sẽ hủy diệt hết tài khoản này đến tài khoản nọ.
