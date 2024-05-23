@@ -17,6 +17,12 @@ params:
     svg: false
     faviconVersion: "1"
 
+sitemap:
+  changeFreq: ""
+  disable: false
+  filename: sitemap.xml
+  priority: -1
+
   socialIcons:
     - name: twitter
       url: "https://twitter.com/nhagiaodich_com"
