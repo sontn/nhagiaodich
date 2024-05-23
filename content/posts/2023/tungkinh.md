@@ -13,6 +13,14 @@ categories: ["trading"]
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+Long term not short term
+
+Long term not short term
+
+Long term not short term
+
+Long term not short term
+
 Kỷ luật lả yếu tố quan trọng nhất quyết định sự thành bại của trader
 
 Persist until you succeed
