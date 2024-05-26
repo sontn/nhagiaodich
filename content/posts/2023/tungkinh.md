@@ -25,6 +25,8 @@ I am a consistently profitable trader
 
 I am a consistently profitable trader
 
+I am a consistently profitable trader
+
 Long term not short term
 
 Long term not short term
