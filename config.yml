@@ -17,12 +17,6 @@ params:
     svg: false
     faviconVersion: "1"
 
-sitemap:
-  changeFreq: ""
-  disable: false
-  filename: sitemap.xml
-  priority: -1
-
   socialIcons:
     - name: twitter
       url: "https://twitter.com/nhagiaodich_com"
@@ -34,6 +28,12 @@ sitemap:
       url: "https://www.youtube.com/@nhagiaodich_com"
     - name: email
       url: "mailto:nhagiaodichfx@gmail.com"
+
+sitemap:
+  changeFreq: ""
+  disable: false
+  filename: sitemap.xml
+  priority: -1
 
 outputs:
     home:
