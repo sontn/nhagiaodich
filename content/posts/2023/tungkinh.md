@@ -4558,3 +4558,35 @@ Persist until you succeed
 Persist until you succeed
 
 Persist until you succeed
+
+I am a patient trader
+
+I am a patient trader
+
+I am a patient trader
+
+I am a patient trader
+
+I am a patient trader
+
+I am a patient trader
+
+I am a patient trader
+
+I am a patient trader
+
+I am a patient trader
+
+I am a patient trader
+
+I am a patient trader
+
+I am a patient trader
+
+I am a patient trader
+
+I am a patient trader
+
+I am a patient trader
+
+I am a patient trader
