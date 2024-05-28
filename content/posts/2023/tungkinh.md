@@ -15,6 +15,16 @@ categories: ["trading"]
 
 I am a consistently profitable trader
 
+I am a disciplined trader
+
+I am a disciplined trader
+
+I am a disciplined trader
+
+I am a disciplined trader
+
+I am a disciplined trader
+
 Trading edge
 
 Trading edge
