@@ -33,6 +33,16 @@ I am a disciplined trader
 
 I am a disciplined trader
 
+I am a disciplined trader
+
+I am a disciplined trader
+
+I am a disciplined trader
+
+I am a disciplined trader
+
+I am a disciplined trader
+
 Trading edge
 
 Trading edge
