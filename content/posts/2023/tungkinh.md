@@ -15,6 +15,14 @@ categories: ["trading"]
 
 I am a consistently profitable trader
 
+I already have a trading edge
+
+I already have a trading edge
+
+I already have a trading edge
+
+I already have a trading edge
+
 I am a confident trader
 
 I am a confident trader
