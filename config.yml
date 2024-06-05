@@ -18,6 +18,8 @@ params:
     faviconVersion: "1"
 
   socialIcons:
+    - name: other
+      url: "https://one.exnesstrack.net/a/s0cxkwr4tg?platform=mobile&pid=mobile_share"
     - name: twitter
       url: "https://twitter.com/nhagiaodich_com"
     - name: tiktok
