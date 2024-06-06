@@ -15,6 +15,16 @@ categories: ["trading"]
 
 I am a consistently profitable trader
 
+I am a constant learner
+
+I am a constant learner
+
+I am a constant learner
+
+I am a constant learner
+
+I am a constant learner
+
 I already have a trading edge
 
 I already have a trading edge
