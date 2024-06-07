@@ -4756,3 +4756,5 @@ I already have a trading edge
 I already have a trading edge
 
 I already have a trading edge
+
+I am a consistantly profitable trader
