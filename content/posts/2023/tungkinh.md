@@ -15,6 +15,12 @@ categories: ["trading"]
 
 I am a consistently profitable trader
 
+I am a consistently profitable trader
+
+I am a consistently profitable trader
+
+I am a consistently profitable trader
+
 I am a profitable trader
 
 I am a consistantly profitable trader
