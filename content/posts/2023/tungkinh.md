@@ -15,6 +15,8 @@ categories: ["trading"]
 
 Mỗi ngày tôi cố gắng thêm một ít. 
 
+Mỗi ngày tôi cố gắng thêm một chút ít. 
+
 I am a consistently profitable trader
 
 I am a consistently profitable trader
