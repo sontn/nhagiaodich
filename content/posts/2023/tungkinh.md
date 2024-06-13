@@ -13,6 +13,18 @@ categories: ["trading"]
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+I am a confident trader
+
+I am a confident trader
+
+I am a congident trader
+
+I am a confident trader
+
+I am a confident trader
+
+I am a confident trader
+
 I am a disciplined trader. 
 
 I am a disciplined trader
