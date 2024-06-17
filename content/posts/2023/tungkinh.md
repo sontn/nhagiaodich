@@ -4912,3 +4912,26 @@ I am a consistantly profitable trader
 
 I am a consistantly profitable trader
 
+I am a consistantly profitable trader
+
+I am a consistantly profitable trader
+
+I am a consistantly profitable trader
+
+I am a consistantly profitable trader
+
+I am a consistantly profitable trader
+
+I am a consistantly profitable trader
+
+I am a consistantly profitable trader
+
+I am a consistantly profitable trader
+
+I am a consistantly profitable trader
+
+I am a consistantly profitable trader
+
+I am a consistantly profitable trader
+
+I am a consistantly profitable trader
