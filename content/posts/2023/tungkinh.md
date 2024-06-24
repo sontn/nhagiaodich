@@ -5001,3 +5001,23 @@ I am a consistantly profitable trader
 I am a consistantly profitable trader
 
 I am a consistantly profitable trader
+
+Persist until I succeed
+
+Persist until I succeed
+
+Persist until I succeed
+
+Persist until I succeed
+
+Persist until I succeed
+
+Persist until I succeed
+
+Persist until I succeed
+
+Persist until I succeed
+
+Persist until I succeed
+
+Persist until I succeed
