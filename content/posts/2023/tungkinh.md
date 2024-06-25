@@ -13,6 +13,8 @@ categories: ["trading"]
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+Persist until succeed
+
 Persist until I succceed
 
 I am a confident trader
