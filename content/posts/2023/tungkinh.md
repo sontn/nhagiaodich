@@ -13,6 +13,26 @@ categories: ["trading"]
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+Confidence
+
+Confidence
+
+Confidence
+
+Confidence
+
+Confidence
+
+Confidence
+
+Confidence
+
+Confidence
+
+Confidence
+
+Confidence
+
 Trading is a business model
 
 Trading is a business model
