@@ -13,6 +13,18 @@ categories: ["trading"]
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+Probability
+
+Thinking in probability
+
+Thinking in probability
+
+Thinking in probability
+
+Thinking in probability
+
+Thinking in probability
+
 Confidence
 
 Confidence
