@@ -13,6 +13,18 @@ categories: ["trading"]
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+In the zone
+
+In the zone
+
+In the zone
+
+In the zone
+
+In the zone
+
+In the zone
+
 Probability
 
 Thinking in probability
