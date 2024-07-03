@@ -13,6 +13,18 @@ categories: ["trading"]
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+Trading is my business
+
+Trading is my own business
+
+Trading is my own business
+
+Trading is my own business
+
+Trading is my own business
+
+Trading is my own business
+
 I am a confident trader
 
 I am a confident trader
