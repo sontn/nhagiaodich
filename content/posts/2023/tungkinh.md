@@ -23,6 +23,16 @@ I am a consistently profitable trader
 
 I am a consistently profitable trader
 
+I am a consistently profitable trader
+
+I am a consistently profitable trader
+
+I am a consistently profitable trader
+
+I am a consistently profitable trader
+
+I am a consistently profitable trader
+
 I am a confident trader
 
 I am a confident trader
