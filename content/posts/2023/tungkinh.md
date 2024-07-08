@@ -13,6 +13,16 @@ categories: ["trading"]
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+Mời phiền não ra khỏi não
+
+Mời phiền não ra khỏi não
+
+Mời phiền não ra khỏi não
+
+Mời phiền não ra khỏi não
+
+Mời phiền não ra khỏi não
+
 I am a consistently profitable trader
 
 I am a consistently profitable trader
