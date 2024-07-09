@@ -13,6 +13,14 @@ categories: ["trading"]
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+Thả lỏng, không cương cứng
+
+Thả lỏng, không cương cứng
+
+Thả lỏng, không cương cứng
+
+Thả lỏng, không cương cứng
+
 Mời phiền não ra khỏi não
 
 Mời phiền não ra khỏi não
