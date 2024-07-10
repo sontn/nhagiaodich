@@ -15,6 +15,16 @@ categories: ['trading']
 
 Thả lỏng, không cương cứng
 
+Đừng lo lắng về tương lai quá vì tương lai là bất định
+
+Đừng lo lắng về tương lai quá vì tương lai là bất định
+
+Hãy sống ở hiện tại
+
+Hãy sống ở hiện tại
+
+Thả lỏng, không cương cứng
+
 Thả lỏng, không cương cứng
 
 Thả lỏng, không cương cứng
