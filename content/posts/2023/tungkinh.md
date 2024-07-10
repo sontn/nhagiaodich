@@ -1,14 +1,14 @@
 ---
-title: "Tụng kinh"
+title: 'Tụng kinh'
 date: 2023-08-17T10:27:22+07:00
 draft: false
 author: NhaGiaoDich
 cover:
-    image: 'img/tungkinh/niemtin.jpg'
-    alt: 'Nhà Giao Dịch'
-    caption: 'Nhà Giao Dịch'
-tags: ["tamlygiaodich"]
-categories: ["trading"]
+  image: 'img/tungkinh/niemtin.jpg'
+  alt: 'Nhà Giao Dịch'
+  caption: 'Nhà Giao Dịch'
+tags: ['tamlygiaodich']
+categories: ['trading']
 ---
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
@@ -245,7 +245,7 @@ I am a confident trader
 
 I am a confident trader
 
-I am a disciplined trader. 
+I am a disciplined trader.
 
 I am a disciplined trader
 
@@ -257,9 +257,9 @@ I am a disciplined trader
 
 I am a consistently profitable trader
 
-Mỗi ngày tôi cố gắng thêm một ít. 
+Mỗi ngày tôi cố gắng thêm một ít.
 
-Mỗi ngày tôi cố gắng thêm một chút ít. 
+Mỗi ngày tôi cố gắng thêm một chút ít.
 
 I am a consistently profitable trader
 
@@ -5071,7 +5071,6 @@ I am a consistantly profitable trader
 
 I am a consistantly profitable trader
 
-
 I am a consistantly profitable trader
 
 I am a consistantly profitable trader
@@ -5369,3 +5368,25 @@ Tôi là nhà giao dịch có lợi nhuận ổn định
 Tôi là nhà giao dịch có lợi nhuận ổn định
 
 Tôi là nhà giao dịch có lợi nhuận ổn định
+
+Thả lỏng, không cương cứng
+
+Thả lỏng, không cương cứng
+
+Thả lỏng, không cương cứng
+
+Thả lỏng, không cương cứng
+
+Thả lỏng, không cương cứng
+
+Thả lỏng, không cương cứng
+
+Thả lỏng, không cương cứng
+
+Thả lỏng, không cương cứng
+
+Thả lỏng, không cương cứng
+
+Thả lỏng, không cương cứng
+
+Thả lỏng, không cương cứng
