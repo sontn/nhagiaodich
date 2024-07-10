@@ -119,11 +119,12 @@ Trong giao dịch, các nhà giao dịch có thể học hỏi và áp dụng nh
 - **Tính toán và chiến lược**:
 
   - **Phẩm chất của cá sấu**: Cá sấu chỉ tấn công khi cơ hội đến gần, đảm bảo thành công cao nhất với mức năng lượng tối thiểu.
-    Áp dụng trong giao dịch: Nhà giao dịch cần có chiến lược rõ ràng, biết khi nào nên vào lệnh và khi nào nên thoát lệnh để tối đa hóa lợi nhuận và giảm thiểu rủi ro.
-    Tiết kiệm năng lượng:
+  - **Áp dụng trong giao dịch**: Nhà giao dịch cần có chiến lược rõ ràng, biết khi nào nên vào lệnh và khi nào nên thoát lệnh để tối đa hóa lợi nhuận và giảm thiểu rủi ro.
+
+- **Tiết kiệm năng lượng**:
 
   - **Phẩm chất của cá sấu**: Cá sấu biết cách tiết kiệm năng lượng cho những lúc cần thiết.
-    Áp dụng trong giao dịch: Nhà giao dịch nên quản lý tài nguyên và vốn của mình một cách hợp lý, không nên đầu tư quá nhiều vào những lệnh không chắc chắn.
+  - **Áp dụng trong giao dịch**: Nhà giao dịch nên quản lý tài nguyên và vốn của mình một cách hợp lý, không nên đầu tư quá nhiều vào những lệnh không chắc chắn.
 
 - **Phản ứng nhanh và quyết đoán**:
 
