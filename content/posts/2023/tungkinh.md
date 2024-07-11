@@ -5400,3 +5400,13 @@ Thả lỏng, không cương cứng
 Thả lỏng, không cương cứng
 
 Thả lỏng, không cương cứng
+
+Đừng lo lắng quá về tương lai, cũng đừng hối tiếc quá khứ. Hãy sống trong hiện tại
+
+Đừng lo lắng quá về tương lại, cũng đừng hối tiếc quá khứ. Hãy sống trong hiện tại
+
+Đừng lo lắng quá về tương lai, cũng đừng hối tiếc quá khứ. Hãy sống trong hiện tại.
+
+Đừng lo lắng quá về tương lai, cũng đừng hối tiếc quá khứ đã qua. Hãy sống trong hiện tại.
+
+Đừng lo lắng quá về tương lai, cũng đừng hối tiếc quá khứ đã qua. Hãy sống trong hiện tại.
