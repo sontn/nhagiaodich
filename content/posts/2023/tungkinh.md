@@ -13,6 +13,8 @@ categories: ['trading']
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+I am a consistently profitable trader
+
 Mỗi ngày tôi cố gắng hơn ngày hôm qua một chút, dù chỉ là một chút thôi.
 
 Thả lỏng, không cương cứng
