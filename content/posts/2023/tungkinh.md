@@ -31,6 +31,12 @@ I am a consistently profitable trader
 
 I am a consistently profitable trader
 
+I am a consistently profitable trader
+
+I am a consistently profitable trader
+
+I am a consistently profitable trader
+
 Mỗi ngày tôi cố gắng hơn ngày hôm qua một chút, dù chỉ là một chút thôi.
 
 Thả lỏng, không cương cứng
