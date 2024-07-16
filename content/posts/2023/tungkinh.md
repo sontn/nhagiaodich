@@ -13,6 +13,18 @@ categories: ['trading']
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+Persist until I succeed
+
+Persist until I succeed
+
+Persist until I succeed
+
+Persist until I succeed
+
+Persist until I succeed
+
+Persist until I succeed
+
 I am a consistently profitable trader
 
 I am a consistently profitable trader
