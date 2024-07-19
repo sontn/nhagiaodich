@@ -19,6 +19,12 @@ I am a consistently profitable trader
 
 I am a consistently profitable trader
 
+I am a consistently profitable trader
+
+I am a consistently profitable trader
+
+I am a consistently profitable trader
+
 Persist until I succeed
 
 Persist until I succeed
