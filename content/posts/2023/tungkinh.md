@@ -5592,3 +5592,27 @@ Trading is my crucial business
 Trading is my crucial business
 
 Trading is my crucial business
+
+I am a disciplined trader
+
+I am a disciplined trader
+
+I am a disciplined trader
+
+I am a disciplined trader
+
+I am a disciplined trader
+
+I am a disciplined trader
+
+I am a disciplined trader
+
+I am a disciplined trader
+
+I am a disciplined trader
+
+I am a disciplined trader
+
+I am a disciplined trader
+
+I am a disciplined trader
