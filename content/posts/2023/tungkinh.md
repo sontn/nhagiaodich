@@ -13,6 +13,10 @@ categories: ['trading']
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+h4/d1 h4/d1 h4/d1 h4/d1 h4/d1 h4/d1 
+
+d1/h4 d1/h4 d1/h4 d1/h4
+
 I am a consistently profitable trader
 
 I am a consistently profitable trader
