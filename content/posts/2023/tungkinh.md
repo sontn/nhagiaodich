@@ -5796,3 +5796,25 @@ I am a disciplined trader
 I am a disciplined trader
 
 I am a disciplined trader
+
+Trading is my crucial business
+
+Trading is my crucial business
+
+Trading is my crucial business
+
+Trading is my crucial business
+
+Trading is my crucial business
+
+Trading is my crucial business
+
+Trading is my crucial business
+
+Trading is my crucial business
+
+Trading is my crucial business
+
+Trading is my crucial business
+
+Trading is my crucial business
