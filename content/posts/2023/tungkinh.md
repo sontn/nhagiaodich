@@ -5824,3 +5824,23 @@ Trading is my crucial business
 Trading is my crucial business
 
 Trading is my crucial business
+
+Tôi cần kiên nhẫn hơn với những lỗi sai của mình
+
+Tôi cần kiên nhẫn hơn với những lỗi sai của mình
+
+Tôi cần kiên nhẫn hơn với những lỗi sai của mình
+
+Tôi cần kiên nhẫn hơn với những lỗi sai của mình
+
+Tôi cần kiên nhẫn hơn với những lỗi sai của mình
+
+Tôi cần kiên nhẫn hơn với những lỗi sai của mình
+
+Tôi cần kiên nhẫn hơn với những lỗi sai của mình
+
+Tôi cần kiên nhẫn hơn với những lối sai của mình
+
+Tôi cần kiên nhẫn hơn với những lối sai của mình
+
+Tôi cần kiên nhẫn hơn với những lỗi sai của mình
