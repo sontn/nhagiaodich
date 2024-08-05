@@ -5868,3 +5868,25 @@ Tôi cần kiên nhẫn hơn với những lối sai của mình
 Tôi cần kiên nhẫn hơn với những lối sai của mình
 
 Tôi cần kiên nhẫn hơn với những lỗi sai của mình
+
+Trend following
+
+Trend following
+
+Trend following
+
+Trend following
+
+Trend following
+
+Trend following
+
+Trend following
+
+Trend following
+
+Trend following
+
+Trend following
+
+Trend following
