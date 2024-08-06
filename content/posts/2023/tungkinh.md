@@ -21,7 +21,7 @@ I am a consistently profitable trader
 
 I am a consistently profitable trader
 
-I al a consistently profitable trader
+I am a consistently profitable trader
 
 Trend following
 
