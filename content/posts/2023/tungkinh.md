@@ -13,6 +13,12 @@ categories: ['trading']
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+Tôi sẽ kiên trì trading cho đến khi thành công
+
+Tôi sẽ kiên trì trading cho đến khi thành thạo
+
+Tôi sẽ kiên trì trading cho đến khi thành nghề
+
 I am a consistently profitable trader
 
 I am a consistently profitable trader
