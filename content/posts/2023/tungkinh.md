@@ -5992,3 +5992,23 @@ I am a consistently profitable trader
 I am a consistently profitable trader
 
 I am a consistenlty profitable trader
+
+Tôi sẽ kiên trì đến cùng cho đến khi trading thành công
+
+Tôi sẽ kiên trì đến cùng cho đến khi trading thành công
+
+Tôi sẽ kiên trì đến cùng cho đến khi trading thành công
+
+Tôi sẽ kiên trì đến cùng cho đến khi trading thành công
+
+Tôi sẽ kiên trì đến cùng cho đến khi trading thành công
+
+Tôi sẽ kiên trì đến cùng cho đến khi trading thành công
+
+Tôi sẽ kiên trì đến cùng cho đến khi trading thành công
+
+Tôi sẽ kiên trì đến cùng cho đến khi trading thành công
+
+Tôi sẽ kiên trì đến cùng cho đến khi trading thành công
+
+Tôi sẽ kiên trì đến cùng cho đến khi trading thành công
