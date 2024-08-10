@@ -13,6 +13,12 @@ categories: ['trading']
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+Tôi sẽ không bao giờ bỏ cuộc cho đến khi trading thành công
+
+Tôi sẽ không bao giờ bỏ cuộc cho đến khi trading thành công
+
+Tôi sẽ không bao giờ bỏ cuộc cho đến khi trading thành công
+
 Tôi sẽ kiên trì trading cho đến khi thành công
 
 Tôi sẽ kiên trì trading cho đến khi thành thạo
