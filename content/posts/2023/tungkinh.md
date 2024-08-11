@@ -19,6 +19,12 @@ Tôi sẽ không bao giờ bỏ cuộc cho đến khi trading thành công
 
 Tôi sẽ không bao giờ bỏ cuộc cho đến khi trading thành công
 
+Tôi sẽ không bao giờ bỏ cuộc cho đến khi trading thành công
+
+Tôi sẽ không bao giờ bỏ cuộc cho đến khi trading thành công
+
+Tôi sẽ không bao giờ bỏ cuộc cho đến khi trading thành công
+
 Tôi sẽ kiên trì trading cho đến khi thành công
 
 Tôi sẽ kiên trì trading cho đến khi thành thạo
