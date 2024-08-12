@@ -13,6 +13,8 @@ categories: ['trading']
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+Kẻ thù lớn nhất của trader chính là bản thân anh ta
+
 I am a consistently profitable trader
 
 Tôi sẽ không bao giờ bỏ cuộc cho đến khi trading thành công
