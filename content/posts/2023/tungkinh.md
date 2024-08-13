@@ -15,6 +15,8 @@ categories: ['trading']
 
 Kẻ thù lớn nhất của trader chính là bản thân anh ta
 
+Kẻ thù lớn nhất của trader chính là bản thân anh ta
+
 I am a consistently profitable trader
 
 Tôi sẽ không bao giờ bỏ cuộc cho đến khi trading thành công
