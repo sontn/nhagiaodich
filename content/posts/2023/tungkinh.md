@@ -6054,3 +6054,27 @@ Phi trading bất phú
 Phi trading bất phú
 
 Phi trading bất phú
+
+Consistency is a key in trading
+
+Consistency is a key in trading
+
+Consistency is a key in trading
+
+Consistency is a key in trading
+
+Consistency is a key in trading
+
+Consistency is a key in trading
+
+Consistency is a key in trading
+
+Consistency is a key in trading
+
+Consistency is a key in trading
+
+Consistency is a key in trading
+
+Consistency is a key in trading
+
+Consistency is a key in trading
