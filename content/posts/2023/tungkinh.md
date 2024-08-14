@@ -13,6 +13,8 @@ categories: ['trading']
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+Tôi là nhà giao dịch có lợi nhuận ổn định
+
 Kẻ thù lớn nhất của trader chính là bản thân anh ta
 
 Kẻ thù lớn nhất của trader chính là bản thân anh ta
