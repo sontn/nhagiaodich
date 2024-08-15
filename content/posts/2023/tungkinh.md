@@ -15,6 +15,12 @@ categories: ['trading']
 
 Tôi là nhà giao dịch có lợi nhuận ổn định
 
+Tôi là nhà giao dịch có lợi nhuận ổn định
+
+Tôi là nhà giao dịch có lợi nhuận ổn định
+
+Tôi là nhà giao dịch có lợi nhuận ổn định
+
 Kẻ thù lớn nhất của trader chính là bản thân anh ta
 
 Kẻ thù lớn nhất của trader chính là bản thân anh ta
