@@ -6168,3 +6168,23 @@ Tôi là nhà giao dịch có lợi nhuận ổn định
 Tôi là nhà giao dịch có lợi nhuận ổn định
 
 Tôi là nhà giao dịch có lợi nhuận ổn định
+
+Tôi là nhà giao dịch tự tin, có lợi nhuận ổn định
+
+Tôi là nhà giao dịch tự tin, có lợi nhuận ổn định
+
+Tôi là nhà giao dịch tự tin, có lợi nhuận ổn định
+
+Tôi là nhà giao dịch tự tin, có lợi nhuận ổn định
+
+Tôi là nhà giao dịch tự tin, có lợi nhuận ổn định
+
+Tôi là nhà giao dịch tự tin, có lợi nhuận ổn định
+
+Tôi là nhà giao dịch tự tin, có lợi nhuận ổn định
+
+Tôi là nhà giao dịch tự tin, có lợi nhuận ổn định
+
+Tôi là nhà giao dịch tự tin, có lợi nhuận ổn định
+
+Tôi là nhà giao dịch tự tin, có lợi nhuận ổn định
