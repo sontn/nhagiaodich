@@ -6194,3 +6194,27 @@ Tôi là nhà giao dịch tự tin, có lợi nhuận ổn định
 Tôi là nhà giao dịch tự tin, có lợi nhuận ổn định
 
 Tôi là nhà giao dịch tự tin, có lợi nhuận ổn định
+
+Trading is my crucial business
+
+Trading is my crucial business
+
+Trading is my crucial business
+
+Trading is my crucial business
+
+Trading is my crucial business
+
+Trading is my crucial business
+
+Trading is my crucial business
+
+Trading is my crucial business
+
+Trading is my crucial business
+
+Trading is my crucial business
+
+Trading is my crucial business
+
+Trading is my crucial business
