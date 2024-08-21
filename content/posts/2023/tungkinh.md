@@ -13,6 +13,12 @@ categories: ['trading']
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+SL là chi phí vận hành của business trading
+
+SL là chi phí vận hành của business trading
+
+SL là chi phí vận hành của business trading
+
 Trading là business quan trọng nhất của tôi thời điểm này
 
 Trading là business quan trọng nhất của tôi hiện tại
