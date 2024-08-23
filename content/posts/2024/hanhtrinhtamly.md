@@ -24,4 +24,4 @@ Trong hành trình giao dịch, điều mà các trader cần nhận ra là họ
 
 Vậy nên, trong thế giới phức tạp của thị trường tài chính, trader cần luôn tỉnh táo và nhận thức được rằng cuộc chiến lớn nhất mà họ phải đối mặt không phải với những con số nhảy múa trên màn hình, mà với chính bản thân họ. Và chỉ khi vượt qua được chính mình, họ mới có thể chinh phục được thị trường và đạt được thành công bền vững.
 
-Nếu các bạn thấy bài viết hay, hãy like, subcribe và share nhé. Cảm ơn các bạn nhiều!
+**Nếu các bạn thấy bài viết hay, hãy like, subcribe và share nhé. Cảm ơn các bạn nhiều!**
