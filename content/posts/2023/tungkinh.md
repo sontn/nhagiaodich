@@ -13,7 +13,7 @@ categories: ['trading']
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
-Trading là business quan trọng của tôi. 
+Trading là business quan trọng của tôi.
 
 SL là chi phí vận hành của business trading
 
@@ -6260,6 +6260,28 @@ Trading is my crucial business. I will make it successful
 Trading is my crucial business. I will make it successful
 
 Trading is my crucial business. I will make it succcesful
+
+Trading is my crucial business. I will make it successful
+
+Trading is my crucial business. I will make it successful
+
+Trading is my crucial business. I will make it successful
+
+Trading is my crucial business. I will make it successful
+
+Trading is my crucial business. I will make it successful
+
+Trading is my crucial business. I will make it successful
+
+Trading is my crucial business. I will make it successful
+
+Trading is my crucial business. I will make it successful
+
+Trading is my crucial business. I will make it successful
+
+Trading is my crucial business. I will make it successful
+
+Trading is my crucial business. I will make it successful
 
 Trading is my crucial business. I will make it successful
 
