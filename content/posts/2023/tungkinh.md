@@ -13,6 +13,12 @@ categories: ['trading']
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+Tôi chuẩn bị bước vào giai đoạn 5 của trading
+
+Tôi chuẩn bị bước vào giai đoạn 5 của trading
+
+Tôi chuẩn bị bước vào giai đoạn 5 của trading
+
 Trading là business quan trọng của tôi.
 
 SL là chi phí vận hành của business trading
