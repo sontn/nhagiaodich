@@ -13,6 +13,8 @@ categories: ['trading']
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+Không ai mang lại niềm vui cho chính bản thân mình ngoài chính mình
+
 Tôi chuẩn bị bước vào giai đoạn 5 của trading
 
 Tôi chuẩn bị bước vào giai đoạn 5 của trading
