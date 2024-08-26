@@ -13,6 +13,8 @@ categories: ['trading']
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+Trade chậm giống như lúc đầu học bơi, chưa biết bơi càng bơi nhanh càng sặc nước
+
 Sống bằng tình cảm, san bằng tất cả
 
 Sống bằng tình cảm, san bằng tất cả
