@@ -3,7 +3,7 @@ title: 'Tóm tắt về hướng dẫn giao dịch và quản lý tiền bạc'
 date: 2024-08-26T09:07:26+07:00
 draft: false
 cover:
-  image: 'img/2024/tomtattrading/overview.jpg'
+  image: 'img/2024/tomtattrading/overview.png'
   alt: 'Nhà Giao Dịch'
   caption: 'Nhà Giao Dịch'
 tags: ['tamlygiaodich']
