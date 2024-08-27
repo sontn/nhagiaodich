@@ -15,6 +15,26 @@ categories: ['trading']
 
 Trade chậm giống như lúc đầu học bơi, chưa biết bơi càng bơi nhanh càng sặc nước
 
+Trade chậm giống như lúc đầu học bơi, chưa biết bơi càng bơi nhanh càng sặc nước
+
+Trade chậm giống như lúc đầu học bơi, chưa biết bơi càng bơi nhanh càng sặc nước
+
+Trade chậm giống như lúc đầu học bơi, chưa biết bơi càng bơi nhanh càng sặc nước
+
+Trade chậm giống như lúc đầu học bơi, chưa biết bơi càng bơi nhanh càng sặc nước
+
+Trade chậm giống như lúc đầu học bơi, chưa biết bơi càng bơi nhanh càng sặc nước
+
+Trade chậm giống như lúc đầu học bơi, chưa biết bơi càng bơi nhanh càng sặc nước
+
+Trade chậm giống như lúc đầu học bơi, chưa biết bơi càng bơi nhanh càng sặc nước
+
+Trade chậm giống như lúc đầu học bơi, chưa biết bơi càng bơi nhanh càng sặc nước
+
+Trade chậm giống như lúc đầu học bơi, chưa biết bơi càng bơi nhanh càng sặc nước
+
+Trade chậm giống như lúc đầu học bơi, chưa biết bơi càng bơi nhanh càng sặc nước
+
 Sống bằng tình cảm, san bằng tất cả
 
 Sống bằng tình cảm, san bằng tất cả
