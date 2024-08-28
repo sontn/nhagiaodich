@@ -21,9 +21,9 @@ params:
     - name: other
       url: "https://one.exnesstrack.net/a/s0cxkwr4tg?platform=mobile&pid=mobile_share"
     - name: twitter
-      url: "https://twitter.com/nhagiaodich_com"
+      url: "https://twitter.com/nhagiaodichcom"
     - name: tiktok
-      url: "https://tiktok.com/@nhagiaodich_com"
+      url: "https://tiktok.com/@nhagiaodichcom"
     - name: facebook
       url: "https://www.facebook.com/nhagiaodichcom"
     - name: youtube
