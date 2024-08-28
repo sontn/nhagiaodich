@@ -13,6 +13,8 @@ categories: ['trading']
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+Trading là business quan trọng của tôi, tôi sẽ làm nó thành công
+
 Trading là business quan trọng của tôi. Và tôi sẽ làm nó thành công
 
 Trading là business quan trọng của tôi. Và tôi sẽ làm nó thành công
