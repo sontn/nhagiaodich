@@ -6408,3 +6408,13 @@ Trading is my crucial business. I will make it successful
 Trading is my crucial business. I will make it successful
 
 Trading is my crucial business. I will make it successful
+
+Trading là business quan trọng của tôi, tôi sẽ kiên trì làm nó cho đến khi nó thành công
+
+Trading là business rất quan trọng của tôi, tôi sẽ kiên trì làm nó cho đến khi thành công
+
+Trading là business rất quan trọng của tôi, tôi sẽ kiên trì làm nó cho đến khi thành công
+
+Trading là business rất quan trọng của tôi, tôi sẽ kiên trì làm nó cho đến khi thành công
+
+Trading là business rất quan trọng của tôi, tôi sẽ kiên trì làm nó cho đến khi thành công
