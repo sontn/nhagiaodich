@@ -19,6 +19,12 @@ Tôi kiên trì cho đến khi trading thành công
 
 Tôi kiên trì cho đến khi trading thành công
 
+Tôi kiên trì cho đến khi trading thành công
+
+Tôi kiên trì cho đến khi trading thành công
+
+Tôi kiên trì cho đến khi trading thành công
+
 Trading là business quan trọng của tôi, tôi sẽ làm nó thành công
 
 Trading là business quan trọng của tôi. Và tôi sẽ làm nó thành công
