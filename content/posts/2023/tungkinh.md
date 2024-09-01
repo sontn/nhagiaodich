@@ -13,6 +13,8 @@ categories: ['trading']
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+Take action. And be patient. 
+
 Tôi kiên trì cho đến khi trading thành công
 
 Tôi kiên trì cho đến khi trading thành công
