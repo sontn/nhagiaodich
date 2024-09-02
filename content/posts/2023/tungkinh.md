@@ -15,6 +15,14 @@ categories: ['trading']
 
 Take action. And be patient. 
 
+Trading là business quan trọng nhất của tôi. tôi sẽ làm nó thành công
+
+Trading là business quan trọng nhất của tôi. tôi sẽ làm nó thành công
+
+Trading là business quan trọng nhất của tôi. tôi sẽ làm nó thành công
+
+Trading là business quan trọng nhất của tôi. tôi sẽ làm nó thành công
+
 Tôi kiên trì cho đến khi trading thành công
 
 Tôi kiên trì cho đến khi trading thành công
