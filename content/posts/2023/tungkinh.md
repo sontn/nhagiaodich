@@ -13,6 +13,16 @@ categories: ['trading']
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+Take action. make it real
+
+Take action. make it real
+
+Take action. make it real
+
+Take action. make it real
+
+Take action. make it real
+
 Take action. And be patient. 
 
 Trading là business quan trọng nhất của tôi. tôi sẽ làm nó thành công
