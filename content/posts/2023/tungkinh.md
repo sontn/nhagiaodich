@@ -27,7 +27,7 @@ Take action. make it real
 
 Take action. make it real
 
-Take action. And be patient. 
+Take action. And be patient.
 
 Trading là business quan trọng nhất của tôi. tôi sẽ làm nó thành công
 
@@ -6448,3 +6448,27 @@ Trading là business rất quan trọng của tôi, tôi sẽ kiên trì làm n�
 Trading là business rất quan trọng của tôi, tôi sẽ kiên trì làm nó cho đến khi thành công
 
 Trading là business rất quan trọng của tôi, tôi sẽ kiên trì làm nó cho đến khi thành công
+
+Trading thành công nhưng phải hạnh phúc, an nhiên.
+
+Trading thành công, hạnh phúc, an nhiên.
+
+Trading thành công, hạnh phúc, an nhiên
+
+Trading thành công, hạnh phúc, an nhiên
+
+Trading thành công, hạnh phúc, an nhiên
+
+Trading thành công, hạnh phúc, an nhiên
+
+Trading thành công, hạnh phúc, an nhiên
+
+Trading thành công, hạnh phúc, an nhiên
+
+Trading thành công, hạnh phúc, an nhiên
+
+Trading thành công, hạnh phúc, an nhiên
+
+Trading thành công, hạnh phúc, an nhiên
+
+Trading thành công, hạnh phúc, an nhiên
