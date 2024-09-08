@@ -13,6 +13,16 @@ categories: ['trading']
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+Persist until I succeed
+
+Persist until I succeed
+
+Persist until I succeed
+
+Persist until I succeed
+
+Persist until I succeed
+
 Follow the flow. follow the flow. folow the flow
 
 Follow the flow. follow the flow. follow the flow. follow the flow. follow the flow
