@@ -6588,3 +6588,27 @@ Tôi sắp kiếm tiền từ trading một cách ổn định rồi
 Tôi sắp kiếm tiền từ trading một cách ổn định rồi
 
 Tôi sắp kiếm tiền từ trading một cách ổn định rồi
+
+Tôi cần vượt qua tâm lý thua chuỗi nữa là ok
+
+Tôi cần vượt qua tâm lý thua chuỗi nữa là ok
+
+Tôi cần vượt qua tâm lý thua chuỗi nữa là ok
+
+Tôi cần vượt qua tâm lý thua chuỗi nữa là ok
+
+Tôi cần vượt qua tâm lý thua chuỗi nữa là ok
+
+Tôi cần vượt qua tâm lý thua chuỗi nữa là ok
+
+Tôi cần vượt qua tâm lý thua chuỗi nữa là ok
+
+Tôi cần vượt qua tâm lý thua chuỗi nữa là ok
+
+Tôi cần vượt qua tâm lý thua chuỗi nữa là ok
+
+Tôi cần vượt qua tâm lý thua chuỗi nữa là ok
+
+Tôi cần vượt qua tâm lý thua chuỗi nữa là ok
+
+Tôi cần vượt qua tâm lý thua chuỗi nữa là ok
