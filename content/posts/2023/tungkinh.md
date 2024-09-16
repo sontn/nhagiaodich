@@ -6668,3 +6668,15 @@ Tôi gần đến đích trading kiếm được tiền rồi
 Tôi gần đến đích trading kiếm được tiền rồi
 
 Tôi gần đến đích trading kiếm được tiền rồi
+
+Hệ thống giao dịch, quản trị rủi ro, tâm lý giao dịch là ba trụ cột quan trọng nhất trong giao dịch
+
+Hệ thống giao dịch, quản trị rủi ro, tâm lý giao dịch là ba trụ cột quan trọng nhất trong giao dịch
+
+Hệ thống giao dịch, quản trị rủi ro, tâm lý giao dịch là ba trụ cột quan trọng nhất trong giao dịch
+
+Hệ thông giao dịch, quản trị rủi ro, tâm lý giao dịch là ba trụ cột quan trọng nhất trong giao dịch
+
+Hệ thống giao dịch, quản trị rủi ro, tâm lý giao dịch là ba trụ cột quan trọng nhất trong giao dịch
+
+Hệ thống giao dịch, quản trị rủi ro, tâm lý giao dịch là ba trụ cột quan trọng nhất trong giao dịch
