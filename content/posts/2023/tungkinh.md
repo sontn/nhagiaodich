@@ -13,6 +13,12 @@ categories: ['trading']
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+Persist until I succeed
+
+Persist until I succeed
+
+Persist until I succeed
+
 Luyện tập chăm chỉ đúng cách tạo nên sự hoàn hảo
 
 Luyện tập chăm chỉ đúng cách tạo nên sự hoàn hảo
