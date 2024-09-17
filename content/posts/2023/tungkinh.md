@@ -6686,3 +6686,13 @@ Hệ thông giao dịch, quản trị rủi ro, tâm lý giao dịch là ba tr�
 Hệ thống giao dịch, quản trị rủi ro, tâm lý giao dịch là ba trụ cột quan trọng nhất trong giao dịch
 
 Hệ thống giao dịch, quản trị rủi ro, tâm lý giao dịch là ba trụ cột quan trọng nhất trong giao dịch
+
+Tôi gần đến đích rồi, vẫn phải tập trung vào việc chính cho đến khi thành công thì mới thôi
+
+Tôi gần đến địch rồi, vẫn phải tập trung vào việc chính cho đến khi thành công thì mới thôi
+
+Tôi gần đến đích rồi, vẫn phải tập trung vào việc chính cho đến khi thành công thì mới thôi
+
+Tôi gần đến đích rồi, vẫn phải tập trung vào việc chính cho đến khi thành công thì mới thôi
+
+Tôi gần đến đích rồi, vẫn phải tập trung vào việc chính cho đến khi thành công thì mới thôi
