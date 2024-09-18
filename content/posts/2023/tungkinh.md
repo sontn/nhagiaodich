@@ -6702,3 +6702,25 @@ Tôi gần đến đích rồi, vẫn phải tập trung vào việc chính cho 
 Tôi gần đến đích rồi, vẫn phải tập trung vào việc chính cho đến khi thành công thì mới thôi
 
 Tôi gần đến đích rồi, vẫn phải tập trung vào việc chính cho đến khi thành công thì mới thôi
+
+Tôi gần đến đích rồi, cố gắng lên.
+
+Tôi gần đến đích rồi, cố gắng lên.
+
+Tôi gần đến đích rồi, cố gắng lên.
+
+Tôi gần đến đích rồi, cố gắng lên.
+
+Tôi gần đến đích rồi, cố gắng lên.
+
+Tôi gần đến đích rồi, cố gắng lên.
+
+Tôi gần đến đích rồi, cố gắng lên
+
+Tôi gần đến đích rồi, cố gắng lên
+
+Tôi gần đến đích rồi, cố gắng lên
+
+Tôi gần đến đích rồi, cố gắng lên
+
+Tôi gần đến đích rồi, cố gắng lên.
