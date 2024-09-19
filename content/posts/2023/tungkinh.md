@@ -19,6 +19,12 @@ Persist until I succeed
 
 Persist until I succeed
 
+Persist until I succeed
+
+Persist until I succeed
+
+Persist until I succeed
+
 Luyện tập chăm chỉ đúng cách tạo nên sự hoàn hảo
 
 Luyện tập chăm chỉ đúng cách tạo nên sự hoàn hảo
