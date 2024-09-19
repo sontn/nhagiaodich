@@ -13,6 +13,16 @@ categories: ['trading']
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+Peace in trading
+
+Peace in trading
+
+Peace in trading
+
+Peace in trading
+
+Peace in trading
+
 Persist until I succeed
 
 Persist until I succeed
