@@ -13,11 +13,11 @@ categories: ['trading']
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
-The big short quá hay. 
+The big short quá hay.
 
-The big short quá hay. 
+The big short quá hay.
 
-The big short quá hay. 
+The big short quá hay.
 
 Peace in trading
 
@@ -6790,3 +6790,25 @@ Thế giới lại chuẩn bị cho một pha bơm thổi mới
 Thế giới lại chuẩn bị cho một pha bơm thổi mới
 
 Thế giới lại chuận bị cho một pha bơm thổi mới khi Fed bắt đầu chu kỳ hạ lãi suất?
+
+Persist until I succeed
+
+Persist until I succeed
+
+Persist until I succeed
+
+Persist until I succeed
+
+Persist until I succeed
+
+Persist until I succeed
+
+Persist until I succeed
+
+Persist until I succeed
+
+Persist until I succeed
+
+Persist until I succeed
+
+Persist until I succeed
