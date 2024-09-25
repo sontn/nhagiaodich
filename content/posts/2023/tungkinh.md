@@ -13,6 +13,18 @@ categories: ['trading']
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+No fear. be more confident
+
+Be more confident
+
+Be more confident
+
+Be more confident
+
+Be more confident
+
+Be more confident
+
 Persist until I succeed
 
 Persist until I succeed
