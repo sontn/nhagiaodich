@@ -13,6 +13,12 @@ categories: ['trading']
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+Persist until I succeed
+
+Persist until I succeed
+
+Persist until I succeed
+
 The winning side làm mình suy nghĩ
 
 The winning side làm mình suy nghĩ
