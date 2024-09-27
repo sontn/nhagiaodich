@@ -6934,3 +6934,13 @@ No fear. Manage risk. Be confident
 Đơn giản, nhất quán, hiệu quả
 
 Đơn giản, nhất quán, hiệu quả
+
+Hãy chấp nhận lỗi như một phần quan trọng của hành trình trading
+
+Hãy chấp nhận lỗi như một phần quan trọng của hành trình trading
+
+Hãy chấp nhận lỗi như một phần quan trọng của hành trình trading
+
+Hãy chấp nhận lỗi như một phần quan trọng của hành trình trading
+
+Hãy chấp nhận lỗi như một phần quan trọng của hành trình trading
