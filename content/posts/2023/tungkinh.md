@@ -13,6 +13,18 @@ categories: ['trading']
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+Be confident
+
+Be confident
+
+Be confident
+
+Be confident
+
+Be confident
+
+Be confident
+
 Mistake is a part of trading game
 
 Mistake is a part of trading game
