@@ -6972,3 +6972,27 @@ Hãy chấp nhận lỗi như một phần quan trọng của hành trình tradi
 Hãy chấp nhận lỗi như một phần quan trọng của hành trình trading
 
 Hãy chấp nhận lỗi như một phần quan trọng của hành trình trading
+
+I persist until I succeed
+
+I persist until I succeed
+
+I persist until I succeed
+
+I persist until I succeed
+
+I persist until I succeed
+
+I persist until I succeed
+
+I persist until I succeed
+
+I persist until I succeed
+
+I persist until I succeed
+
+I persist until I succeed
+
+I persist until I succeed
+
+I persist until I succeed
