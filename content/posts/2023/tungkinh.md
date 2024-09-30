@@ -13,6 +13,12 @@ categories: ['trading']
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+Be confident
+
+Be confident
+
+Be confident
+
 Good morning
 
 Good morning
