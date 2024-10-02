@@ -7032,3 +7032,31 @@ I persist until I succeed
 I persist until I succeed
 
 I persist until I succeed
+
+Be patient
+
+Be patient
+
+Be patient
+
+Be patient
+
+Be patient
+
+Be patient
+
+Be patient
+
+Be patient
+
+Be patient
+
+Be patient
+
+Be patient
+
+Be patient
+
+Be patient
+
+Be patient
