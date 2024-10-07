@@ -7158,3 +7158,27 @@ Kiên nhẫn hơn, bình tĩnh hơn
 Kiên nhẫn hơn, bình tĩnh hơn
 
 Kiên nhẫn hơn, bình tĩnh hơn
+
+Nuôi dưỡng lòng tự tin và sự kiên nhẫn
+
+Nuôi dưỡng lòng tự tin và sự kiên nhẫn
+
+Nuôi dưỡng lòng tự tin và sự kiên nhẫn
+
+Nuôi dưỡng lòng tự tin và sự kiên nhẫn
+
+Nuôi dưỡng lòng tự tin và sự kiên nhẫn
+
+Nuôi dưỡng lòng tự tin và sự kiên nhẫn
+
+Nuôi dưỡng lòng tự tin và sự kiên nhẫn
+
+Nuôi dưỡng lòng tự tin và sự kiên nhẫn
+
+Nuôi dưỡng lòng tự tin và sự kiên nhẫn
+
+Nuôi dưỡng lòng tự tin và sự kiên nhẫn
+
+Nuôi dưỡng lòng tự tin và sự kiên nhẫn
+
+Nuôi dưỡng lòng tự tin và sự kiên nhẫn
