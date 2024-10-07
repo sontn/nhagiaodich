@@ -7138,3 +7138,23 @@ Be patient
 Be patient
 
 Be patient
+
+Kiên nhẫn hơn, bình tĩnh hơn.
+
+Kiên nhẫn hơn, bình tĩnh hơn
+
+Kiên nhẫn hơn, bình tĩnh hơn
+
+Kiên nhẫn hơn, bình tĩnh hơn
+
+Kiên nhẫn hơn, bình tĩnh hơn
+
+Kiên nhẫn hơn, bình tĩnh hơn
+
+Kiên nhẫn hơn, bình tĩnh hơn
+
+Kiên nhẫn hơn, bình tĩnh hơn
+
+Kiên nhẫn hơn, bình tĩnh hơn
+
+Kiên nhẫn hơn, bình tĩnh hơn
