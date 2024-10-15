@@ -7,7 +7,7 @@ cover:
   image: 'img/2024/bollingerband/bollinger.jpg'
   alt: 'Nhà Giao Dịch'
   caption: 'Nhà Giao Dịch'
-tags: ['tamlygiaodich']
+tags: ['indicators']
 categories: ['trading', 'technical']
 ---
 
