@@ -13,6 +13,12 @@ categories: ['trading']
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+Nuôi dưỡng lòng tự tin và sự kiên nhẫn
+
+Nuôi dưỡng lòng tự tin và sự kiên nhẫn
+
+Nuôi dưỡng lòng tự tin và sự kiên nhẫn
+
 Nuôi dưỡng sự tự tin và lòng kiên nhẫn
 
 Nuôi dưỡng sự tự tin và lòng kiên nhẫn
