@@ -13,6 +13,12 @@ categories: ['trading']
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+Cho tôi lang thang
+
+Cho tôi lang thang
+
+Cho tôi lang thang
+
 Nuôi dưỡng lòng tự tin và sự kiên nhẫn
 
 Nuôi dưỡng lòng tự tin và sự kiên nhẫn
