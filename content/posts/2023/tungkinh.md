@@ -13,6 +13,16 @@ categories: ['trading']
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+Nương theo nước
+
+Nương theo nước
+
+Thả lỏng
+
+Thả lỏng không gồng
+
+Thả lỏng không căng cứng
+
 I am a consistently profitable trader
 
 I am a consistently profitable trader
