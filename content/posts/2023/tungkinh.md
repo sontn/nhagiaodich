@@ -13,6 +13,12 @@ categories: ['trading']
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+Nương theo dòng chảy
+
+Nương theo đong chảy
+
+Nương theo dòng chảy
+
 Nương theo nước
 
 Nương theo nước
