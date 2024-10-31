@@ -15,7 +15,7 @@ categories: ['trading']
 
 Tự tin lên
 
-Tự tin lên 
+Tự tin lên
 
 Tự tin lên
 
@@ -7542,3 +7542,23 @@ Bổ túc giao dịch fx với người giỏi hơn
 Bổ túc giao dịch fx với người giỏi hơn
 
 Bổ túc giao dịch fx với người giỏi hơn
+
+Tự tin lên
+
+Tự tin lên Sơn
+
+Tự tin lên Sơn
+
+Tự tin lên Sơn
+
+Tự tin lên Sơn
+
+Tự tin lên Sơn!
+
+Tự tin lên Sơn!
+
+Tự tin lên Sơn!
+
+Tự tin lên Sơn!
+
+Tự tin lên Sơn!
