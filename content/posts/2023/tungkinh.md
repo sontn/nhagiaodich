@@ -13,6 +13,12 @@ categories: ['trading']
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+Học cách giao dịch cho đúng
+
+Học cách giao dịch cho đúng
+
+Học cách giao dịch cho đúng
+
 Tự tin lên
 
 Tự tin lên
