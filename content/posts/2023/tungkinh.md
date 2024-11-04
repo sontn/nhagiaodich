@@ -25,6 +25,8 @@ Học cách giao dịch cho đúng
 
 Học cách giao dịch cho đúng
 
+Học cách giao dịch cho đúng
+
 Tự tin lên
 
 Tự tin lên
