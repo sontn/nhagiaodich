@@ -7730,3 +7730,5 @@ Tự tin lên Sơn
 Tự tin lên Sơn
 
 Tự tin lên Sơn
+
+Trade demo nhiều sẽ không thể chuyển đổi trạng thái khi thị trường thay đổi uptrend
