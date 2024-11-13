@@ -13,7 +13,7 @@ categories: ['trading']
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
-Tự tin lên Sơn. 
+Tự tin lên Sơn.
 
 Tự tin lên Sơn
 
@@ -7754,3 +7754,21 @@ Kỷ luật nhưng cần linh hoạt
 Kỷ luật nhưng cần linh hoạt
 
 Kỷ luật nhưng cần linh hoạt
+
+Thả lỏng cơ thể, bình tĩnh, tự tin
+
+Thả lỏng cơ thể, bình tĩnh, tự tin
+
+Thả lỏng cơ thể, bình tĩnh, tự tin
+
+Thả lỏng cơ thể, bình tĩnh, tự tin
+
+Thả lỏng cơ thể, bình tĩnh, tự tin
+
+Thả lỏng cơ thể, bình tĩnh, tự tin
+
+Thả lỏng cơ thể, bình tĩnh, tự tin
+
+Thả lỏng cơ thể, bình tĩnh, tự tin
+
+Thả lỏng cơ thể, bình tĩnh tự tin
