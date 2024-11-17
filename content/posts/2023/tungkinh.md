@@ -13,6 +13,8 @@ categories: ['trading']
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+Học chị Xoa
+
 Tự tin lên Sơn. 
 
 Tự tin lên Sơn
