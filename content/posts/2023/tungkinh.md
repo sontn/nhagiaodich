@@ -7864,3 +7864,9 @@ Master Xoa
 Master Xoa
 
 Master Xoa
+
+Cố lên Sơn ơi
+
+Cố lên Sơn ơi
+
+Cố lên Sơn ơi
