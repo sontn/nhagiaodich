@@ -7878,3 +7878,13 @@ Cố lên Sơn ơi
 Cố lên Sơn ơi
 
 Cố lên Sơn ơi
+
+Trader là không được dính chấp quá khứ và tương lai, chỉ sống trong thực tại
+
+Trader là không được dính chấp quá khứ và tương lai, chỉ sống trong thực tại
+
+Trader là không được dính chấp quá khứ và tương lai, chỉ sống trong thực tại
+
+Trader là không được dính chấp quá khứ và tương lai, chỉ sống trong thực tại
+
+Trader là không được dính chấp quá khứ và tương lai, chỉ sống trong thực tại
