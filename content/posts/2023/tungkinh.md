@@ -7888,3 +7888,13 @@ Trader là không được dính chấp quá khứ và tương lai, chỉ sống
 Trader là không được dính chấp quá khứ và tương lai, chỉ sống trong thực tại
 
 Trader là không được dính chấp quá khứ và tương lai, chỉ sống trong thực tại
+
+Trader phải có sự linh hoạt, uyển chuyển
+
+Trader phải có sự linh hoạt, uyển chuyển
+
+Trader phải có sự linh hoạt, uyển chuyển
+
+Trader phải có sự linh hoạt, uyển chuyển
+
+Trader phải có sự linh hoạt, uyển chuyển
