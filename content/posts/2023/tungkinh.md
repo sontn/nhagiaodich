@@ -7944,3 +7944,13 @@ Tự tin lên Sơn ơi
 Tự tin lên Sơn ơi
 
 Tự tin lên Sơn ơi
+
+Đánh bằng con mắt, không đánh bằng niềm tin
+
+Đánh bằng con mắt, không đánh bằng niềm tin
+
+Đánh bằng con mắt, không đánh bằng niềm tin
+
+Đánh bằng con mắt, không đánh bằng niềm tin
+
+Đánh bằng con mắt, không đánh bằng niềm tin
