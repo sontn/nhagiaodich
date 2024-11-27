@@ -13,6 +13,16 @@ categories: ['trading']
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+Đánh bằng con mắt không đánh bằng niềm tin
+
+Đánh bằng con mắt không đánh bằng niềm tin
+
+Đánh bằng con mắt không đánh bằng niềm tin
+
+Đánh bằng con mắt không đánh bằng niềm tin
+
+Đánh bằng con mắt không đánh bằng niềm tin
+
 Sư phụ Xoa
 
 Sư phụ Xoa
