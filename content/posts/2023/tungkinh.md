@@ -13,6 +13,8 @@ categories: ['trading']
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+Cố lên Sơn ơi
+
 Đánh bằng con mắt không đánh bằng niềm tin
 
 Đánh bằng con mắt không đánh bằng niềm tin
