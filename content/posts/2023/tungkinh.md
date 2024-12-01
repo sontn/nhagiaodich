@@ -13,6 +13,14 @@ categories: ['trading']
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+đẩy sức mạnh ý chí mạnh lên
+
+Đẩy sức mạnh ý chí mạnh lên
+
+Đẩy sức mạnh ý chí mạnh lên
+
+Đẩy sức mạnh ý chí mạnh lên
+
 Cố lên Sơn ơi
 
 Đánh bằng con mắt không đánh bằng niềm tin
