@@ -13,6 +13,18 @@ categories: ['trading']
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+Tôi làm được
+
+Tôi làm được
+
+Tôi làm được
+
+Tôi làm được
+
+Tôi làm được
+
+Tôi làm được
+
 đẩy sức mạnh ý chí mạnh lên
 
 Đẩy sức mạnh ý chí mạnh lên
