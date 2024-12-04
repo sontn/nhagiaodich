@@ -13,6 +13,12 @@ categories: ['trading']
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+Kiên định kỷ luật
+
+Kiên định kỷ luật
+
+Kiên định kỷ luật
+
 Kiên định, kỷ luật
 
 Kiên định kỷ luật
