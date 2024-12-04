@@ -8012,3 +8012,7 @@ Bản chất vẫn là đổi rủi ro lấy lợi nhuận
 Bản chất vẫn là đổi rủi ro lấy lợi nhuận
 
 Bản chất vẫn là đổi rủi ro lấy lợi nhuận
+
+Bản chất vẫn là đổi rui ro lấy lợi nhuận
+
+Bản chất vẫn là đổi rủi ro lấy lợi nhuận
