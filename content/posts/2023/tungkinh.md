@@ -13,7 +13,7 @@ categories: ['trading']
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
-Lỗi không chờ đóng nến h1 để xác nhận. khắc phục. 
+Lỗi không chờ đóng nến h1 để xác nhận. khắc phục.
 
 Xử lý mâu thuẫn các khung thời gian
 
@@ -8020,3 +8020,7 @@ Bản chất vẫn là đổi rủi ro lấy lợi nhuận
 Bản chất vẫn là đổi rui ro lấy lợi nhuận
 
 Bản chất vẫn là đổi rủi ro lấy lợi nhuận
+
+Nhất quán, kiên định, linh hoạt. Thành công sẽ đến
+
+Nhất quán kiên định linh hoạt thành công sẽ đến
