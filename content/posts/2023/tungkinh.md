@@ -13,6 +13,8 @@ categories: ['trading']
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+Kiên định kỷ luật
+
 Lỗi không chờ đóng nến h1 để xác nhận. khắc phục.
 
 Xử lý mâu thuẫn các khung thời gian
