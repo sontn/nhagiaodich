@@ -8040,3 +8040,15 @@ Bản chất vẫn là đổi rủi ro lấy lợi nhuận
 Nhất quán, kiên định, linh hoạt. Thành công sẽ đến
 
 Nhất quán kiên định linh hoạt thành công sẽ đến
+
+Tôi làm việc nhàn nhã thảnh thơi và có rất nhiều tiền
+
+Tôi làm việc nhàn nhã thảnh thơi và có rất nhiều tiền
+
+Tôi làm việc nhàn nhã thảnh thơi và có rất nhiều tiền
+
+Tôi làm việc nhàn nhã thảnh thơi và có rất nhiều tiền
+
+Tôi làm việc nhàn nhã thảnh thơi và có rất nhiều tiền
+
+Tôi làm việc nhàn nhã thảnh thơi và có rất nhiều tiền
