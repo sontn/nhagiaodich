@@ -8052,3 +8052,29 @@ Tôi làm việc nhàn nhã thảnh thơi và có rất nhiều tiền
 Tôi làm việc nhàn nhã thảnh thơi và có rất nhiều tiền
 
 Tôi làm việc nhàn nhã thảnh thơi và có rất nhiều tiền
+
+Làm nhiều đúng cách thì sẽ thành công thôi
+
+Làm nhiều và đúng cách thì sẽ thành công thôi
+
+Làm nhiều và đúng cách thì sẽ thành công thôi
+
+Làm nhiều và đúng cách thì sẽ thành công thôi
+
+Làm nhiều và đúng cách thì sẽ thành công thôi
+
+Làm nhiều và đúng cách thì sẽ thành công thôi
+
+Làm nhiều và đúng cách thì sẽ thành công thôi
+
+Làm nhiều và đúng cách thì sẽ thành công thôi
+
+Làm nhiều và đúng cách thì sẽ thành công thôi
+
+Tôi làm việc nhàn nhã thảnh thơi và có rất nhiều tiền
+
+Tôi làm việc nhàn nhã thảnh thơi và có rất nhiều tiền
+
+Tôi làm việc nhàn nhã thảnh thơi và có rất nhiều tiền
+
+Tôi làm việc nhàn nhã thảnh thơi và có rất nhiều tiền
