@@ -19,7 +19,7 @@ Cố gắng lên
 
 Cố gắng lên
 
-Cố lên Sơn. 
+Cố lên Sơn.
 
 Tôi làm việc nhà nhã thảnh thơi và có rất nhiều tiền
 
@@ -8132,3 +8132,9 @@ Tôi làm việc nhàn nhã thảnh thơi và có rất nhiều tiền
 Tôi làm việc nhàn nhã thảnh thơi và có rất nhiều tiền
 
 Tôi làm việc nhàn nhã thảnh thơi và có rất nhiều tiền
+
+Kẻ thù lớn nhất của đời người là chính bản thân mình
+
+Kẻ thù lớn nhất của đời người là chính bản thân mình
+
+Kẻ thù lớn nhất của đời người là chính bản thân mình
