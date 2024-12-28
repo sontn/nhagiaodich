@@ -41,6 +41,12 @@ Cố gắng lên
 
 Cố gắng lên
 
+Cố gắng lên
+
+Cố gắng lên
+
+Cố gắng lên
+
 Cố gắng lên.
 
 Cố gắng lên
