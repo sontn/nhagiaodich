@@ -13,6 +13,12 @@ categories: ['trading']
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+cố gắng lên
+
+Cố gắng lên
+
+Cố gắng lên
+
 Cố gắng lên
 
 Cố gắng lên
