@@ -8190,3 +8190,7 @@ Kẻ thù lớn nhất của đời người là chính bản thân mình
 Kẻ thù lớn nhất của đời người là chính bản thân mình
 
 Kẻ thù lớn nhất của đời người là chính bản thân mình
+
+Kẻ thù lớn nhất của đời người là chính bản thân mình
+
+Kẻ thù lớn nhất của đời người là chính bản thân mình
