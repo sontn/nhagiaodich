@@ -13,6 +13,12 @@ categories: ['trading']
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+Tự tin lên nữa Sơn ơi
+
+Tự tin lên nữa Sơn ơi
+
+Tự tin lên nữa Sơn ơi
+
 Tôi làm việc nhàn nhã thảnh thơi và có rất nhiều tiền
 
 Tôi làm việc nhàn nhã thảnh thơi và có rất nhiều tiền
