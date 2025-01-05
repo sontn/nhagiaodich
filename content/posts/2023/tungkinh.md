@@ -13,6 +13,8 @@ categories: ['trading']
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+ tự tin lên Sơn ơi
+
 Tự tin lên nữa Sơn ơi
 
 Tự tin lên nữa Sơn ơi
