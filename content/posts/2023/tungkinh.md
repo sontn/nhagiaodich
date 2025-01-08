@@ -23,7 +23,7 @@ Việt Nam vô địch Aff 2025
 
 Việt Nam vô địch
 
- tự tin lên Sơn ơi
+tự tin lên Sơn ơi
 
 Tự tin lên nữa Sơn ơi
 
@@ -51,7 +51,7 @@ Cố gắng lên
 
 Cố gắng lên
 
-Cố gắng lên. 
+Cố gắng lên.
 
 cố gắng lên
 
@@ -8214,3 +8214,13 @@ Kẻ thù lớn nhất của đời người là chính bản thân mình
 Kẻ thù lớn nhất của đời người là chính bản thân mình
 
 Kẻ thù lớn nhất của đời người là chính bản thân mình
+
+Cố gắng lên Sơn
+
+Cố gắng lên Sơn
+
+Cố gắng lên Sơn
+
+Cố gắng lên Sơn
+
+Cố gắng lên Sơn
