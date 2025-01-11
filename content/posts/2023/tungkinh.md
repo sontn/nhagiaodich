@@ -13,6 +13,8 @@ categories: ['trading']
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+Tôi đã bắt đầu cảm nhận đc trading
+
 Tôi làm việc nhàn nhã thảnh thơi và có rất nhiều tiền
 
 Tôi làm việc nhà nhã thảnh thơi và có rất nhiều tiền
