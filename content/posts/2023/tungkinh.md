@@ -15,6 +15,8 @@ categories: ['trading']
 
 Tôi đã bắt đầu cảm nhận được trading
 
+Tôi đã bắt đầu cảm nhận được trading
+
 Tôi đã bắt đầu cảm nhận đc trading
 
 Tôi làm việc nhàn nhã thảnh thơi và có rất nhiều tiền
