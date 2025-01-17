@@ -13,6 +13,10 @@ categories: ['trading']
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+Cố gắng lên Sơn
+
+Cố gắng lên Sơn
+
 Tôi làm việc nhàn nhã thảnh thơi và có rất nhiều tiền
 
 Tôi đã bắt đầu cảm nhận được trading
