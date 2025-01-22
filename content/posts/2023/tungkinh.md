@@ -23,6 +23,12 @@ Cố gắng lên Sơn
 
 Cố gắng lên Sơn
 
+Cố gắng lên Sơn
+
+Cố gắng lên Sơn
+
+Cố gắng lên Sơn
+
 Cố gắng lên Sơn. 
 
 Cố gắng lên Sơn
