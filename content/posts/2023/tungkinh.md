@@ -13,6 +13,12 @@ categories: ['trading']
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+Trade trong tỉnh thức
+
+Trade trong tỉnh thức
+
+Trade trong tỉnh thức
+
 trade trong tỉnh thức
 
 Trade trong tỉnh thức
