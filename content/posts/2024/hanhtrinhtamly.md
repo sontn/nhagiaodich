@@ -1,6 +1,7 @@
 ---
 title: 'Trader và những cuộc hành trình tâm lý'
 date: 2024-08-23T10:14:48+07:00
+author: Nha Giao Dich
 draft: false
 cover:
   image: 'img/2024/hanhtrinhtamly/trading-is-a-marathon-not-a-sprint.jpg'

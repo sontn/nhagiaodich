@@ -1,6 +1,7 @@
 ---
 title: 'Tóm tắt về hướng dẫn giao dịch và quản lý tiền bạc'
 date: 2024-08-26T09:07:26+07:00
+author: Nha Giao Dich
 draft: false
 cover:
   image: 'img/2024/tomtattrading/overview.png'
