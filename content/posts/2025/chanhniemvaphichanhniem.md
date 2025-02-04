@@ -116,8 +116,7 @@ Tóm lại, phi chánh niệm là trạng thái bình thường của con ngư�
 Trading trong chánh niệm có nghĩa là giao dịch với sự tỉnh thức, không bị cảm xúc chi phối, và hoàn toàn nhận biết về hành động của mình trong từng khoảnh khắc. Điều này giúp trader tránh các quyết định bốc đồng, giảm stress, và duy trì sự kỷ luật.
 
 1. Hiểu Bản Chất Của Chánh Niệm Trong Trading
-   Chánh niệm là gì trong trading?
-   ➜ Là khả năng quan sát thị trường một cách khách quan, nhận diện cảm xúc của bản thân, nhưng không để chúng kiểm soát quyết định giao dịch.
+   Chánh niệm là gì trong trading? ➜ Là khả năng quan sát thị trường một cách khách quan, nhận diện cảm xúc của bản thân, nhưng không để chúng kiểm soát quyết định giao dịch.
 
 Phi chánh niệm trong trading là gì?
 ➜ Là khi trader bị cảm xúc dẫn dắt như tham lam, sợ hãi, tiếc nuối, hoặc hy vọng mù quáng mà không dựa vào kế hoạch giao dịch.
@@ -126,11 +125,16 @@ Ví dụ:
 
 Bị cuốn theo FOMO vì thấy giá tăng mạnh mà quên kiểm tra tín hiệu.
 Giữ lệnh lỗ quá lâu vì hy vọng giá quay đầu thay vì tuân theo stop loss.
-Vào lệnh revenge trading vì muốn gỡ lại sau khi thua. 2. Cách Thực Hành Chánh Niệm Trong Trading
+Vào lệnh revenge trading vì muốn gỡ lại sau khi thua.
+
+2. Cách Thực Hành Chánh Niệm Trong Trading
+
 Bước 1: Quan Sát Tâm Trạng Trước Khi Giao Dịch
 Trước khi mở chart, hãy dừng lại một phút để tự hỏi:
 ✅ Mình có đang bị căng thẳng, mất bình tĩnh hay quá tự tin không?
+
 ✅ Mình có đang giao dịch vì cảm xúc (muốn gỡ lại lỗ, hoặc FOMO) không?
+
 ✅ Mình có đang tuân theo kế hoạch giao dịch của mình không?
 
 Nếu thấy mình bị cuốn vào cảm xúc, hãy tạm dừng giao dịch, hít thở sâu và quay lại khi đầu óc tỉnh táo hơn.
@@ -140,24 +144,31 @@ Khi phân tích thị trường, hãy quan sát dữ kiện khách quan thay vì
 Nếu thấy một setup giao dịch, hãy đặt câu hỏi một cách trung lập:
 "Liệu đây có phải là tín hiệu theo hệ thống của mình không?"
 "Nếu không vào lệnh này, mình có thấy tiếc không? Nếu có, có thể mình đang bị cảm xúc chi phối."
+
 ✅ Giao dịch với tâm lý quan sát như một người ngoài cuộc, không dính mắc vào thắng thua.
 
 Bước 3: Tuân Thủ Kế Hoạch và Chấp Nhận Kết Quả
+
 Khi đã vào lệnh, hãy để thị trường làm phần việc của nó. Không cố kiểm soát.
 Nếu giá đi đúng hướng → Tỉnh thức, không tự mãn, không tham thêm.
 Nếu giá đi sai hướng → Quan sát cảm xúc nhưng không để nó kiểm soát hành động.
+
 Ví dụ:
+
 ❌ Phi chánh niệm: "Giá vừa chạm stop loss, tức quá, phải vào lệnh khác gỡ lại ngay!"
+
 ✅ Chánh niệm: "Lệnh này thua, nhưng nó đúng theo kế hoạch, mình chấp nhận điều đó."
 
 Hãy nhớ rằng một lệnh thua không phải là một sai lầm, nếu nó tuân theo hệ thống.
 
 Bước 4: Tĩnh Lặng Quan Sát Thị Trường, Không Bị Cuốn Hút
+
 Không cần phải liên tục nhìn vào màn hình.
 Nếu giá đi ngược hướng dự kiến, đừng để nó làm mình dao động → Chỉ hành động khi có tín hiệu rõ ràng.
 👉 Hãy giống như một tảng đá vững chắc giữa dòng nước chảy.
 
 Bước 5: Rèn Luyện Chánh Niệm Ngoài Trading
+
 Muốn trading trong chánh niệm, bạn cũng cần rèn luyện chánh niệm trong cuộc sống:
 
 Thiền định hàng ngày (chỉ 5-10 phút để quan sát hơi thở, cảm xúc).
@@ -169,9 +180,13 @@ Kết Luận
 Giao dịch trong chánh niệm là một kỹ năng quan trọng giúp trader thoát khỏi cảm xúc tiêu cực, giao dịch tỉnh táo và có lợi nhuận bền vững.
 
 🔹 Quan sát tâm lý trước khi giao dịch
+
 🔹 Giao dịch với sự tỉnh thức, không dính mắc vào thắng thua
+
 🔹 Tuân thủ kế hoạch và chấp nhận kết quả
+
 🔹 Không bị cuốn hút vào thị trường, giữ tâm lý vững vàng
+
 🔹 Rèn luyện chánh niệm trong cuộc sống hàng ngày
 
 🔥 Hãy nhớ rằng: Trading là một cuộc chơi dài hạn. Chỉ những người giao dịch với tâm lý tỉnh táo, không bị cảm xúc chi phối mới có thể tồn tại lâu dài.
@@ -184,20 +199,26 @@ Việc sử dụng các đường SMA để giao dịch không quyết định b
 👉 Nếu bạn dùng SMA nhưng bị cảm xúc lấn át, giao dịch tùy tiện, thay đổi chiến lược liên tục → Đó không phải là chánh niệm.
 
 1. Chánh niệm khi sử dụng SMA 10, 20, 50, 100
+
    ✅ Giao dịch có kế hoạch, không bị cảm xúc chi phối
    Bạn có một hệ thống giao dịch rõ ràng dựa trên SMA và Bollinger Band.
    Bạn chỉ vào lệnh khi tín hiệu khớp với hệ thống, không vì hưng phấn hay sợ hãi.
    Bạn chấp nhận stop loss một cách bình thản, không bị cảm xúc cuốn vào lệnh thua.
    Bạn không thay đổi chiến lược mỗi khi thị trường biến động mạnh.
-   Ví dụ chánh niệm:
-   📌 Bạn chỉ vào lệnh mua khi SMA 10 cắt lên SMA 20, giá bật lên từ dải dưới của Bollinger Band và có xác nhận từ SMA 50, 100. Nếu tín hiệu không đủ, bạn kiên nhẫn chờ đợi, không cưỡng ép giao dịch.
+
+Ví dụ chánh niệm:
+
+📌 Bạn chỉ vào lệnh mua khi SMA 10 cắt lên SMA 20, giá bật lên từ dải dưới của Bollinger Band và có xác nhận từ SMA 50, 100. Nếu tín hiệu không đủ, bạn kiên nhẫn chờ đợi, không cưỡng ép giao dịch.
 
 ❌ Không chánh niệm khi sử dụng SMA
+
 Bạn thay đổi chiến lược liên tục vì tâm lý không vững.
 Bạn vào lệnh không theo hệ thống, mà chỉ vì giá đang di chuyển nhanh.
 Bạn dời stop loss vì sợ bị cắt lệnh, dù tín hiệu đã sai.
 Bạn bị ảnh hưởng bởi tin tức, group chat, hoặc người khác thay vì theo đúng kế hoạch.
+
 Ví dụ phi chánh niệm:
+
 📌 Bạn thấy giá chạm SMA 100 và bật lên, nhưng không có xác nhận từ SMA 10, 20, 50. Tuy nhiên, bạn vẫn vào lệnh vì "cảm giác giá sẽ lên". Nếu giá đi sai hướng, bạn hoảng loạn và tìm cách gỡ lệnh ngay lập tức.
 
 2. Chánh niệm không nằm ở chỉ báo, mà ở tâm lý khi giao dịch
@@ -206,30 +227,42 @@ Ví dụ phi chánh niệm:
 Nghĩ rằng chỉ cần dùng đúng chỉ báo là sẽ có lợi nhuận.
 Dựa quá nhiều vào SMA nhưng không quản trị rủi ro.
 Không kiểm soát cảm xúc, dễ bị cuốn vào thị trường.
+
 📌 Chỉ báo chỉ là công cụ, trader mới là người quyết định kết quả.
 
 🔥 Dùng SMA một cách tỉnh thức, khách quan → Chánh niệm.
+
 🔥 Dùng SMA mà bị cuốn theo cảm xúc, không có kế hoạch → Phi chánh niệm.
 
 3. Làm sao để giao dịch với chánh niệm khi dùng SMA?
-   ✅ Bước 1: Xác định rõ hệ thống giao dịch với SMA
+
+✅ Bước 1: Xác định rõ hệ thống giao dịch với SMA
 
 SMA 10, 20 dùng để nhận biết xu hướng ngắn hạn.
+
 SMA 50, 100 giúp xác nhận xu hướng dài hạn.
+
 Bollinger Band hỗ trợ nhận diện vùng quá mua/quá bán.
+
 Có quy tắc rõ ràng khi nào vào lệnh, khi nào thoát lệnh.
+
 ✅ Bước 2: Chỉ giao dịch khi có đủ điều kiện
 
 Không giao dịch chỉ vì cảm xúc (sợ bỏ lỡ, muốn gỡ lỗ).
+
 Chờ đúng tín hiệu trước khi vào lệnh.
+
 ✅ Bước 3: Giữ tâm lý vững vàng, không dính mắc vào kết quả
 
 Lệnh thắng hay thua không quan trọng, quan trọng là bạn có tuân thủ hệ thống hay không.
 Không để kết quả một lệnh ảnh hưởng đến tâm lý của lệnh tiếp theo.
+
 ✅ Bước 4: Quan sát cảm xúc trước và sau khi giao dịch
 
 Nếu thấy căng thẳng, lo lắng, bốc đồng → Dừng giao dịch, hít thở sâu.
+
 Ghi chép nhật ký giao dịch để nhận ra khi nào mình bị cảm xúc chi phối.
+
 Kết luận: Trading trong chánh niệm không phải là chỉ báo, mà là cách sử dụng chỉ báo
 
 📌 Nếu bạn sử dụng SMA 10, 20, 50, 100 theo một hệ thống có kỷ luật, không để cảm xúc chi phối → Đó là chánh niệm.
