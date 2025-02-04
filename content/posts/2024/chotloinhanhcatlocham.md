@@ -1,7 +1,7 @@
 ---
 title: 'Tại sao con người lại chốt lời nhanh và cắt lỗ chậm?'
 date: 2024-08-05T16:25:38+07:00
-author: NhaGiaoDich
+author: Nha Giao Dich
 draft: false
 cover:
   image: '/img/2024/chotloinhanhcatlocham/cutloss.jpg'

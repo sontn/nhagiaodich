@@ -1,36 +1,37 @@
 ---
-title: "Feliz Navidad"
+title: 'Feliz Navidad'
 date: 2023-12-25T09:29:28+07:00
-author: NhaGiaoDich
+author: Nha Giao Dich
 draft: false
 cover:
-    image: 'img/feliznavidad/feliznavidad.png'
-    alt: 'Nhà Giao Dịch'
-    caption: 'Nhà Giao Dịch'
-tags: ["tamlygiaodich"]
-categories: ["trading"]
+  image: 'img/feliznavidad/feliznavidad.png'
+  alt: 'Nhà Giao Dịch'
+  caption: 'Nhà Giao Dịch'
+tags: ['tamlygiaodich']
+categories: ['trading']
 ---
+
 {{< youtube PvwbBkGasQg >}}
 
 Feliz Navidad, Feliz Navidad  
 Feliz Navidad, próspero año y felicidad  
 Feliz Navidad, Feliz Navidad  
-Feliz Navidad, próspero año y felicidad  
+Feliz Navidad, próspero año y felicidad
 
 I wanna wish you a Merry Christmas  
 I wanna wish you a Merry Christmas  
 I wanna wish you a Merry Christmas  
-From the bottom of my heart  
+From the bottom of my heart
 
 I wanna wish you a Merry Christmas  
 I want to wish you a Merry Christmas  
 I wanna wish you a Merry Christmas  
-From the bottom of my heart  
+From the bottom of my heart
 
 Feliz Navidad, Feliz Navidad  
 Feliz Navidad, próspero año y felicidad  
 Feliz Navidad, Feliz Navidad  
-Feliz Navidad, próspero año y felicidad  
+Feliz Navidad, próspero año y felicidad
 
 ---
 

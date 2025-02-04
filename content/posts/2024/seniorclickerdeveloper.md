@@ -1,7 +1,7 @@
 ---
 title: 'Senior Clicker Developer'
 date: 2024-11-14T11:28:30+07:00
-author: NhaGiaoDich
+author: Nha Giao Dich
 draft: false
 cover:
   image: '/img/2024/seniorclickerdev/seniorclickerdeveloper.png'

@@ -1,14 +1,14 @@
 ---
-title: "10 điều những người có sức mạnh ý chí siêu việt làm khác người bình thường"
+title: '10 điều những người có sức mạnh ý chí siêu việt làm khác người bình thường'
 date: 2024-05-17T15:32:41+07:00
-author: NhaGiaoDich
+author: Nha Giao Dich
 draft: false
 cover:
-    image: 'img/2024/nguoiychi/spirit.jpg'
-    alt: 'Nhà Giao Dịch'
-    caption: 'Nhà Giao Dịch'
-tags: ["tamlygiaodich"]
-categories: ["trading", "psychology"]
+  image: 'img/2024/nguoiychi/spirit.jpg'
+  alt: 'Nhà Giao Dịch'
+  caption: 'Nhà Giao Dịch'
+tags: ['tamlygiaodich']
+categories: ['trading', 'psychology']
 ---
 
 Lang thang trên mạng, có nhiều bài viết thực sư tôi phải sưu tầm lại, vì những bài viết đó rất hay và tôi cũng có trải nghiệm của những bài viết đó. Trải nghiệm của kỹ năng trading thực sự là một trải nghiệm học hỏi lâu nhất của tôi từ trước bấy giờ, tôi đã mất 8 năm, từ cuối năm 2016 cho đến tận thời điểm hiện tại. Trading là một cuộc chơi của trí tuệ, tính cách, phẩm chất con người hơn là sự thông minh. Kỹ năng thông minh giờ có AI hỗ trợ thì có thể học được rất nhanh. Nhưng phẩm chất con người thì phải cần rèn luyện lâu hơn rất rất nhiều. Và bài viết dưới đây minh họa rất phù hợp cho điều đó.

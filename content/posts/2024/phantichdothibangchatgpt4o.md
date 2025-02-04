@@ -1,15 +1,16 @@
 ---
-title: "Phân tích đồ thị kỹ thuật bằng ChatGPT 4o"
+title: 'Phân tích đồ thị kỹ thuật bằng ChatGPT 4o'
 date: 2024-05-17T10:08:00+07:00
-author: NhaGiaoDich
+author: Nha Giao Dich
 draft: false
 cover:
-    image: 'img/2024/phantichkythuatbangchatgpt4o/phantichkythuatbangchatgpt4o.png'
-    alt: 'Nhà Giao Dịch'
-    caption: 'Nhà Giao Dịch'
-tags: ["tamlygiaodich"]
-categories: ["trading","technical-analysis"]
+  image: 'img/2024/phantichkythuatbangchatgpt4o/phantichkythuatbangchatgpt4o.png'
+  alt: 'Nhà Giao Dịch'
+  caption: 'Nhà Giao Dịch'
+tags: ['tamlygiaodich']
+categories: ['trading', 'technical-analysis']
 ---
+
 Cách đây 3 hôm, chatGPT có ra mắt Model mới là ChatGPT 4o có khả năng xử lý được âm thanh, hình ảnh một cách quá ấn tượng. Thế là tôi thử luôn việc dùng chatGPT 4o phân tích đồ thị kỹ thuật ETH. Có 1 vài điểm chatGPT đưa ra chưa chính xác, nhưng về tổng thể thì quá ngon. Tôi copy lại kết quả chat GPT phân tích ở dưới để các bạn tham khảo. Tôi vu vơ nghĩ về tương lai, sau này tôi sẽ vẫn chiến đấu với người chơi trading khác, hay là chiến đấu với AI, hay AI chiến đấu với AI và sẽ không còn bóng dáng con người nào nữa? Thật không thể tưởng tượng được, nhưng mọi thứ đều có thể xảy ra. Và tương lai thực sự bao giờ cũng là bất định.
 
 ---
@@ -67,4 +68,3 @@ This chart displays the daily price action of Ethereum (ETH) against Tether (USD
 - **Bearish Scenario:** A break below 2870.66 USD could lead to further downside. Monitor for increased volume to confirm the move.
 
 Overall, it is crucial to watch the price action around these key levels and observe how the indicators evolve to make informed trading decisions.
-

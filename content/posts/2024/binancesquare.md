@@ -1,7 +1,7 @@
 ---
 title: 'Bài viết đầu tiên ở Binance Square'
 date: 2024-08-07T14:46:54+07:00
-author: NhaGiaoDich
+author: Nha Giao Dich
 draft: false
 cover:
   image: 'img/2024/binancesquare/light.png'

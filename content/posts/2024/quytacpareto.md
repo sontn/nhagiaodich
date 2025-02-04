@@ -1,7 +1,7 @@
 ---
 title: 'Áp dụng quy tắc 80/20 trong giao dịch'
 date: 2024-08-16T09:48:22+07:00
-author: NhaGiaoDich
+author: Nha Giao Dich
 draft: false
 cover:
   image: 'img/2024/pareto/simplechart.jpg'

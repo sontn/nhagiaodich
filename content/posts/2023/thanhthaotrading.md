@@ -1,19 +1,19 @@
 ---
-title: "Trading thành thạo là như thế nào"
+title: 'Trading thành thạo là như thế nào'
 date: 2023-11-23T10:20:18+07:00
 draft: false
-author: NhaGiaoDich
+author: Nha Giao Dich
 cover:
-    image: 'img/thanhthao/thanhthao.png'
-    alt: 'Nhà Giao Dịch'
-    caption: 'Nhà Giao Dịch'
-tags: ["trading", "nhagiaodich"]
-categories: ["trading"]
+  image: 'img/thanhthao/thanhthao.png'
+  alt: 'Nhà Giao Dịch'
+  caption: 'Nhà Giao Dịch'
+tags: ['trading', 'nhagiaodich']
+categories: ['trading']
 ---
 
-Trước hết, chúng ta nên phân biệt có sự khác nhau giữa thói quen và thành thạo, mặc dù thoạt nhìn chúng có vẻ khá giống nhau. Khi thiếu tỉnh thức, chúng ta có thói quen suy nghĩ rập khuôn, hành động máy móc, trong khi thành thạo đòi hỏi sự chú tâm, trọn vẹn với suy nghĩ hành động đang diễn ra. Dễ  nhận thấy nhất là một người có thể đi bộ theo quán tính với suy nghĩ miên man trong đầu mà không nhận biết mọi thứ xung quanh nên dễ bị vấp ngã (thói quen) khác xa với người đi trong tỉnh thức, luôn cảm nhận được cảnh vật xung quanh và trọn vẹn được với bước chân của mình (thành thạo).
+Trước hết, chúng ta nên phân biệt có sự khác nhau giữa thói quen và thành thạo, mặc dù thoạt nhìn chúng có vẻ khá giống nhau. Khi thiếu tỉnh thức, chúng ta có thói quen suy nghĩ rập khuôn, hành động máy móc, trong khi thành thạo đòi hỏi sự chú tâm, trọn vẹn với suy nghĩ hành động đang diễn ra. Dễ nhận thấy nhất là một người có thể đi bộ theo quán tính với suy nghĩ miên man trong đầu mà không nhận biết mọi thứ xung quanh nên dễ bị vấp ngã (thói quen) khác xa với người đi trong tỉnh thức, luôn cảm nhận được cảnh vật xung quanh và trọn vẹn được với bước chân của mình (thành thạo).
 
-Trong trading, khi bạn đọc được ngôn ngữ thị trường một cách trôi chảy và luôn có sự chú ý để  hiểu nó thì đó là sự thành thạo. Khi theo dõi biến động giá cả, tâm bạn không bị kẹt vào đâu cả, không chấp vào các công cụ, mẫu hình, mẫu nến mặc dù bạn không bỏ sót bất kỳ cử động của chúng. Thế thì, trong hành động, bạn sẽ đạt được sự linh hoạt đồng nhịp với thị trường, từ cách đi tiền khi nhiều khi ít cho đến cách vào lệnh hay thoát lệnh, khi đón lõng khi đua lệnh.
+Trong trading, khi bạn đọc được ngôn ngữ thị trường một cách trôi chảy và luôn có sự chú ý để hiểu nó thì đó là sự thành thạo. Khi theo dõi biến động giá cả, tâm bạn không bị kẹt vào đâu cả, không chấp vào các công cụ, mẫu hình, mẫu nến mặc dù bạn không bỏ sót bất kỳ cử động của chúng. Thế thì, trong hành động, bạn sẽ đạt được sự linh hoạt đồng nhịp với thị trường, từ cách đi tiền khi nhiều khi ít cho đến cách vào lệnh hay thoát lệnh, khi đón lõng khi đua lệnh.
 
 Tôi xin trích dẫn một đoạn mô tả mức độ thành thạo trong nghề trading được một trader kỳ cựu (DbPhoenix) chia sẻ như sau:
 “Ở mức độ này, trader đạt đến trạng thái giao dịch gần như là thiền . Anh ta dành riêng thời gian để lập kế hoạch, phân tích, nghiên cứu. Khi một ngày giao dịch bắt đầu, anh ta đã sẵn sàng, điềm tĩnh, thư giãn và tập trung.

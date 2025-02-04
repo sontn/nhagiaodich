@@ -1,14 +1,14 @@
 ---
-title: "Asking AI chatGPT 4o about Risk-Based Thinking in Trading with Probability Integration"
+title: 'Asking AI chatGPT 4o about Risk-Based Thinking in Trading with Probability Integration'
 date: 2024-05-22T10:21:36+07:00
-author: NhaGiaoDich
+author: Nha Giao Dich
 draft: false
 cover:
-  image: "img/2024/riskbasedthinking/risktrading.png"
-  alt: "Nhà Giao Dịch"
-  caption: "Nhà Giao Dịch"
-tags: ["tamlygiaodich"]
-categories: ["trading", "risk-management"]
+  image: 'img/2024/riskbasedthinking/risktrading.png'
+  alt: 'Nhà Giao Dịch'
+  caption: 'Nhà Giao Dịch'
+tags: ['tamlygiaodich']
+categories: ['trading', 'risk-management']
 ---
 
 Today I have time to ask chatGPT 4o some crucial questions about risk-based thinking. The more years in trading and investing industries, the more I get understand the importances of risks. We must respect risk, but don't to be fear risks. These are the results of my questions with chatGPT 4o below.

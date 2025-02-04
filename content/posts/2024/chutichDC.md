@@ -1,7 +1,7 @@
 ---
 title: 'Chủ tịch Dragon Capital'
 date: 2024-09-18T14:12:43+07:00
-author: NhaGiaoDich
+author: Nha Giao Dich
 draft: false
 cover:
   image: 'img/2024/chutichdc/Dominic.png'

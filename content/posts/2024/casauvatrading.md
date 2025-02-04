@@ -1,7 +1,7 @@
 ---
 title: 'Những phẩm chất tuyệt vời từ loại săn mồi sát thủ cá sấu mà Trader có thể học hỏi được'
 date: 2024-07-10T10:57:54+07:00
-author: NhaGiaoDich
+author: Nha Giao Dich
 draft: false
 cover:
   image: 'img/2024/casau/casau-trading.png'

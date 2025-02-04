@@ -1,7 +1,7 @@
 ---
 title: 'Thế nào là Giao dịch cảm tính'
 date: 2024-12-02T10:46:02+07:00
-author: NhaGiaoDich
+author: Nha Giao Dich
 draft: false
 cover:
   image: 'img/giaodichcamtinh/emotional.jpeg'

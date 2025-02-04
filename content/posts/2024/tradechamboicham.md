@@ -1,7 +1,7 @@
 ---
 title: 'Trading và bơi sải'
 date: 2024-08-27T09:55:38+07:00
-author: NhaGiaoDich
+author: Nha Giao Dich
 draft: false
 cover:
   image: 'img/2024/tradingvaboisai/frontcrawl.png'

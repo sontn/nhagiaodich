@@ -1,7 +1,7 @@
 ---
 title: 'Ngôn ngữ thị trường'
 date: 2024-11-29T15:27:41+07:00
-author: NhaGiaoDich
+author: Nha Giao Dich
 draft: false
 cover:
   image: 'img/ngonnguthitruong/chartvang.png'

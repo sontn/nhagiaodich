@@ -1,7 +1,7 @@
 ---
 title: 'Làm thế nào để tư duy xác suất trong trading'
 date: 2024-08-22T09:22:25+07:00
-author: NhaGiaoDich
+author: Nha Giao Dich
 draft: false
 cover:
   image: 'img/2024/probability/tradingprobability.png'

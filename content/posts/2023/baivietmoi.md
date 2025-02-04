@@ -1,15 +1,16 @@
 ---
-title: "Giới thiệu về Giao dịch"
+title: 'Giới thiệu về Giao dịch'
 date: 2023-08-21T15:32:39+07:00
-author: NhaGiaoDich
+author: Nha Giao Dich
 draft: false
 cover:
-    image: 'img/baivietmoi/coffee.jpg'
-    alt: 'Nhà Giao Dịch'
-    caption: 'Nhà Giao Dịch'
-tags: ["tamlygiaodich"]
-categories: ["trading"]
+  image: 'img/baivietmoi/coffee.jpg'
+  alt: 'Nhà Giao Dịch'
+  caption: 'Nhà Giao Dịch'
+tags: ['tamlygiaodich']
+categories: ['trading']
 ---
+
 Giao dịch (trading) là hoạt động mua bán tài sản tài chính như cổ phiếu, tiền tệ, hàng hóa, và các sản phẩm tương tự trên thị trường tài chính. Mục tiêu của giao dịch thường là tạo ra lợi nhuận thông qua việc mua vào khi giá thấp và bán ra khi giá cao hơn. Giao dịch có thể thực hiện trên nhiều nền tảng khác nhau, bao gồm cả thị trường truyền thống và thị trường điện tử.
 
 Người tham gia giao dịch, hay gọi là nhà giao dịch, phải nắm vững kiến thức về thị trường tài chính, phân tích kỹ thuật và cơ học thị trường để đưa ra các quyết định mua bán hiệu quả. Giao dịch không chỉ đơn thuần là mua và bán, mà còn liên quan đến việc quản lý rủi ro, sử dụng các phương pháp phòng ngừa và quản lý vốn để bảo vệ lợi nhuận.

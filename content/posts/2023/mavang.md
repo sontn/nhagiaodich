@@ -1,14 +1,14 @@
 ---
-title: "Ma vàng"
+title: 'Ma vàng'
 date: 2023-11-24T10:20:18+07:00
 draft: false
-author: NhaGiaoDich
+author: Nha Giao Dich
 cover:
-    image: 'img/mavang/mavang.jpg'
-    alt: 'Nhà Giao Dịch'
-    caption: 'Nhà Giao Dịch'
-tags: ["trading", "nhagiaodich"]
-categories: ["trading"]
+  image: 'img/mavang/mavang.jpg'
+  alt: 'Nhà Giao Dịch'
+  caption: 'Nhà Giao Dịch'
+tags: ['trading', 'nhagiaodich']
+categories: ['trading']
 ---
 
 Truyện ngắn của Phan Thúy Hà.
@@ -27,7 +27,7 @@ Trước khi biến mất, hắn thú nhận rằng chính hắn cũng không h�
 
 Và như vậy, cuộc chơi bắt đầu.
 
-***
+---
 
 Tôi gọi Sua là cú đêm bởi vì đăng nhập diễn đàn bất cứ giờ nào cũng thấy em sáng đèn. Cô gái nhanh trí và quyết liệt ấy đã biết kiếm tiền từ việc mua bán từng chỉ vàng ăn tiền chênh lệch khi còn học cấp ba. Hồi đó giá vàng cứ theo quy luật sáng giảm chiều tăng. Sua biết truy cập internet đối chiếu vàng trong nước với thế giới. Bài này Sua học được vào mùa hè năm lớp mười đến nhà chú trông em. Chú làm việc ở nhà, hằng ngày mở máy vi tính và dõi theo những mũi tên xanh đỏ trên màn hình. Chú hướng dẫn qua loa cho Sua về các con số, thuật ngữ để mỗi khi đi ra ngoài có việc, gọi điện về hỏi Sua giá đang mấy Sua trả lời được liền. Hai năm trước chú Sua chung tài khoản với ba ông bạn là đại gia. Mỗi người nghe nói đã đánh bay vài miếng đất tiền tỉ.
 
@@ -73,7 +73,7 @@ Một buổi sáng không thấy Sua online, chiều em nhắn đã cưới ch�
 
 \- Em không biết nữa. Anh ấy ruồng bỏ mẹ con em. Anh ơi, có phải đời em đã mắc sai lầm lớn nhất?
 
-***
+---
 
 Những ngày đầu tháng ba năm 2013 giá vàng rơi tự do. Con sóng ấy đã cuốn trôi một gia đình. Vợ tôi ôm con chín tháng tuổi bỏ đi. Tài sản cuối cùng là ngôi nhà không còn nữa. Như con thú tru lên trong nỗi cô đơn tuyệt vọng, thằng điên tôi lao ra đường giữa đêm khuya. Không chiếc xe nào đâm vào tôi cho tỉnh giấc u mê. Đến thần chết cũng không muốn thu nạp tôi. Ngài bắt tôi sống để trừng phạt. Tôi bật điện thoại. Tin nhắn của Sua. Anh ổn chứ, nhắn lại cho em đỡ lo. Tôi nhắn, anh phải ra khỏi thành phố này, em tìm cho tôi một công việc nào trong đó được không, chạy xe ôm, cửu vạn, trộn hồ gì cũng được, tình trạng đang rất thảm hại, anh không còn đường chạy trốn. Loạt tin gửi đi của tôi có lẽ làm Sua sợ hãi. Tôi mắng khi Sua không tuân thủ kỷ luật nhưng tôi lại liên tiếp phạm sai lầm. Phải chăng trader có xu hướng chống lại chính mình. Hai ngày sau em nhắn lại. Bản lĩnh tâm lý của một nhà đầu tư ví như nội công của hiệp sĩ giang hồ. Nội công thường được các vị trưởng lão dày công tu tập hàng mấy chục năm trời mới thành công lực tuyệt đỉnh. Anh về nhà đi anh. Đấy chẳng phải là những lời anh đã động viên khi em tuyệt vọng sao. Châm ngôn của một cao thủ viết trên diễn đàn. Mỉa mai cho tôi quá khi lúc này em nhắc lại.
 
@@ -81,7 +81,8 @@ Một vài sàn có chính sách khuyến mại. Nộp tiền vào chơi sẽ đ
 
 Tôi đã hèn rồi mà tiền vẫn cứ trôi tuột.
 
-***
+---
+
 \- Em gặp chuyện lớn.
 
 \- Anh nghe.
@@ -138,7 +139,7 @@ Sua nhanh chóng cài phần mềm mới, nhận pass với tài khoản là hai
 
 Được rồi lại mất. Mất rồi nỗ lực làm lại từ số âm. Ngày này qua tháng khác. Này là chiến lược này là phân tích.
 
-***
+---
 
 \- Em vừa mua vàng.
 
@@ -168,7 +169,7 @@ Ngày 23.6.2016 giá vàng ngay lập tức tăng 80 giá sau khi người dân 
 
 Hàng tháng trời tôi không trade được một lệnh nên hồn.
 
-***
+---
 
 Sáu năm với chừng đó thông tin: nick Sua, trade gold, kế toán công ty xây dựng, ly hôn, có con hơn một tuổi, sống cùng mẹ. Tôi lục tung ổ D E C. Bức ảnh em gửi cho tôi ngày ăn hỏi để chứng minh việc mình đã lấy chồng là chính xác. Em mặc áo dài đỏ, đứng tựa vào cánh cửa nhà đối diện khi nhà trai đã ôm tráp lên xe về hết. Rực rỡ hem anh. Tôi đáp bằng cái mặt cười giận lẫy. Số 61, biển tên một nữ anh hùng mà một lần em đã nói. Phố nhỏ và có lẽ xa trung tâm thành phố.
 

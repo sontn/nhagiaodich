@@ -1,7 +1,7 @@
 ---
 title: 'Chị Xoa Thầy Xoa'
 date: 2024-11-25T15:43:57+07:00
-author: NhaGiaoDich
+author: Nha Giao Dich
 draft: true
 cover:
   #   image: 'img/2024/arnold/arnold.jpg'

@@ -1,7 +1,7 @@
 ---
 title: 'Giao dịch như nhà cái sòng bài'
 date: 2023-08-18T11:12:30+07:00
-author: NhaGiaoDich
+author: Nha Giao Dich
 draft: false
 cover:
   image: '/img/giaodichnhunhacai/las-vegas-casinos.jpg'

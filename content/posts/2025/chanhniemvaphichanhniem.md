@@ -1,7 +1,7 @@
 ---
 title: 'Chánh niệm và phi chánh niệm trong trading'
 date: 2025-02-04T10:46:49+07:00
-author: NhaGiaoDich
+author: Nha Giao Dich
 draft: false
 cover:
   image: 'img/2025/chanhniem/thicnnhathanh.jpg'

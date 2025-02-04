@@ -1,7 +1,7 @@
 ---
 title: 'Làm thế nào để chấp nhận được những sai lầm nhỏ trong trading'
 date: 2024-09-27T14:32:05+07:00
-author: NhaGiaoDich
+author: Nha Giao Dich
 draft: false
 cover:
   image: 'img/2024/chapnhansailamnho/mistake.png'
