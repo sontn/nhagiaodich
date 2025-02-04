@@ -1,5 +1,5 @@
 ---
-title: 'Chánh niệm và phi chánh niệm'
+title: 'Chánh niệm và phi chánh niệm trong trading'
 date: 2025-01-13T10:46:49+07:00
 author: NhaGiaoDich
 draft: false
