@@ -1,14 +1,14 @@
 ---
-title: "5 giai đoạn để trở thành trader có lợi nhuận ổn định"
+title: '5 giai đoạn để trở thành trader có lợi nhuận ổn định'
 date: 2023-08-24T10:20:18+07:00
 draft: false
 author: NhaGiaoDich
 cover:
-    image: 'img/5buoc/pyramid.png'
-    alt: 'Nhà Giao Dịch'
-    caption: 'Nhà Giao Dịch'
-tags: ["trading", "nhagiaodich"]
-categories: ["trading"]
+  image: 'img/5buoc/pyramid.png'
+  alt: 'Nhà Giao Dịch'
+  caption: 'Nhà Giao Dịch'
+tags: ['trading', 'nhagiaodich']
+categories: ['trading']
 ---
 
 # Giai đoạn 1: “Ngây thơ vô số tội”
@@ -73,7 +73,7 @@ nghĩ rằng họ đã sống sót – nhưng thậm chí là sau 3 năm thì c�
 tục được hành trình và thực sự kiếm tiền ổn định.
 Cũng nói luôn, đây là những con số thực, không phải là những con số mà tôi nghĩ ra- vậy
 nên khi bạn đã tham gia cuộc chơi được 3 năm đi nữa thì cũng đừng nghĩ rằng quãng đường
-bạn đi sẽ êm đềm kể từ đấy. Nhiều người đã tranh luận với tôi về khoảng thời gian 3 năm này 
+bạn đi sẽ êm đềm kể từ đấy. Nhiều người đã tranh luận với tôi về khoảng thời gian 3 năm này
 thật buồn cười là chưa ai trong số họ tham gia trading được 3 năm cả - nếu bạn nghĩ là bạn
 biết hơn người khác thì hãy hỏi xung quanh xem có ai đã trade 5 năm chưa và hỏi họ là mất
 bao lâu để có thể kiếm tiền ổn định. Tôi hiểu là luôn có ngoại lệ - nhưng quả thật là tôi chưa
@@ -84,6 +84,7 @@ gì đó, nhưng giờ đây nó đã ở trong máu bạn.
 Một ngày, trong một thời khắc nọ, bạn bước vào giai đoạn thứ ba…
 
 # Giai đoạn 3: Thời khắc Eureka
+
 Đến cuối chặng đường thứ hai (giai đoạn 2) bạn nhận ra rằng sự khác biệt không phải là do
 các hệ thống tạo ra. Bạn nhận ra rằng có thể kiếm tiền chỉ với một đường trung bình động,
 chẳng cần gì khác nếu bạn có cách nghĩ và cách quản lý vốn thích hợp. Bạn bắt đầu đọc sách
@@ -98,16 +99,12 @@ Bạn bắt đầu thực hiện các trade khi mà hệ thống của bạn cho
 chóng close lệnh khi market đi ngược hướng. Trade tiếp theo hoặc tiếp theo hoặc trade sau đó
 nữa sẽ có khả năng thắng cao hơn vì bạn biết hệ thống của bạn làm việc hiệu quả.
 Bạn ngưng việc nhìn vào viễn cảnh của mỗi trade và bắt đầu nhìn vào các con số hàng tuần,
-bạn biết rằng một cái trade tồi không có nghĩa là hệ thống của bạn tồi. Trong một khoảnh khắc
-bạn nhận ra rằng trò chơi trading gắn với một điều duy nhất: kiên định với hệ thống và kỷ luật
-đặt ra trong mỗi cái trade bất luận điều gì xảy đến, vì bạn biết rằng chung cuộc bạn sẽ dành
-phần thắng.
-Bạn học về quản lý vốn và đòn bẩy, ví dụ như risk bao nhiêu trên tài khoản của bạn, vv,
-vv… và giờ đây bạn thực sự “ngấm” nó, và bạn mỉm cười nhớ lại những người đã khuyên bạn
-những điều này một năm về trước. Lúc đó bạn chưa hề sẵn sàng, nhưng giờ đây bạn đã. Giây
+bạn biết rằng một cái trade tồi không có nghĩa là hệ thống của bạn tồi. **Trong một khoảnh khắc bạn nhận ra rằng trò chơi trading gắn với một** **điều duy nhất: kiên định với hệ thống và kỷ luật đặt ra trong mỗi cái trade bất luận điều gì xảy đến, vì bạn biết rằng chung cuộc bạn sẽ dành**
+**phần thắng. Bạn học về quản lý vốn và đòn bẩy, ví dụ như risk bao nhiêu trên tài khoản của bạn, vv,vv… và giờ đây bạn thực sự “ngấm” nó**, và bạn mỉm cười nhớ lại những người đã khuyên bạn những điều này một năm về trước. Lúc đó bạn chưa hề sẵn sàng, nhưng giờ đây bạn đã. Giây
 phút “Ereka” đến vào lúc bạn thực sự chấp nhận rằng bạn không thể tiên đoán thị trường.
 
 # Giai đoạn 4: Hoàn thiện năng lực một cách có ý thức
+
 Bạn trade khi hệ thống của bạn cho tín hiệu. Bạn đón nhận mỗi cái trade dễ dàng như nhau,
 dù win hay lose. Bạn chấp nhận rủi ro để các trade thắng của mình có cơ hội đi hết chặng đường của nó vì bạn biết rằng hệ thống của bạn kiếm được tiền nhiều hơn là làm mất tiền, và bạn nhanh chóng close khi đó là một lose trade để nó không làm tổn hại lớn cho tài khoản của bạn.
 Giờ đây bạn ở vào thời điểm mà phần lớn các giao dịch của bạn huề vốn, ngày lời ngày lỗ, có
@@ -123,6 +120,7 @@ những gì đã kiếm được cho market vì bạn biết rằng bạn sẽ l
 Nó kéo dài khoảng 6 tháng.
 
 # Giai đoạn 5 – Năng lực vô thức.
+
 Giống như bạn đang chế biến món ăn – hay cũng giống như việc lái xe, mỗi ngày bạn ngồi
 vào ghế vào trade - giờ đây bạn làm mọi thứ một cách vô thức. Bạn đang ở chế độ lái tự động.
 Bạn bắt đầu thực hiện những giao dịch lớn hơn và việc thắng 200 pips một ngày cũng không
@@ -134,7 +132,7 @@ Như là một điều không tưởng trong trading - bạn đã thực sự l�
 giờ đây bạn là một trader có mức tăng trưởng tài khoản rất nhanh.
 Bạn là ngôi sao trong chatroom và mọi người lắng nghe những gì bạn nói. Bạn nhận ra hình
 ảnh của mình khoảng 2 năm về trước trong các câu hỏi của họ. Bạn khuyên họ, nhưng bạn biết
-rằng hầu hết những lời khuyên đó rồi sẽ bị gió cuốn đi vì họ là những đứa trẻ chưa trưởng thành 
+rằng hầu hết những lời khuyên đó rồi sẽ bị gió cuốn đi vì họ là những đứa trẻ chưa trưởng thành
 một vài người trong số họ sẽ vươn tới vị trí như bạn giờ đây - một số đi nhanh và số khác
 chậm hơn - thực sự là rất nhiều, rất nhiều người không bao giờ bước ra khỏi giai đoạn thứ hai,
 trừ một số ít người.
