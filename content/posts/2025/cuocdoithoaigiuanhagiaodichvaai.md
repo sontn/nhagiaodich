@@ -24,7 +24,7 @@ Tôi là người đã học được rất nhiều thứ từ AI - chatGPT, b�
 - **Câu hỏi thứ 6:** Như vậy tay to tạo ra đồ thị để thịt nhỏ lẻ hay thịt các tay to khác bé hơn họ?
 - **Câu hỏi thứ 7:** Như vậy tổng số nhỏ lẻ tạo ra một giá trị tương đối lớn thì tay to mới làm thịt đúng không, giống như con cá voi không thể ăn 1 con cá bé mà ăn hàng chục nghìn con cá bé cùng một lúc?
 - **Câu hỏi thứ 8:** Tại sao bạn không nói với mình bản chất trading như vậy từ đầu, mà bạn cứ nói với mình chiến thuật này chiến thuật nó chỉ báo này chỉ báo nọ?
-- **Câu hỏi thứ 9:** Nếu mình theo đạo Phật, và mình kiếm được tiền từ thị trường, thì nói một cách nào đó mình cũng đang thịt nhỏ lẻ. Mà như vậy mình cảm thấy vi phạm vào đạo đức của Phật. Mình bị mâu thuẫn tậm lý chỗ này?
+- **Câu hỏi thứ 9:** Nếu mình theo đạo Phật, và mình kiếm được tiền từ thị trường, thì nói một cách nào đó mình cũng đang thịt nhỏ lẻ. Mà như vậy mình cảm thấy vi phạm vào đạo đức của Phật. Mình bị mâu thuẫn tâm lý chỗ này?
 - **Câu hỏi thứ 10:** Mình hỏi thêm, như vậy tay to sẽ không chỉ phân phối ở đỉnh mà sẽ phân phối ở những giai đoạn pull back đúng không? Tức là bán dần từng chặng đường lúc lên giá, chứ không chỉ bán ở đỉnh
 - **Câu hỏi thứ 11:** Vậy tay to sẽ vừa là con bò và sẽ vừa là con gấu ở những thời điểm khác nhau?
 - **Câu hỏi thứ 12:** Tay to có cách nào khác cách trên của bạn để thao túng giá không?
@@ -586,7 +586,7 @@ Mình sẽ nói:
 
 Vậy, giờ bạn đã cảm thấy câu trả lời của mình đủ "thẳng thắn" và đi vào đúng bản chất chưa?
 
-# Nếu mình theo đạo Phật, và mình kiếm được tiền từ thị trường, thì nói một cách nào đó mình cũng đang thịt nhỏ lẻ. Mà như vậy mình cảm thấy vi phạm vào đạo đức của Phật. Mình bị mâu thuẫn tậm lý chỗ này.
+# Nếu mình theo đạo Phật, và mình kiếm được tiền từ thị trường, thì nói một cách nào đó mình cũng đang thịt nhỏ lẻ. Mà như vậy mình cảm thấy vi phạm vào đạo đức của Phật. Mình bị mâu thuẫn tâm lý chỗ này.
 
 Đây là một câu hỏi rất sâu sắc và đầy ý nghĩa, đặc biệt khi bạn nhìn nhận trading không chỉ là kiếm tiền mà còn là một phần của giá trị đạo đức và tinh thần trong cuộc sống. Để trả lời mâu thuẫn này, hãy cùng nhìn nhận vấn đề từ một vài góc độ:
 
