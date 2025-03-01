@@ -11,7 +11,7 @@ tags: ['tamlygiaodich']
 categories: ['trading', 'psychology']
 ---
 
-Hôm qua tôi mua sách Quân Vương, là một quyển sách gối đầu giường về quyền lực và chính trị mà bất kỳ chính trị gia nào cũng bắt buộc phải đọc. Tôi mua đọc để biết, vì tôi không có tham vọng chính trị, và cũng không có cửa gì cả. Tôi đọc nhanh mấy chương của Quân Vương, tôi mới thắc mắc vậy Quân Vương có phải là đích đến số 1 của đại đa số con người không? Tôi chưa đủ năng lực để  trả lời câu hỏi này, nên tôi hỏi chatGPT. Và dưới đây là so sánh Quân Vương với Trader, một công việc mà tôi theo đuổi rất nhiều năm trở lại đây. Hóa ra có rất nhiều điểm tương đồng giữa Quân Vương và trader. Như vậy công việc trader mà tôi theo đuổi kể cũng vô cùng có giá đó chứ chẳng chơi, vì trader cũng được AI so sánh bằng với Quân Vương cơ mà. Hơi bị oách! 
+Hôm qua tôi mua sách Quân Vương, là một quyển thuộc hàng kinh điển, sách gối đầu giường về quyền lực và chính trị mà bất kỳ chính trị gia nào cũng bắt buộc phải đọc. Tôi mua đọc để biết, vì tôi không có tham vọng chính trị, và cũng không có cửa gì cả. Tôi đọc nhanh mấy chương của Quân Vương, tôi mới thắc mắc vậy Quân Vương có phải là đích đến số 1 của đại đa số con người không? Tôi chưa đủ năng lực để  trả lời câu hỏi này, nên tôi hỏi chatGPT. Và dưới đây là so sánh Quân Vương với Trader, một công việc mà tôi theo đuổi rất nhiều năm trở lại đây. Hóa ra có rất nhiều điểm tương đồng giữa Quân Vương và trader. Như vậy công việc trader mà tôi theo đuổi kể cũng vô cùng có giá đó chứ chẳng chơi, vì trader cũng được AI so sánh bằng với Quân Vương cơ mà. Hơi bị oách! 
 
 Mời các bạn theo dõi tiếp nhé. Xin trân trọng cảm ơn!
 
