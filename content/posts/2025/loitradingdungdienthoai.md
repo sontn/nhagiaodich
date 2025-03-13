@@ -4,7 +4,7 @@ date: 2025-03-13T10:56:09+07:00
 author: Nha Giao Dich
 draft: false
 cover:
-  image: 'img/2025/mobilenotrading.png'
+  image: 'img/2025/errors/mobilenotrading.png'
   alt: 'Nhà Giao Dịch'
   caption: 'Nhà Giao Dịch'
 tags: ['tamlygiaodich']
