@@ -1,5 +1,5 @@
 ---
-title: 'Có cần đặt Stop Loss không ?'
+title: 'Có cần đặt Stop Loss không?'
 date: 2023-08-22T09:02:53+07:00
 draft: false
 author: Nha Giao Dich
