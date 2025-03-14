@@ -13,6 +13,18 @@ categories: ['trading']
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+Trend level signal
+
+Trend level signal
+
+Trend level signal
+
+Trend level signal
+
+Trend level signal
+
+Trend level signal
+
 Trade bằng tỉnh thức
 
 Trade bằng tỉnh thức
