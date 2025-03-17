@@ -33,6 +33,8 @@ Dưới đây là câu nói yêu thích của tôi từ Napoleon Hill:
 
 Sau khi đọc bài viết này, bạn có thể xem thêm video của Napoleon Hill để tìm hiểu về công trình đáng kinh ngạc của ông về phát triển bản thân và đạt được thành công.
 
+{{< youtube JfqDvi8b4gg >}}
+
 ## 17 Câu Khẳng Định Hàng Ngày Trong Giao Dịch
 
 Dưới đây là danh sách 17 câu khẳng định hàng ngày mà bạn có thể đưa vào kế hoạch giao dịch của mình và nên đọc to lên mỗi ngày. Việc này sẽ giúp bạn duy trì động lực, rèn luyện thói quen giao dịch đúng đắn và duy trì con đường dẫn đến thành công trong Forex:
