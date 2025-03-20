@@ -150,8 +150,8 @@ việc như bất ký công việc nào khác mà thôi.
 Tôi hy vọng bạn cảm thấy thú vị khi đọc hành trình để trở thành trader này và hy vọng rằng
 bạn tìm thấy nhiều điều đồng cảm ở đây.
 Hãy nhớ rằng chỉ có 5% thực sự thành công – nhưng lý do thất bại không nằm ở năng lực
-mà là ở khả năng chịu đựng, khả năng thay đổi nhận thức và khả năng thay đổi các hình mẫu
-khi mọi thứ thay đổi.
+mà là ở **khả năng chịu đựng, khả năng thay đổi nhận thức và khả năng thay đổi các hình mẫu**
+**khi mọi thứ thay đổi.**
 Người thua cuộc là người muốn “giàu nhanh”, tiếp cận thị trường và tự gắn cho mình những
 miếng vải che mắt, vì vậy mà họ không nhìn thấy sự thật hiển nhiên - một dạng quan điểm kiểu
 “đây là cách tôi nghĩ về nó và nó phải là như vậy” - từ chối “tiêu hóa” những điều làm thay đổi
