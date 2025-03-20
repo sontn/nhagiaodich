@@ -122,7 +122,7 @@ Nó kéo dài khoảng 6 tháng.
 # Giai đoạn 5 – Năng lực vô thức.
 
 Giống như bạn đang chế biến món ăn – hay cũng giống như việc lái xe, mỗi ngày bạn ngồi
-vào ghế vào trade - giờ đây bạn làm mọi thứ một cách vô thức. Bạn đang ở chế độ lái tự động.
+vào ghế vào trade - **giờ đây bạn làm mọi thứ một cách vô thức. Bạn đang ở chế độ lái tự động.**
 Bạn bắt đầu thực hiện những giao dịch lớn hơn và việc thắng 200 pips một ngày cũng không
 làm bạn hào hứng hơn so với 1 pip.
 Bạn thấy các newbies trong forum gào lên “go dollar go” như thể họ đang thúc giục một
