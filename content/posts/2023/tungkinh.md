@@ -13,6 +13,16 @@ categories: ['trading']
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+trend level signal
+
+Direction level signal
+
+Direction level signal
+
+Direction level signal
+
+Direction level signal
+
 Trend level signal
 
 Trend level Signal
