@@ -13,6 +13,16 @@ categories: ['trading']
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+stoploss is a part of the trading
+
+stoploss is a part of the trading game
+
+stoploss is a part of the trading game
+
+stoploss is a part of the trading game
+
+stoploss is a part of the trading game
+
 trend level signal
 
 Direction level signal
