@@ -34,3 +34,5 @@ Trong những con sóng lớn, người lướt có thể cảm nhận cảm gi�
 Lướt sóng là cách tuyệt vời để tương tác với thiên nhiên. Người lướt thường có thể cảm nhận sự mạnh mẽ của sóng và sự kết nối với môi trường xung quanh.
 
 Tất nhiên, cảm giác này có thể thay đổi tùy thuộc vào mỗi người và điều kiện sóng cụ thể. Đối với nhiều người, lướt sóng không chỉ là một hoạt động thể thao mà còn là một trải nghiệm tâm linh và giao tiếp với tự nhiên.
+
+{{< youtube jyDqEr9usxw >}}
