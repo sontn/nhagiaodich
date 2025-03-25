@@ -86,8 +86,8 @@ Một ngày, trong một thời khắc nọ, bạn bước vào giai đoạn th�
 # Giai đoạn 3: Thời khắc Eureka
 
 Đến cuối chặng đường thứ hai (giai đoạn 2) bạn nhận ra rằng sự khác biệt không phải là do
-các hệ thống tạo ra. Bạn nhận ra rằng có thể kiếm tiền chỉ với một đường trung bình động,
-chẳng cần gì khác nếu bạn có cách nghĩ và cách quản lý vốn thích hợp. Bạn bắt đầu đọc sách
+các hệ thống tạo ra. **Bạn nhận ra rằng có thể kiếm tiền chỉ với một đường trung bình động,**
+**chẳng cần gì khác nếu bạn có cách nghĩ và cách quản lý vốn thích hợp**. Bạn bắt đầu đọc sách
 về tâm lý trong trading, đồng cảm với các nhân vật được khắc họa trong những cuốn sách này
 và cuối cùng bạn đi đến giờ phút “Eureka”.
 Thời khắc “Eureka” này tạo ra một sự kết nối với những gì đã có trong bạn. Bạn chợt nhận
