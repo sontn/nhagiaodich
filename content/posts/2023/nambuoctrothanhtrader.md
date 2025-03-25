@@ -90,9 +90,9 @@ các hệ thống tạo ra. **Bạn nhận ra rằng có thể kiếm tiền ch�
 **chẳng cần gì khác nếu bạn có cách nghĩ và cách quản lý vốn thích hợp**. Bạn bắt đầu đọc sách
 về tâm lý trong trading, đồng cảm với các nhân vật được khắc họa trong những cuốn sách này
 và cuối cùng bạn đi đến giờ phút “Eureka”.
-Thời khắc “Eureka” này tạo ra một sự kết nối với những gì đã có trong bạn. Bạn chợt nhận
-ra rằng bạn, bất kỳ ai cũng không thể dự đoán chính xác được market sẽ chuyển động ra sao
-trong mười giây hay 20 giây tới, nên cũng đừng bận tâm nó sẽ ra sao trong 20 phút tới. Vì phát
+Thời khắc “Eureka” này tạo ra một sự kết nối với những gì đã có trong bạn. **Bạn chợt nhận**
+**ra rằng bạn, bất kỳ ai cũng không thể dự đoán chính xác được market sẽ chuyển động ra sao**
+**trong mười giây hay 20 giây tới, nên cũng đừng bận tâm nó sẽ ra sao trong 20 phút tới.** Vì phát
 hiện này mà bạn thôi không còn quan tâm đến việc người khác nghĩ gì – tin này sẽ ảnh hưởng
 như thế nào, sự kiện nọ sẽ ảnh hưởng đến market ra sao. Bạn trở thành một cá thể với phương pháp riêng của bạn. Bạn bắt đầu tập trung vào chỉ một hệ thống và mài dũa nó theo cách của bạn, bạn bắt đầu cảm thấy vui sướng và xác định ngưỡng risk của mình.
 Bạn bắt đầu thực hiện các trade khi mà hệ thống của bạn cho thấy tỉ lệ thắng cao. Khi position đi ngược bạn không giận dữ vì bạn ý thức rằng bạn không thể tiên đoán, và bạn nhanh
