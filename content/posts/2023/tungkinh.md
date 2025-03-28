@@ -55,6 +55,16 @@ I am a consistently profitable trader
 
 I am a consistently profitable trader
 
+I am a consistently profitable trader
+
+I am a consistently profitable trader
+
+I am a consistently profitable trader
+
+I am a consistently profitable trader
+
+I am a consistently profitable trader
+
 stoploss is a part of the trading
 
 stoploss is a part of the trading game
