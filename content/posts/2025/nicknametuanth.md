@@ -24,3 +24,5 @@ categories: ['trading', 'psychology']
 # Tuấn Tay To
 
 # Phạm Nhật Hữu Tuấn
+
+# Tuấn Thấu Hiểu
