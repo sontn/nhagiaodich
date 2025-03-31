@@ -129,7 +129,7 @@ Bạn thấy các newbies trong forum gào lên “go dollar go” như thể h�
 con ngựa đua trong một giải đấu quốc gia trọng đại, và bạn nhìn thấy hình ảnh của chính mình
 – nhưng là của nhiều năm về trước.
 Như là một điều không tưởng trong trading - bạn đã thực sự làm chủ cảm xúc của mình, và
-giờ đây bạn là một trader có mức tăng trưởng tài khoản rất nhanh.
+**giờ đây bạn là một trader có mức tăng trưởng tài khoản rất nhanh.**
 Bạn là ngôi sao trong chatroom và mọi người lắng nghe những gì bạn nói. Bạn nhận ra hình
 ảnh của mình khoảng 2 năm về trước trong các câu hỏi của họ. Bạn khuyên họ, nhưng bạn biết
 rằng hầu hết những lời khuyên đó rồi sẽ bị gió cuốn đi vì họ là những đứa trẻ chưa trưởng thành
