@@ -13,6 +13,18 @@ categories: ['trading']
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+Entry Stoploss TP
+
+Entry stoploss TP
+
+Entry stoploss TP
+
+Entry stoploss TP
+
+Entry Stoploss TP
+
+Entry Stoploss TP
+
 I am a consistently profitable trader
 
 I am a consistently profitable trader
