@@ -9208,3 +9208,21 @@ Stoploss là một phần quan trọng không thể thiếu trong trading
 Stoploss là một phần quan trọng không thể thiếu trong trading
 
 Stoploss là một phần quan trọng không thể thiếu trong trading
+
+Đã vào là phải vào key level, không key level không vào lệnh
+
+Đã vào là phải vào key level, không key level không vào lệnh
+
+Đã vào là phải vào key level, không key level không vào lệnh
+
+Đã vào là phải vào key level, không key level không vào lệnh
+
+Đã vào là phải vào key level, không key level không vào lệnh
+
+Đã vào là phải vào key level, không key level không vào lệnh
+
+Đã vào là phải vào key level, không key level không vào lệnh
+
+Đã vào là phải vào key level, không key level không vào lệnh
+
+Đã vào là phải vào key level, không key level không vào lệnh
