@@ -13,6 +13,12 @@ categories: ['trading']
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+Đúng key level thì vào. ko key ko vào
+
+Đúng key level thì vào. ko key ko vào
+
+Đúng key level thì vào. ko key ko vào. 
+
 I am a consistently profitable trader
 
 I am a consistently profitable trader
