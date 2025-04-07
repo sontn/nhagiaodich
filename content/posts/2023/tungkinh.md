@@ -23,6 +23,16 @@ Trade bằng tỉnh thức
 
 Trade bằng tỉnh thức
 
+Trade bằng tỉnh thức
+
+Trade bằng tỉnh thức
+
+Trade bằng tỉnh thức
+
+Trade bằng tỉnh thức
+
+Trade bằng tỉnh thức
+
 Đúng key level thì vào. ko key ko vào
 
 Đúng key level thì vào. ko key ko vào
