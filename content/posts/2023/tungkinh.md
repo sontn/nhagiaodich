@@ -13,6 +13,16 @@ categories: ['trading']
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+đúng key level thì vào ko key ko vào
+
+Đúng key level thì vào. ko key ko vào
+
+Đúng key level thì vào. ko key ko vào
+
+Đúng key level thì vào. ko key ko vào. 
+
+Đúng key level thì vào. ko key ko vào. 
+
 Trade bằng tỉnh thức
 
 Trade bằng tỉnh thức
