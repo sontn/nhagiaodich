@@ -1,5 +1,5 @@
 ---
-title: 'Những nối sợ hãi lớn nhất trong trading và cách khắc phục'
+title: 'Những nỗi sợ hãi lớn nhất trong trading và cách khắc phục'
 date: 2025-04-09T14:46:09+07:00
 author: Nha Giao Dich
 draft: false
@@ -11,7 +11,7 @@ tags: ['tamlygiaodich']
 categories: ['trading', 'psychology']
 ---
 
-Lẽ thường khi làm một việc gì mới, tôi thường có cảm giác lo sợ. Lo là mình có khả năng làm được việc đó không, mình có làm tốt không hay lại thất bại. Và tôi cũng chỉ là người bình thường như bao nhiêu người khác, rất sợ bị chỉ trích nếu thất bại, cũng có thể đó là văn hóa giao dục nhà trường trong hàng chục năm định hình lên mỗi học sinh một cảm giác như vậy. Nhưng tâm lý đó thực sự không tốt, nó làm tôi chùn bước, tự ti vào bản thân và làm mất khả năng giải quyết vấn đề. Vì năng lượng đã đổ hết vào sự sợ hãi, không còn đủ năng lượng tích cực để làm việc hay giải quyết vấn đề nữa.
+Lẽ thường khi làm một việc gì mới, tôi thường có cảm giác lo sợ. Lo là mình có khả năng làm được việc đó không, mình có làm tốt không hay lại thất bại. Và tôi cũng chỉ là người bình thường như bao nhiêu người khác, rất sợ bị chỉ trích nếu thất bại, cũng có thể đó là văn hóa giao dục nhà trường trong hàng chục năm định hình lên mỗi học sinh một cảm giác như vậy. Nhưng tâm+-- lý đó thực sự không tốt, nó làm tôi chùn bước, tự ti vào bản thân và làm mất khả năng giải quyết vấn đề. Vì năng lượng đã đổ hết vào sự sợ hãi, không còn đủ năng lượng tích cực để làm việc hay giải quyết vấn đề nữa.
 
 Trong trading, thực sự sợ hãi là một trở ngại vô cùng lớn. Nó luồn lách vào tận sâu trong tâm hồn, một cách tự nhiên và vô thức, cản trở hết các việc làm đúng và ngây ra tổn thất tinh thần, cũng như vật chất vô cùng lớn. Tôi thi thoảng nhận diện được những nỗi sợ hãi này, và gọi tên chúng 1 cách dễ dàng. Nhưng phần kha khá lớn thời gian còn lại thì vẫn chưa, vẫn để sự sợ hãi chế ngự. Rõ ràng không thể một sớm 1 chiều loại bỏ sự sợ hãi ra ngoài con người, nhưng tôi sẽ dần dần và nỗ lực để cải thiện nó. Dưới đây là những sợ hãi điển hình trong trading, mà một trader chắc chắn phải đối mặt với nó, và cách giải quyết.
 
