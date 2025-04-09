@@ -34,3 +34,5 @@ categories: ['trading', 'psychology']
 # Tuấn TP
 
 # Tuấn Non Bộ
+
+# Tuấn Rô
