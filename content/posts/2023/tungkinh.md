@@ -19,9 +19,9 @@ categories: ['trading']
 
 Đúng key level thì vào. ko key ko vào
 
-Đúng key level thì vào. ko key ko vào. 
+Đúng key level thì vào. ko key ko vào.
 
-Đúng key level thì vào. ko key ko vào. 
+Đúng key level thì vào. ko key ko vào.
 
 Trade bằng tỉnh thức
 
@@ -47,7 +47,7 @@ Trade bằng tỉnh thức
 
 Đúng key level thì vào. ko key ko vào
 
-Đúng key level thì vào. ko key ko vào. 
+Đúng key level thì vào. ko key ko vào.
 
 I am a consistently profitable trader
 
@@ -9262,3 +9262,13 @@ Stoploss là một phần quan trọng không thể thiếu trong trading
 Đã vào là phải vào key level, không key level không vào lệnh
 
 Đã vào là phải vào key level, không key level không vào lệnh
+
+Đừng bao giờ kỳ vọng vào 1 trade bất kỳ, vì luôn có xác suất thắng thua ngẫu nhiên. Hãy tập trung vào phương pháp thay vì 1 trade cụ thể
+
+Đừng bao giờ kỳ vọng vào 1 trade bất kỳ, vì luôn có xác suất thắng thua ngẫu nhiên. Hãy tập trung vào phương pháp thay vì 1 trade cụ thể
+
+Đừng bao giờ kỳ vọng vào 1 trade bất kỳ, vì luôn có xác suất thắng thua ngẫu nhiên. Hãy tập trung vào phương pháp thay vì 1 trade cụ thể
+
+Đừng bao giờ kỳ vọng vào 1 trade bất kỳ, vì luôn có xác suất thắng thua ngẫu nhiên. Hãy tập trung vào phương pháp thay vì 1 trade cụ thể
+
+Đừng bao giờ kỳ vọng vào 1 trade bất kỳ, vì luôn có xác suất thắng thua ngẫu nhiên. Hãy tập trung vào phương pháp thay vì 1 trade cụ thể
