@@ -13,6 +13,18 @@ categories: ['trading']
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+Mạnh mẽ tự tin lên Sơn
+
+Mạnh mẽ tự tin lên Sơn
+
+Mạnh mẽ tự tin lên Sơn
+
+Mạnh mẽ tự tin lên Sơn
+
+Mạnh mẽ tự tin lên Sơn
+
+Mạnh mẽ tự tin lên Sơn
+
 đúng key level thì vào ko key ko vào
 
 Đúng key level thì vào. ko key ko vào
