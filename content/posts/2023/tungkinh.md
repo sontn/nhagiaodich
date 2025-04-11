@@ -13,6 +13,14 @@ categories: ['trading']
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+I am a profitable trader
+
+I am a profitable trader
+
+I am a profitable trader
+
+I am a profitable trader
+
 Mạnh mẽ tự tin lên Sơn
 
 Mạnh mẽ tự tin lên Sơn
