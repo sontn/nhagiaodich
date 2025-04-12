@@ -38,3 +38,5 @@ categories: ['trading', 'psychology']
 # Tuấn Rô
 
 # Tuấn Ve Sầu
+
+# Tuấn Hồn Nhiên
