@@ -21,6 +21,16 @@ I am a profitable trader
 
 I am a profitable trader
 
+I am a profitable trader
+
+I am a profitable trader
+
+I am a profitable trader
+
+I am a profitable trader
+
+I am a profitable trader
+
 Mạnh mẽ tự tin lên Sơn
 
 Mạnh mẽ tự tin lên Sơn
