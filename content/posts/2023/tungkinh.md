@@ -16,6 +16,12 @@ I am a consistently profitable trader
 
 I am a consistently profitable trader
 
+I am a consistently profitable trader
+
+I am a consistnetly profitable trader
+
+I am a consistently profitable trader
+
 I am a profitable trader
 
 I am a profitable trader
