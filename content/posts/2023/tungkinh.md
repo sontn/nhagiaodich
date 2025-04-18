@@ -23,6 +23,16 @@ Tôi là trader kỷ luật
 
 Tôi là trader kỷ luật
 
+Tôi là trader kỷ luật
+
+Tôi là trader kỷ luật
+
+Tôi là trader kỷ luật
+
+Tôi là trader kỷ luật
+
+Tôi là trader kỷ luật
+
 I am a consistently profitable trader
 
 I am a consistently profitable trader
