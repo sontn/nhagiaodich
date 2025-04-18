@@ -11,52 +11,50 @@ tags: ['tamlygiaodich']
 categories: ['trading', 'psychology']
 ---
 
-# 🧘 TUYÊN NGÔN CỦA TRADER BÌNH THƯỜNG NHƯNG ỔN ĐỊNH
+# 🧘 TUYÊN NGÔN CỦA TRADER BÌNH THƯỜNG NHƯNG ỔN ĐỊNH (PHIÊN BẢN KHẲNG ĐỊNH)
 
-> Tôi không cần phải giỏi nhất.  
-> Tôi chỉ cần không phá hủy chính mình.
+## Tôi chọn sống sót lâu dài thay vì cố trở thành giỏi nhất.
 
----
-
-### Tôi không cần đoán đỉnh, đoán đáy.
-
-Tôi chỉ cần đi cùng sóng – khi sóng rõ ràng.
+Tôi bảo vệ bản thân trước – rồi mới nghĩ đến thành công.
 
 ---
 
-### Tôi không cần trade mỗi giờ, mỗi ngày.
+## Tôi đi cùng xu hướng rõ ràng, không cần phải đoán đỉnh đoán đáy.
 
-Tôi chỉ cần **đủ lệnh để hệ thống phát huy**, và **đủ kiên nhẫn để không phá hệ thống.**
-
----
-
-### Tôi không cần chiến thắng liên tục.
-
-Tôi chỉ cần **thắng khi đáng thắng, thua khi cần phải thua.**
+Tôi giao dịch thuận theo dòng chảy thay vì chống lại nó.
 
 ---
 
-### Tôi không so mình với người khác.
+## Tôi thực hiện đủ số lệnh để hệ thống phát huy lợi thế.
 
-Tôi chỉ so mình hôm nay với mình hôm qua.
-
----
-
-### Tôi không chạy theo thị trường.
-
-Tôi để thị trường đến gần vùng tôi hiểu,  
-rồi tôi ra tay – như một người thợ đã quen với nhịp dao.
+Tôi kiên nhẫn chờ đợi cơ hội thay vì ép thị trường mỗi ngày.
 
 ---
 
-### Tôi không cần là Lý Tiểu Long.
+## Tôi đón nhận thắng thua như một phần của xác suất.
 
-Tôi chỉ cần là **Tôi – người mỗi ngày tỉnh táo hơn 1%**,  
-mỗi lệnh rõ ràng hơn 1 lần.
+Tôi thắng khi nên thắng, và sẵn sàng thua khi cần thua.
 
 ---
 
-### Và nếu một ngày tài khoản tăng đều, không còn stress, không còn run tay…
+## Tôi so sánh chính mình hôm nay với chính mình hôm qua.
 
-Tôi không cần ăn mừng.  
-Vì tôi biết: **tôi đã đi xa khỏi vùng mê muội – và chạm vào vùng sống sót.**
+Tôi tiến bộ từng chút, không chạy theo thành công của người khác.
+
+---
+
+## Tôi kiên định với vùng giá tôi hiểu rõ.
+
+Tôi để thị trường đến với tôi – và tôi chỉ ra tay khi xác suất ủng hộ.
+
+---
+
+## Tôi là chính tôi – tỉnh táo hơn mỗi ngày, sáng suốt hơn mỗi lệnh.
+
+Tôi không cần trở thành một ai khác để xứng đáng với thị trường.
+
+---
+
+## Khi tài khoản dần tăng đều, khi tâm trí vững vàng, khi tôi giao dịch không còn run tay…
+
+Tôi mỉm cười, vì tôi biết mình đã rời khỏi vùng mê muội – và bước vào vùng sống sót.
