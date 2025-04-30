@@ -53,6 +53,12 @@ I am a consistently profitable trader
 
 I am a consistently profitable trader
 
+I am a consistently profitable trader
+
+I am a consistently profitable trader
+
+I am a consistently profitable trader
+
 Yes I do
 
 Yes I do
