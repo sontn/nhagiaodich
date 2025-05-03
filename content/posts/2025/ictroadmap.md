@@ -16,7 +16,7 @@ categories: ['trading', 'psychology']
 - ✅ Liquidity (SL là thanh khoản)  
 - ✅ Buy-side vs Sell-side Liquidity  
 - ✅ Premium vs Discount (Fibonacci 0.5–0.79)  
-- ✅ Nguyên lý: "Buy in discount, sell in premium"  
+- ✅ Nguyên lý: "Buy in discount, sell in premium. Anything else is liquidity"
 - ✅ Hiểu CHoCH, BOS, MSS là gì  
 - ✅ Biết OB (Order Block) & FVG (Fair Value Gap)  
 
