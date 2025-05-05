@@ -7,8 +7,8 @@ cover:
   image: 'img/2025/tuyenngontrader/taisinh.jpg'
   alt: 'Nhà Giao Dịch'
   caption: 'Nhà Giao Dịch'
-tags: ['tamlygiaodich']
-categories: ['trading', 'psychology']
+tags: ['ict', 'dow']
+categories: ['trading', 'ict', 'dow']
 ---
 
 ## _Hai tiền đề đã cứu tôi ra khỏi mê cung của thị trường_
