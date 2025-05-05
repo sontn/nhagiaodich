@@ -7,8 +7,8 @@ cover:
   image: 'img/2025/tuyenngontrader/phuonghoangtaisinh.png'
   alt: 'Nhà Giao Dịch'
   caption: 'Nhà Giao Dịch'
-tags: ['tamlygiaodich']
-categories: ['trading', 'psychology']
+tags: ['ict']
+categories: ['trading', 'ict']
 ---
 
 {{< youtube YZ76IuD2gzk >}}

@@ -7,8 +7,8 @@ cover:
   image: 'img/2025/tuyenngontrader/bigbang.png'
   alt: 'Nhà Giao Dịch'
   caption: 'Nhà Giao Dịch'
-tags: ['tamlygiaodich']
-categories: ['trading', 'psychology']
+tags: ['ict', 'dow']
+categories: ['trading', 'ict', 'dow']
 ---
 
 ## I. Big Bang Thứ Nhất: Charles Dow – “Mọi thứ đều phản ánh vào giá”
