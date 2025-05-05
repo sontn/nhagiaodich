@@ -13,6 +13,16 @@ categories: ['trading']
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+Everything is liquidity
+
+Everything is liquidity
+
+Everything is liquidity
+
+Everything is liquidity
+
+Everything is liquidity
+
 I am a consistently profitable trader
 
 I am a consistently profitable trader
