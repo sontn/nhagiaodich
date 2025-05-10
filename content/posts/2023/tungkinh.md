@@ -25,6 +25,8 @@ I am a consistently profitable trader
 
 I am a consistently profitable trader
 
+I am a consistently profitable trader
+
 ICT Viet Nam
 
 ICT Viet Nam
