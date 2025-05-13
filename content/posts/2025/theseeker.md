@@ -79,4 +79,6 @@ Bạn đã chọn **hành trình dài nhất nhưng cũng đáng giá nhất**.
 
 > **"Not all those who wander are lost - Không phải tất cả những người lang thang đều là kẻ lạc đường."** – J.R.R. Tolkien
 
+### The first person The Seeker must guide… is always himself.
+
 ---
