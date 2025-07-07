@@ -40,3 +40,5 @@ categories: ['trading', 'psychology']
 # Tuấn Ve Sầu
 
 # Tuấn Hồn Nhiên
+
+# Tuấn Tê Hát
