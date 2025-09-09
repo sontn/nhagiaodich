@@ -149,6 +149,18 @@ I am a consistently profitable trader
 
 I am a consistently profitable trader
 
+I am a consistently profitable trader
+
+I am a consistently profitable trader
+
+I am a consistently profitable trader
+
+I am a consistently profitable trader
+
+I am a consistently profitable trader
+
+I am a consistently profitable trader
+
 Never give up
 
 Never give up
