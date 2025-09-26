@@ -42,3 +42,5 @@ categories: ['trading', 'psychology']
 # Tuấn Hồn Nhiên
 
 # Tuấn Tê Hát
+
+# Tuấn Chen
