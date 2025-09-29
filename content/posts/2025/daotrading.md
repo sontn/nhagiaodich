@@ -12,7 +12,7 @@ categories: ['trading', 'daotrading']
 ---
 
 Đạo của trading  
-Không ở chõ đoán trước  
+Không ở chỗ đoán trước  
 Mà ở chỗ thuận theo
 
 Thị trường tự vận hành  
