@@ -13,6 +13,14 @@ categories: ['trading']
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+I found the edge
+
+I found the edge
+
+I found the edge
+
+I found the edge
+
 I am a consistently profitable trader
 
 I am a consistently profitable trader
