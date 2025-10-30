@@ -191,6 +191,12 @@ I found the edge
 
 I found the edge
 
+I found the edge
+
+I found the edge
+
+I found the edge
+
 I am a consistently profitable trader
 
 I am a consistently profitable trader
