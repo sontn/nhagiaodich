@@ -13,6 +13,28 @@ categories: ['trading']
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+Mạnh mẽ lên Sơn
+
+Mạnh mẽ lên Sơn
+
+Mạnh mẽ lên Sơn
+
+Mạnh mẽ lên Sơn
+
+Mạnh mẽ lên Sơn
+
+Mạnh mẽ lên Sơn
+
+Mạnh mẽ lên Sơn
+
+Mạnh mẽ lên Sơn
+
+Mạnh mẽ lên Sơn
+
+Mạnh mẽ lên Sơn
+
+Mạnh mẽ lên Sơn
+
 I found the edge
 
 I found the edge
