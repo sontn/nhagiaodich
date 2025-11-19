@@ -13,6 +13,44 @@ categories: ['trading']
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+Lượng đổi chất đổi
+
+Lượng đổi chất đổi
+
+Lượng đổi chất đổi
+
+Lượng đổi chất đổi
+
+Lượng đổi chất đổi
+
+Lượng đổi chất đổi
+
+Lượng đổi chất đổi
+
+Tập trung lên Sơn
+
+Tập trung lên Sơn
+
+Tập trung lên Sơn
+
+Tập trung lên Sơn
+
+Tập trung lên Sơn
+
+Tập trung lên Sơn
+
+Tập trung lên Sơn
+
+Tập trung lên Sơn
+
+Tập trung lên Sơn
+
+Tập trung lên Sơn
+
+Tập trung lên Sơn
+
+Tập trung lên Sơn
+
 Tự tin lên Sơn
 
 Tự tin lên Sơn
