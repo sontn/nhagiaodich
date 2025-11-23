@@ -13,6 +13,16 @@ categories: ['trading']
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+Dũng mãnh lên Sơn
+
+Dũng mãnh lên Sơn
+
+Dũng mãnh lên Sơn
+
+Dũng mãnh lên Sơn
+
+Dũng mãnh lên Sơn
+
 Tập trung lên Sơn
 
 Tập trung lên Sơn
