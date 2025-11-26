@@ -13,6 +13,18 @@ categories: ['trading']
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+Đơn giản, hiệu quả không màu mè
+
+Đơn giản, hiệu quả không màu mè
+
+Đơn giản, hiệu quả không màu mè
+
+Đơn giản hiệu quả không màu mè
+
+Đơn giản hiệu quả không màu mè
+
+Đơn giản hiệu quả không màu mè
+
 Đánh bằng con mắt không đánh bằng niềm tin
 
 Đánh bằng con mắt không đánh bằng niềm tin
