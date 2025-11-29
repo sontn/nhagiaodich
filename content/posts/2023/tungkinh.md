@@ -13,6 +13,16 @@ categories: ['trading']
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+Nhất quán tin tưởng
+
+Nhất quán tin tưởng
+
+Nhất quán tin tưởng
+
+Nhất quán tin tưởng
+
+Nhất quán tin tưởng
+
 Đơn giản hiệu quả không màu mè
 
 Đơn giản hiệu quả không màu mè
