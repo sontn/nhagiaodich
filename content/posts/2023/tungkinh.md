@@ -12,6 +12,17 @@ categories: ['trading']
 ---
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
+Giải quyết mâu thuẫn các khung thời gian
+
+Giải quyết mâu thuẫn các khung thời gian
+
+Giải quyết mâu thuẫn các khung thời gian
+
+Giải quyết mâu thuẫn các khung thời gian
+
+Giải quyết mâu thuẫn các khung thời gian
+
+Giải quyết mâu thuẫn các khung thời gian
 
 Nhất quán tự tin
 
