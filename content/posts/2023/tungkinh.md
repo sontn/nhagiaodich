@@ -12,6 +12,16 @@ categories: ['trading']
 ---
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
+Xác định xu hướng thì dùng đường EMA là khách quan, đơn giản và hiệu quả nhất
+
+Xác định xu hướng thì dùng đường EMA là khách quan, đơn giản và hiệu quả nhất
+
+Xác định xu hướng thì dùng đường EMA là khách quan, đơn giản và hiệu quả nhất
+
+Xác định xu hướng thì dùng đường EMA là khách quan, đơn giản và hiệu quả nhất
+
+Xác định xu hướng thì dùng đường EMA là khách quan, đơn giản và hiệu quả nhất
+
 Giải quyết mâu thuẫn các khung thời gian
 
 Giải quyết mâu thuẫn các khung thời gian
