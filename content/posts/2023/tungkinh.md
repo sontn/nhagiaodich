@@ -12,6 +12,13 @@ categories: ['trading']
 ---
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
+
+Tôi càng ngày càng tự tin
+
+Tôi càng ngày càng tin tưởng
+
+Tôi càng ngày càng có niềm tin
+
 Xác định xu hướng thì dùng đường EMA là khách quan, đơn giản và hiệu quả nhất
 
 Xác định xu hướng thì dùng đường EMA là khách quan, đơn giản và hiệu quả nhất
