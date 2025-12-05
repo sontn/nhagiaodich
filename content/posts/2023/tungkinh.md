@@ -13,6 +13,20 @@ categories: ['trading']
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+Tôi càng ngày càng có niềm tin vào trading
+
+Tôi càng ngày càng có niềm tin vào trading
+
+Tôi càng ngày càng có niềm tin vào trading
+
+Tôi càng ngày càng có niềm tin vào trading
+
+Tôi càng ngày càng có niềm tin vào trading
+
+Tôi càng ngày càng có niềm tin vào trading
+
+Tôi càng ngày càng có niềm tin vào trading
+
 Tôi càng ngày càng tự tin
 
 Tôi càng ngày càng tin tưởng
