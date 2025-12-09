@@ -13,6 +13,18 @@ categories: ['trading']
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+Thua chuỗi là một phần không thể thiếu của trading
+
+Thua chuỗi là một phần không thể thiếu của trading
+
+Thua chuỗi là một phần không thể thiếu của trading
+
+Thua chuỗi là một phần không thể thiếu của trading
+
+Thua chuỗi là một phần không thể thiếu của trading
+
+Thua chuỗi là một phần không thể thiếu của trading
+
 Yes I do
 
 Yes I do
