@@ -13,6 +13,22 @@ categories: ['trading']
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+Believe
+
+Believe
+
+Believe
+
+Believe
+
+Believe
+
+Believe
+
+Believe
+
+Believe
+
 Thua chuỗi là một phần không thể thiếu của trading
 
 Thua chuỗi là một phần không thể thiếu của trading
