@@ -23,6 +23,12 @@ Tôi là nhà giao dịch
 
 Tôi là nhà giao dịch
 
+Tôi là nhà giao dịch
+
+Tôi là nhà giao dịch
+
+Tôi là nhà giao dịch
+
 Tự tin lên Sơn
 
 Tự tin lên Sơn
