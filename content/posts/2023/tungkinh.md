@@ -13,6 +13,12 @@ categories: ['trading']
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+Trong trading, hành động điên rồ rất dễ xảy ra. Vì thế cần phải giám sát chặt chẽ
+
+Trong trading, hành động điên rồ rất dễ xảy ra, vì thế cần phải giảm sát chặt chẽ
+
+Trong trading, hành động điên rồ rất dễ xảy ra, vì thế cần phải giám sát chặt chẽ
+
 Tôi là nhà giao dịch
 
 Tôi là nhà giao dịch
