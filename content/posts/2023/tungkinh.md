@@ -47,6 +47,12 @@ Tôi là nhà giao dịch
 
 Tôi là nhà giao dịch
 
+Tôi là nhà giao dịch
+
+Tôi là nhà giao dịch
+
+Tôi là nhà giao dịch
+
 Tôi là nhà giao dịch. 
 
 Tôi là nhà giao dịch
