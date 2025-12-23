@@ -13,6 +13,22 @@ categories: ['trading']
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+Trần Hoàng Thuận
+
+Trần Hoàng Thuận
+
+Trần Hoàng Thuận
+
+Trần Hoàng Thuận
+
+Trần Hoàng Thuận
+
+Trần Hoàng Thuận
+
+Trần Hoàng Thuận
+
+Trần Hoàng Thuận
+
 Trong trading, hành động điên rồ rất dễ xảy ra. Vì thế cần phải giám sát chặt chẽ
 
 Trong trading, hành động điên rồ rất dễ xảy ra, vì thế cần phải giảm sát chặt chẽ
