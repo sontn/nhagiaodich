@@ -44,3 +44,5 @@ categories: ['trading', 'psychology']
 # Tuấn Tê Hát
 
 # Tuấn Chen
+
+# Tuấn Ruby
