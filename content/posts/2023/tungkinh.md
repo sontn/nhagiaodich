@@ -13,6 +13,12 @@ categories: ['trading']
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+Bạn không cần phải biết những gì xảy ra tiếp theo để kiếm được tiền
+
+Bất cứ điều gì cũng có thể xảy ra trong thị trường
+
+Mỗi thời điểm là duy nhất
+
 Tôi là nhà giao dịch
 
 Tôi là nhà giao dịch
