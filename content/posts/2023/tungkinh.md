@@ -13,6 +13,8 @@ categories: ['trading']
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+Bất cứ điều gì cũng có thể xảy ra trên thị trường
+
 Bạn không cần phải biết những gì xảy ra tiếp theo để kiếm được tiền
 
 Bất cứ điều gì cũng có thể xảy ra trong thị trường
