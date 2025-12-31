@@ -13,6 +13,8 @@ categories: ['trading']
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+Tôi là nhà giao dịch
+
 Bất cứ điều gì cũng có thể xảy ra trong thị trường
 
 Bất cứ điều gì cũng có thể xảy ra trên thị trường
