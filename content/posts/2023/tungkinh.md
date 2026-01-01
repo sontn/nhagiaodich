@@ -13,6 +13,12 @@ categories: ['trading']
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+Vượt qua sự sợ hãi
+
+Vượt lên sợ hãi
+
+Vượt lên sợ hãi
+
 Tôi là nhà giao dịch
 
 Bất cứ điều gì cũng có thể xảy ra trong thị trường
