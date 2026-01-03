@@ -13,6 +13,8 @@ categories: ['trading']
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+Mọi thứ đều có thể xảy ra trong thị trường
+
 Chấp nhận mọi thứ có thể xảy ra trong thị trường sẽ chuyển hoá thành trader có lợi nhuận nhanh hơn. 
 
 đừng bao giờ có thắng từng lệnh vì nó chỉ gây ra căng thẳng ko có hiệu quả trong trading
