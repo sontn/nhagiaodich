@@ -17,6 +17,8 @@ Một cách vô tình trong rất nhiều năm trở lại đây, điều tôi m
 
 Con hào theo nghĩa đen, là một hệ thống nước bao quanh lấy thành, nhằm bảo vệ thành khỏi sự tấn công từ bên ngoài vào bên trong thành. Hệ thống bảo vệ thành bằng hào đã phát triển từ hàng nghìn năm về trước, và thời hiện đại hệ thống hào này chắc không còn được sử dụng theo cách thức ban đầu, nhưng về mặt nguyên lý thì con hào vẫn được ứng dụng rất nhiều. Nếu nhìn vào nước Mỹ hiện đại, chúng ta thấy Mỹ được bao quanh 1 con hào tự nhiên rất lớn, đó là vùng biển Đông Tây và phía Bắc thì là Bắc Cực. Rất khó tấn công vào Mỹ với cách thức truyền thông như kiểu dùng tàu chiến hay máy bay. Một thông tin thời sự hiện tại Tổng thống Trump đang muốn "mua" lại GreenLand của Đan Mạch, một sự gia cố dầy thêm con hào bảo vệ cho Mỹ, hai là thôn tính tài nguyên.
 
+Theo nghĩa bóng, con hào kinh tế là thuật ngữ ám chỉ những lợi thế cạnh tranh mà đối thú rất khó bắt trước. Những lợi thế có thể là độc quyền kinh doanh, độc quyền thị trường, bí mật sản phẩm, chi phí thấp, mô hình kinh doanh tốt mà đối thủ rất khó bắt trước, hoặc bắt trước thì chi phí rất lớn mất lợi thế cạnh tranh.
+
 # Tôi đã xây dựng những con hào của mình như thế nào (một vài ví dụ điển hình)
 
 ## Con hào CCNA
