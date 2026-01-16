@@ -99,6 +99,20 @@ Tôi là nhà giao dịch
 
 Tôi là nhà giao dịch
 
+Tôi là nhà giao dịch
+
+Tôi là nhà giao dịch
+
+Tôi là nhà giao dịch
+
+Tôi là nhà giao dịch
+
+Tôi là nhà giao dịch
+
+Tôi là nhà giao dịch
+
+Tôi là nhà giao dịch
+
 Mọi thứ đều có thể xảy ra trong thị trường
 
 Chấp nhận mọi thứ có thể xảy ra trong thị trường sẽ chuyển hoá thành trader có lợi nhuận nhanh hơn. 
