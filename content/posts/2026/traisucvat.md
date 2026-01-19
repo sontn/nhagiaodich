@@ -6,7 +6,7 @@ draft: false
 cover:
   image: 'img/2026/GeorgeOrwell.png'
   alt: 'Nhà Giao Dịch'
-  caption: 'Nhà Giao Dịch'
+  caption: 'George Orwell'
 tags: ['xahoi']
 categories: ['xahoi','kienthucxahoi']
 ---
