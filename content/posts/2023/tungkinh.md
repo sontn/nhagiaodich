@@ -13,6 +13,14 @@ categories: ['trading']
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+Tôi là nhà giao dịch
+
+Tôi là nhà giao dịch
+
+Tôi là nhà giao dịch
+
+Tôi là nhà giao dịch
+
 Tôi là nhà giao dich
 
 Tôi là nhà giao dịch
