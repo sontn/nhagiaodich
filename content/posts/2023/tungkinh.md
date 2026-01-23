@@ -21,6 +21,12 @@ Tôi là nhà giao dịch
 
 Tôi là nhà giao dịch
 
+Tôi là nhà giao dịch
+
+Tôi là nhà giao dịch
+
+Tôi là nhà giao dịch
+
 Tôi là nhà giao dich
 
 Tôi là nhà giao dịch
