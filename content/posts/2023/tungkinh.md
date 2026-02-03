@@ -15,6 +15,12 @@ categories: ['trading']
 
 Tôi là nhà giao dịch có lợi thế dương
 
+Tôi là nhà gia dịch có lợi thế dương
+
+Tôi là nhà giao dịch có lợi thế dương
+
+Tôi là nhà giao dịch có lợi thế dương
+
 Tôi là nhà giao dịch có lợi thế dương
 
 Tôi là nhà giao dịch có lợi thế dương
