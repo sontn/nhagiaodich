@@ -59,6 +59,12 @@ Tôi là nhà giao dịch có lợi thế dương
 
 Tôi là nhà giao dịch có lợi thế dương
 
+Tôi là nhà giao dịch có lợi thế dương
+
+Tôi là nhà giao dịch có lợi thế dương
+
+Tôi là nhà giao dịch có lợi thế dương
+
 Tôi chấp nhận lỗ như là chi phí của trading
 
 Tôi chấp nhận lỗ một cách tự nguyện là chi phí của trading
