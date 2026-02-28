@@ -13,6 +13,8 @@ categories: ['trading']
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+Too là nhà giao dịch có kỳ vọng dương
+
 Tôi là nhà giao dịch có kỳ vọng dương
 
 Tôi là nhà giao dịch có kỳ vọng dương
