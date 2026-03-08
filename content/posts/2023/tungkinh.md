@@ -17,6 +17,12 @@ Tôi là nhà giao dịch có kỳ vọng dương
 
 Tôi là nhà giao dịch có kỳ vọng dương
 
+Tôi là nhà giao dịch có kỳ vọng dươnh
+
+Tôi là nhà giao dịch có kỳ vọng dương
+
+Tôi là nhà giao dịch có kỳ vọng dương
+
 Tôi là nhà giao dịch có kỳ vọng dương
 
 Tôi là nhà giao dịch có kỳ vọng dương
