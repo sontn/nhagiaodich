@@ -46,3 +46,7 @@ categories: ['trading', 'psychology']
 # Tuấn Chen
 
 # Tuấn Ruby
+
+# Tuấn Smile
+
+# Tuấn Oxy
