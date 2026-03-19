@@ -50,3 +50,5 @@ categories: ['trading', 'psychology']
 # Tuấn Smile
 
 # Tuấn Oxy
+
+# Tuấn Action
