@@ -52,3 +52,7 @@ categories: ['trading', 'psychology']
 # Tuấn Oxy
 
 # Tuấn Action
+
+# Tuấn Flower
+
+# Tuấn Hoa Hồng
