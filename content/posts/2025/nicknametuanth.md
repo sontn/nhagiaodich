@@ -56,3 +56,5 @@ categories: ['trading', 'psychology']
 # Tuấn Flower
 
 # Tuấn Hoa Hồng
+
+# Tuấn Quảng Ninh
