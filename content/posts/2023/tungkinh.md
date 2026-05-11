@@ -13,6 +13,16 @@ categories: ['trading']
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+RR một ba một năm
+
+RR một ba một năm
+
+RR một ba một năm
+
+RR một ba một năm
+
+RR một ba một năm
+
 Tôi là nhà giao dịch có lợi nhuận ổn định
 
 Tôi là nhà giao dịch có lợi nhuận ổn định
