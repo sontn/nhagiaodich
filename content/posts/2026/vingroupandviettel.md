@@ -6,7 +6,7 @@ draft: false
 cover:
   image: 'img/2026/vingroupviettel.png'
   alt: 'Nhà Giao Dịch'
-  caption: 'George Orwell'
+  caption: 'Vingroup and Viettel'
 tags: ['xahoi']
 categories: ['xahoi','kienthucxahoi']
 ---
