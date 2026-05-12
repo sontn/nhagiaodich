@@ -6,6 +6,8 @@ hugo new content posts/2024/my-first-post.md
 
 hugo new content posts/2025/my-first-post.md
 
+hugo new content posts/2026/my-first-post.md
+
 # Start the server
 
 hugo server
