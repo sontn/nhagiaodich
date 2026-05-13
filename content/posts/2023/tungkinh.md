@@ -13,6 +13,12 @@ categories: ['trading']
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+I am a consistantly profitable trader
+
+I am a consistantly profitable trader
+
+I am a consistantly profitable trader
+
 RR một ba một năm
 
 RR một ba một năm
