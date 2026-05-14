@@ -13,6 +13,8 @@ categories: ['trading']
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+Tôi là nhà giao dịch có lợi nhuận ổn định
+
 I am a consistantly profitable trader
 
 I am a consistantly profitable trader
