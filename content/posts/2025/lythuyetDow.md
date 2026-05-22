@@ -1,7 +1,7 @@
 ---
 title: 'Lý thuyết Dow - Cha đẻ của phân tích kỹ thuật - Nền tảng của phân tích kỹ thuật'
 date: 2025-04-04T10:25:11+07:00
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 draft: false
 cover:
   image: 'img/2025/lythuyetDow/CharlesDow.png'

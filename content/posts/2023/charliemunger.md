@@ -1,7 +1,7 @@
 ---
 title: 'Charlie Munger dạo chơi ở thế giới khác'
 date: 2023-11-29T09:22:42+07:00
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 draft: false
 cover:
   image: 'img/charliemunger/charliemunger.jpg'

@@ -1,7 +1,7 @@
 ---
 title: 'Arnold Schwarzenegger - Làm thế nào để thành công'
 date: 2024-05-30T09:49:55+07:00
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 draft: false
 cover:
   image: 'img/2024/arnold/arnold.jpg'

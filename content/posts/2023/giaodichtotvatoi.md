@@ -1,7 +1,7 @@
 ---
 title: 'Giao dịch tốt và giao dịch tồi'
 date: 2023-12-13T10:36:21+07:00
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 draft: false
 cover:
   image: 'img/giaodichtotvatoi/goodandbad.jpg'

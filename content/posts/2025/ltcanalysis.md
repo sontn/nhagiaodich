@@ -1,7 +1,7 @@
 ---
 title: 'Price action analysis for LTC weekly in Feb 2025'
 date: 2025-02-13T09:56:57+07:00
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 draft: false
 cover:
   image: 'img/2025/ltc/ltcanalysis.png'

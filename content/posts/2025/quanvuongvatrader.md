@@ -1,7 +1,7 @@
 ---
 title: "So sánh Quân Vương với Trader"
 date: 2025-03-01T20:53:19+07:00
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 draft: false
 cover:
   image: 'img/2025/tradingframework/quanvuongvatrader.png'

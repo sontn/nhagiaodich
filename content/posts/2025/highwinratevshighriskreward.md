@@ -1,7 +1,7 @@
 ---
 title: 'Ignoring Risk-Reward Ratios and Focusing Only on High-Win-Rate Setups – Why It’s a Big Mistake?'
 date: 2025-02-27T11:05:30+07:00
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 draft: false
 cover:
   image: 'img/2025/thinkinginprobability/winratevsrrr.png'

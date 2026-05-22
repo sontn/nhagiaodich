@@ -1,7 +1,7 @@
 ---
 title: 'Bollinger Band'
 date: 2024-10-15T11:25:54+07:00
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 draft: false
 cover:
   image: 'img/2024/bollingerband/bollinger.jpg'

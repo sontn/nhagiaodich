@@ -1,7 +1,7 @@
 ---
 title: "The speed trader"
 date: 2025-06-17T14:05:21+07:00
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 draft: false
 cover:
   image: 'img/2025/theseeker/hft.png'

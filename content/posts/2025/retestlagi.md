@@ -1,7 +1,7 @@
 ---
 title: 'Tâm lý đằng sau retest trên biểu đồ. Có nên đợi Retest hay không?'
 date: 2025-03-05T08:56:13+07:00
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 draft: false
 cover:
   image: 'img/2025/bigboysneedliquidities/retest.png'

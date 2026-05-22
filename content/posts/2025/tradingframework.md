@@ -1,7 +1,7 @@
 ---
 title: 'Trading Framework - The Core Values of Trading'
 date: 2025-02-14T10:30:38+07:00
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 draft: false
 cover:
   image: 'img/2025/tradingframework/tradingframework.png'

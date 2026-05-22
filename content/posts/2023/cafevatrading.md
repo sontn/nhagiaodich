@@ -1,7 +1,7 @@
 ---
 title: 'Cafe và Trading'
 date: 2023-12-30T10:43:02+07:00
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 draft: false
 cover:
   image: 'img/cafevatrading/cafevatrading.png'

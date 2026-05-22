@@ -1,7 +1,7 @@
 ---
 title: 'Trader Thành Công Sẽ Không Còn Nghĩ Về Tiền - THT said'
 date: 2025-03-06T14:42:00+07:00
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 draft: false
 cover:
   image: 'img/2025/thinkinginprobability/traderthanhcong.png'

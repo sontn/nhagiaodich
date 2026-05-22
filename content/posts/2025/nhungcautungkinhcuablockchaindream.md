@@ -1,7 +1,7 @@
 ---
 title: 'Những câu tụng kinh của BlockChain Dream'
 date: 2025-04-02T15:26:09+07:00
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 draft: false
 cover:
   image: 'img/2025/blockchaindream/napoleonhill.png'

@@ -1,7 +1,7 @@
 ---
 title: "MC Ngọc Trinh, nhà đầu tư thông minh và cuốn hút"
 date: 2025-08-07T15:18:18+07:00
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 draft: false
 cover:
   image: 'img/2025/investor/mcngoctrinh.png'

@@ -1,7 +1,7 @@
 ---
 title: 'The Secrets of Wealth & Happiness • Jim Rohn 1981'
 date: 2025-04-23T09:15:27+07:00
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 draft: false
 cover:
   image: 'img/2025/jimrohn/jimrohn.png'

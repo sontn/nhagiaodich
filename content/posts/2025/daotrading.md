@@ -1,7 +1,7 @@
 ---
 title: "Đạo Trading"
 date: 2025-09-29T10:14:42+07:00
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 draft: false
 cover:
   image: '/img/2025/dao/dao.png'

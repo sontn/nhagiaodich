@@ -1,7 +1,7 @@
 ---
 title: " Roadmap ICT cho Trader \"Hiểu Chuyện\""
 date: 2025-05-03T18:16:06+07:00
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 draft: false
 cover:
   image: 'img/2025/matrix/ict.png'

@@ -1,7 +1,7 @@
 ---
 title: 'LỘ TRÌNH 4 BƯỚC ICT: TỪ TƯ DUY ĐẾN LỢI NHUẬN ỔN ĐỊNH'
 date: 2025-05-13T09:48:03+07:00
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 draft: false
 cover:
   image: 'img/2025/ict/lotrinh.png'

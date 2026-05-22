@@ -1,7 +1,7 @@
 ---
 title: 'Học Cách Giữ Vốn Trước, Học Cách Kiếm Tiền Sau'
 date: 2025-03-06T14:09:04+07:00
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 draft: false
 cover:
   image: 'img/2025/conbac/tontaitruoc.png'

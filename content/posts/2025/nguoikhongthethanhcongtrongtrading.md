@@ -1,7 +1,7 @@
 ---
 title: "Người cầu toàn không thể thành công trong trading"
 date: 2025-05-21T14:56:01+07:00
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 draft: false
 cover:
   image: 'img/2025/thinkinginprobability/nguoicautoan.png'

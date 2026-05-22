@@ -1,7 +1,7 @@
 ---
 title: "The Last Checkpoint"
 date: 2025-05-10T18:46:46+07:00
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 draft: false
 cover:
   image: 'img/2025/matrix/thefinalstep.png'

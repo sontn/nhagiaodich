@@ -1,7 +1,7 @@
 ---
 title: 'TUYÊN NGÔN CỦA TRADER BÌNH THƯỜNG'
 date: 2025-04-17T11:35:40+07:00
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 draft: false
 cover:
   image: 'img/2025/tuyenngontrader/declaraction.png'

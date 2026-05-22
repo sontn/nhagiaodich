@@ -1,7 +1,7 @@
 ---
 title: "The 3 Stages of Becoming a Professional Trader - AI Version"
 date: 2025-05-10T18:31:37+07:00
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 draft: false
 cover:
   image: 'img/2025/matrix/thestage.png'

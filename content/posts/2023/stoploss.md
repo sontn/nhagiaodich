@@ -2,7 +2,7 @@
 title: 'Có cần đặt Stop Loss không?'
 date: 2023-08-22T09:02:53+07:00
 draft: false
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 cover:
   image: 'img/baivietmoi/stoploss.jpg'
   alt: 'Nhà Giao Dịch'

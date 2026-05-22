@@ -1,7 +1,7 @@
 ---
 title: 'Nhận Thức Muộn & Nhận Thức Sớm trong Trading'
 date: 2025-03-28T08:44:14+07:00
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 draft: false
 cover:
   image: 'img/2025/confirmation/nhanthucsomvamuon.png'

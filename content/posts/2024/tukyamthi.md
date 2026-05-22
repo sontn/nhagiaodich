@@ -1,7 +1,7 @@
 ---
 title: 'Tự kỷ ám thị - thí nghiệm bàn tay cao su'
 date: 2024-04-19T10:42:03+07:00
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 draft: false
 cover:
   image: 'img/2024/tukyamthi/psychology.jpg'

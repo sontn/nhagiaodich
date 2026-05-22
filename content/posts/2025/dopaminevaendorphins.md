@@ -1,7 +1,7 @@
 ---
 title: "Dopamine và Endorphins"
 date: 2025-08-05T10:35:03+07:00
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 draft: false
 cover:
   image: 'img/2025/dopaminesandendorphins/dopaminevaendorphins.png'

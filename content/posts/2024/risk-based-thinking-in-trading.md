@@ -1,7 +1,7 @@
 ---
 title: 'Asking AI chatGPT 4o about Risk-Based Thinking in Trading with Probability Integration'
 date: 2024-05-22T10:21:36+07:00
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 draft: false
 cover:
   image: 'img/2024/riskbasedthinking/risktrading.png'

@@ -2,7 +2,7 @@
 title: "Nhà Đầu Tư 1970"
 date: 2025-07-23T16:33:44+07:00
 draft: false
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 cover:
   image: 'img/2025/nhadautu1970/nhadautu1970.png'
   alt: 'Nhà Giao Dịch'

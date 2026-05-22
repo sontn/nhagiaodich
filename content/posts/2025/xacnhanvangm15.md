@@ -1,7 +1,7 @@
 ---
 title: 'Một setup vàng được xác nhận ở dạng sách giáo khoa'
 date: 2025-03-13T11:28:13+07:00
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 draft: false
 cover:
   image: 'img/2025/confirmation/xacnhanvangm15.png'

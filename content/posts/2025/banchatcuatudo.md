@@ -1,7 +1,7 @@
 ---
 title: 'Bản chất của Tự do - Tự do tài chính'
 date: 2025-04-28T08:44:56+07:00
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 draft: false
 cover:
   image: 'img/2025/tuyenngontrader/caigiacuatudo.png'

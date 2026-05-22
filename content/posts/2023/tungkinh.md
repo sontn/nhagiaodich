@@ -2,7 +2,7 @@
 title: 'Tụng kinh'
 date: 2023-08-17T10:27:22+07:00
 draft: false
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 cover:
   image: 'img/tungkinh/niemtin.jpg'
   alt: 'Nhà Giao Dịch'

@@ -1,7 +1,7 @@
 ---
 title: 'Phân tích một chiến dịch trading từ 200$ lên 2000$ của BlockChain Dream'
 date: 2025-02-27T15:15:25+07:00
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 draft: false
 cover:
   image: 'img/2025/blockchaindream/tradingreport.png'

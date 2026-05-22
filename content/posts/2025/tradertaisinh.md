@@ -1,7 +1,7 @@
 ---
 title: 'Hồi Ký Một Trader Tái Sinh'
 date: 2025-05-05T09:18:30+07:00
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 draft: false
 cover:
   image: 'img/2025/tuyenngontrader/taisinh.jpg'

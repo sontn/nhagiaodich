@@ -1,7 +1,7 @@
 ---
 title: 'Hai Vụ Nổ Big Bang Làm Thay Đổi Tư Duy Trader Mãi Mãi'
 date: 2025-05-05T09:23:21+07:00
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 draft: false
 cover:
   image: 'img/2025/tuyenngontrader/bigbang.png'

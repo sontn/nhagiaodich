@@ -1,7 +1,7 @@
 ---
 title: 'Why avoid trading in sideways movement'
 date: 2025-02-13T11:03:30+07:00
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 draft: false
 cover:
   image: 'img/2025/avoidtradingrange/avoidtradingrange.png'

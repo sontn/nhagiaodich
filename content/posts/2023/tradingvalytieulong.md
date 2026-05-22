@@ -2,7 +2,7 @@
 title: 'Lý Tiểu Long và Trading'
 date: 2023-11-27T10:20:18+07:00
 draft: false
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 cover:
   image: 'img/tradingvalytieulong/brucelee.jpg'
   alt: 'Nhà Giao Dịch'

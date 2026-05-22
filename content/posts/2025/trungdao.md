@@ -1,7 +1,7 @@
 ---
 title: "Trung Đạo"
 date: 2025-05-18T11:56:49+07:00
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 draft: false
 cover:
   image: 'img/2025/matrix/trungdao.png'

@@ -1,7 +1,7 @@
 ---
 title: 'Cách học và làm chủ một kỹ năng mới'
 date: 2024-04-25T16:23:51+07:00
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 draft: false
 cover:
   image: 'img/2024/cachhoc/howtolearn.jpg'

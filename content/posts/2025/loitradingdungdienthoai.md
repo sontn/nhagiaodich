@@ -1,7 +1,7 @@
 ---
 title: 'Lỗi trading sử dụng điện thoại'
 date: 2025-03-13T10:56:09+07:00
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 draft: false
 cover:
   image: 'img/2025/errors/mobilenotrading.png'

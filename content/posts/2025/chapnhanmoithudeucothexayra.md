@@ -1,7 +1,7 @@
 ---
 title: 'Chấp Nhận Mọi Việc Đều Có Thể Xảy Ra Trong Trading'
 date: 2025-04-23T10:40:57+07:00
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 draft: false
 cover:
   image: 'img/2025/chanhniem/chapnhan.png'

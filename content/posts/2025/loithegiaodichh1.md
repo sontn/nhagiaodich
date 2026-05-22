@@ -1,7 +1,7 @@
 ---
 title: 'Lời thề giao dịch h1'
 date: 2025-04-16T17:45:03+07:00
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 draft: false
 cover:
   image: 'img/2025/directions/directions.png'

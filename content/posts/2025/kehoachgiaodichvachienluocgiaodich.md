@@ -1,7 +1,7 @@
 ---
 title: 'Chiến lược giao dịch khác với kế hoạch giao dịch như thế nào'
 date: 2025-02-14T16:27:37+07:00
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 draft: false
 cover:
   image: 'img/2025/strategyandplan/strategyandplan.png'

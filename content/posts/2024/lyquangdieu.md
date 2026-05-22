@@ -1,7 +1,7 @@
 ---
 title: 'Siêu investor, siêu trader Lý Quang Diệu'
 date: 2024-02-19T16:30:07+07:00
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 draft: false
 cover:
   image: 'img/lyquangdieu/lyquangdieu.jpg'

@@ -1,7 +1,7 @@
 ---
 title: 'THẺ TƯ DUY TRADER TỈNH THỨC'
 date: 2025-05-05T09:14:26+07:00
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 draft: false
 cover:
   image: 'img/2025/tuyenngontrader/dongsong.jpg'

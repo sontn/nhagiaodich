@@ -1,7 +1,7 @@
 ---
 title: 'Các nickname bá đạo của Trader TuấnTH - Đánh dấu cột mốc mới trong sự nghiệp trading - Phiên bản Troll v1.0'
 date: 2025-03-20T16:28:18+07:00
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 draft: false
 cover:
   image: 'img/2025/troll/Troll-Face.png'

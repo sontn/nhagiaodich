@@ -1,7 +1,7 @@
 ---
 title: 'The Seeker + AI = Knowledge Flywheel'
 date: 2025-05-13T13:38:59+07:00
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 draft: false
 cover:
   image: 'img/2025/theseeker/learningcurve.png'

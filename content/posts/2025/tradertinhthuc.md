@@ -1,7 +1,7 @@
 ---
 title: "TRADER ÂM THẦM VÀ TỈNH THỨC"
 date: 2025-04-26T09:24:09+07:00
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 draft: false
 cover:
   image: 'img/2025/chanhniem/tinhthuc.png'

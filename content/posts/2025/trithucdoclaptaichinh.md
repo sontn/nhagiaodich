@@ -1,7 +1,7 @@
 ---
 title: 'Tại sao nhà tri thức vẫn nên theo đuổi độc lập tài chính?'
 date: 2025-05-12T10:28:36+07:00
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 draft: false
 cover:
   image: 'img/2025/tuyenngontrader/gioitrithuc.png'

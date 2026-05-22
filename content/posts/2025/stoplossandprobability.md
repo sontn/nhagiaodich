@@ -1,7 +1,7 @@
 ---
 title: 'The Crucial Link Between Stop Loss and Probability: Controlling Risk for Long-Term Trading Success'
 date: 2025-02-27T11:37:23+07:00
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 draft: false
 cover:
   image: 'img/2025/thinkinginprobability/stoplossanddice.png'

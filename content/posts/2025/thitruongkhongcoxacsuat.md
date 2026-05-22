@@ -1,7 +1,7 @@
 ---
 title: 'Thị trường không có xác suất, xác suất là công cụ chỉ dành cho trader'
 date: 2025-03-04T13:40:41+07:00
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 draft: false
 cover:
   image: 'img/2025/bigboysneedliquidities/xacsuat.png'

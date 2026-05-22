@@ -1,7 +1,7 @@
 ---
 title: "Người cho em tất cả"
 date: 2026-02-26T17:43:11+07:00
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 draft: false
 cover:
   image: 'img/2026/tien.png'

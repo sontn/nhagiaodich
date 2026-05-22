@@ -1,7 +1,7 @@
 ---
 title: '10 điều những người có sức mạnh ý chí siêu việt làm khác người bình thường'
 date: 2024-05-17T15:32:41+07:00
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 draft: false
 cover:
   image: 'img/2024/nguoiychi/spirit.jpg'

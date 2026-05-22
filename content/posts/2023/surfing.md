@@ -1,7 +1,7 @@
 ---
 title: 'Trend trader có thể học được rất nhiều điều từ người lướt sóng'
 date: 2023-12-05T15:18:08+07:00
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 draft: false
 cover:
   image: 'img/surfing/surfing.png'

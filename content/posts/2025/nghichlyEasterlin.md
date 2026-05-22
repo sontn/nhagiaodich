@@ -1,7 +1,7 @@
 ---
 title: 'Nghịch lý Easterlin'
 date: 2025-03-26T10:12:55+07:00
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 draft: false
 cover:
   image: 'img/2025/nghichly/easterlin.png'

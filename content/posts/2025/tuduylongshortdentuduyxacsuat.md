@@ -1,7 +1,7 @@
 ---
 title: "Từ tư duy Long Short tới tư duy Xác Suất"
 date: 2025-11-04T10:26:18+07:00
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 draft: false
 cover:
   image: 'img/2025/thinkinginprobability/mindset.png'

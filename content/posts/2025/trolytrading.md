@@ -1,7 +1,7 @@
 ---
 title: 'Trợ lý AI trading - Cờ ngoài bài trong'
 date: 2025-02-25T09:46:56+07:00
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 draft: false
 cover:
   image: 'img/2025/trolyai/caddieaifortrading.png'

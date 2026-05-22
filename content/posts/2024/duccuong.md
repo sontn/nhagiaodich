@@ -1,7 +1,7 @@
 ---
 title: 'Nhạc sỹ Nguyễn Đức Cường lấy vợ'
 date: 2024-01-15T13:31:10+07:00
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 draft: false
 cover:
   image: 'img/duccuong/duccuong.png'

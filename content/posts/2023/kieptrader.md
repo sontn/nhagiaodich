@@ -1,7 +1,7 @@
 ---
 title: 'Đâu ai Tê Pề được mãi - Kiếp Trây Đờ'
 date: 2023-12-13T11:13:15+07:00
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 draft: false
 cover:
   image: 'img/dovaden/dovaden.png'

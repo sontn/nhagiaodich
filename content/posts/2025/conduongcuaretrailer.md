@@ -1,7 +1,7 @@
 ---
 title: "Con Đường Sống Còn Của Retail Khi Big Boy Thống Trị"
 date: 2025-05-04T11:28:13+07:00
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 draft: false
 cover:
   image: 'img/2025/matrix/therule.png'

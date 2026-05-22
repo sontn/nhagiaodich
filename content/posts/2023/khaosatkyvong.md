@@ -1,7 +1,7 @@
 ---
 title: 'Khảo sát kỳ vọng'
 date: 2023-08-18T10:32:31+07:00
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 draft: false
 cover:
   image: 'img/khaosatkyvong/survey.jpg'

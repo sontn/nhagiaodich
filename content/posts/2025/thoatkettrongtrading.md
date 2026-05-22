@@ -1,7 +1,7 @@
 ---
 title: "Thoát kẹt trong trading"
 date: 2025-12-26T12:00:57+07:00
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 draft: false
 cover:
   image: 'img/2025/thinkinginprobability/zen.png'

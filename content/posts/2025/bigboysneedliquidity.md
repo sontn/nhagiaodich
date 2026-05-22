@@ -1,7 +1,7 @@
 ---
 title: "Big Boys need liquidity - Tay to cần thanh khoản - Một chiến lược thao túng giá của Big Boy"
 date: 2025-02-26T04:51:50+07:00
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 draft: false
 cover:
   image: 'img/2025/bigboysneedliquidities/pacman.png'

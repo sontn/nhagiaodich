@@ -1,7 +1,7 @@
 ---
 title: "Vingroup VS Viettel: Ai Gánh Nặng Hơn Trong Cách Mạng Kinh Tế VN"
 date: 2026-05-12T16:28:23+07:00
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 draft: false
 cover:
   image: 'img/2026/vingroupviettel.png'

@@ -1,7 +1,7 @@
 ---
 title: 'Price action analysis'
 date: 2025-02-13T08:53:13+07:00
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 draft: false
 cover:
   image: 'img/2025/priceaction/priceaction.png'

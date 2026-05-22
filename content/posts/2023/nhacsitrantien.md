@@ -1,7 +1,7 @@
 ---
 title: 'Nhạc sĩ Trần Tiến và trading'
 date: 2023-12-14T09:08:03+07:00
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 draft: false
 cover:
   image: 'img/nhacsitrantien/nhacsitrantien.png'

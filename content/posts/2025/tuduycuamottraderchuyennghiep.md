@@ -1,7 +1,7 @@
 ---
 title: 'Tư duy của một trader chuyên nghiệp'
 date: 2025-03-14T10:38:50+07:00
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 draft: false
 cover:
   image: 'img/2025/thinkinginprobability/traderchuyennghiep.png'

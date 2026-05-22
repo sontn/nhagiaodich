@@ -1,7 +1,7 @@
 ---
 title: 'Áp dụng 6 bước thành công của Napoleon Hill trong trading'
 date: 2025-03-19T14:32:08+07:00
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 draft: false
 cover:
   image: 'img/2025/strategyandplan/6buocthanhcong.png'

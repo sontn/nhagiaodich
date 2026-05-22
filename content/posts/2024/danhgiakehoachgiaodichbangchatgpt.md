@@ -1,7 +1,7 @@
 ---
 title: 'Đánh giá kế hoạch giao dịch bằng AI chatGPT 4o'
 date: 2024-05-20T11:38:26+07:00
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 draft: false
 cover:
   image: 'img/2024/danhgiakehoachgiaodich/reviewplanwithchatgpt.png'

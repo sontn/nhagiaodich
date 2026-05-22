@@ -1,7 +1,7 @@
 ---
 title: 'Trader Nhỏ Lẻ vs Big Boy: Lợi Thế, Bất Lợi & Cách Tận Dụng Chiến Lược Hiệu Quả'
 date: 2025-02-28T16:12:55+07:00
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 draft: false
 cover:
   image: 'img/2025/bigboysneedliquidities/retailervsbigboy.png'

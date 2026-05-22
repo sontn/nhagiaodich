@@ -1,7 +1,7 @@
 ---
 title: 'TÁI SINH — MICHEAL ICT VER'
 date: 2025-05-05T11:08:33+07:00
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 draft: false
 cover:
   image: 'img/2025/tuyenngontrader/phuonghoangtaisinh.png'

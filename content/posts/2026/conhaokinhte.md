@@ -1,7 +1,7 @@
 ---
 title: "Con hào kinh tế - lợi thế cạnh tranh"
 date: 2026-01-13T09:00:06+07:00
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 draft: false
 cover:
   image: 'img/2026/themoat.png'

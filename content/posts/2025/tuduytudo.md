@@ -1,7 +1,7 @@
 ---
 title: 'Khi Tôi Chưa Có Tiền, Nhưng Đã Tự Do Trong Đầu'
 date: 2025-05-05T09:10:51+07:00
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 draft: false
 cover:
   image: 'img/2025/tuyenngontrader/tuduytudo.png'

@@ -1,7 +1,7 @@
 ---
 title: "Nghịch lý của sách Think and Grow Rich; Trading = The True Equal Opportunity Game"
 date: 2025-05-10T18:49:58+07:00
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 draft: false
 cover:
   image: 'img/2025/matrix/paradox.png'

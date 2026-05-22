@@ -1,7 +1,7 @@
 ---
 title: 'What does whipsaws mean'
 date: 2025-02-13T11:26:51+07:00
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 draft: false
 cover:
   image: 'img/2025/avoidtradingrange/whipsaw_short.jpg'

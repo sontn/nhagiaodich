@@ -1,7 +1,7 @@
 ---
 title: 'Chồng em là Trây Đơ'
 date: 2024-03-23T16:05:43+07:00
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 draft: false
 cover:
   image: 'img/2024/chongemlatrader/husband.png'

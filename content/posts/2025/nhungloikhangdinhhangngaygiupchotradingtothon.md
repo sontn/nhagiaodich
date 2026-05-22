@@ -1,7 +1,7 @@
 ---
 title: "Những lời khẳng định hàng ngày giúp cải thiện kỹ năng trading"
 date: 2025-03-17T10:39:59+07:00
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 draft: false
 cover:
   image: 'img/2025/tradingframework/dailyaffirmations.png'

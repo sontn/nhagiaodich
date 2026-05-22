@@ -1,7 +1,7 @@
 ---
 title: "Tổng hợp tư duy thực chiến H1 / M15 / H4 (BB20, EMA50, EMA200)"
 date: 2025-04-26T13:55:20+07:00
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 draft: false
 cover:
   image: 'img/2025/technicals/checklist.jpg'

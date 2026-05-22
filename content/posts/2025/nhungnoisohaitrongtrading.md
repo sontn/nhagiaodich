@@ -1,7 +1,7 @@
 ---
 title: 'Những nỗi sợ hãi lớn nhất trong trading và cách khắc phục'
 date: 2025-04-09T14:46:09+07:00
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 draft: false
 cover:
   image: 'img/2025/fear/breakfear.jpg'

@@ -1,7 +1,7 @@
 ---
 title: 'Phân tích đồ thị kỹ thuật bằng ChatGPT 4o'
 date: 2024-05-17T10:08:00+07:00
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 draft: false
 cover:
   image: 'img/2024/phantichkythuatbangchatgpt4o/phantichkythuatbangchatgpt4o.png'

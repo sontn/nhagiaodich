@@ -1,7 +1,7 @@
 ---
 title: 'Tại sao không nên tìm kiếm “cú ăn lớn” mà nên kiên nhẫn theo đuổi lợi nhuận bền vững'
 date: 2025-03-20T08:41:09+07:00
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 draft: false
 cover:
   image: 'img/2025/conbac/bigwin.png'

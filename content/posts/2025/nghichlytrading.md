@@ -1,7 +1,7 @@
 ---
 title: 'Nghịch lý lớn của người học giỏi khi bước vào trading'
 date: 2025-05-13T13:49:51+07:00
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 draft: false
 cover:
   image: 'img/2025/paradox/hocsinhgioi.png'

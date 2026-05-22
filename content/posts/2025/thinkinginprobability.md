@@ -1,7 +1,7 @@
 ---
 title: 'Why traders must adapt probability thinking? If not, what happens?'
 date: 2025-02-27T10:36:34+07:00
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 draft: false
 cover:
   image: 'img/2025/thinkinginprobability/soros.png'

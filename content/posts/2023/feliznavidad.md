@@ -1,7 +1,7 @@
 ---
 title: 'Feliz Navidad'
 date: 2023-12-25T09:29:28+07:00
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 draft: false
 cover:
   image: 'img/feliznavidad/feliznavidad.png'

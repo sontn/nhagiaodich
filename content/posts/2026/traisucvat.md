@@ -1,7 +1,7 @@
 ---
 title: "Trại Súc Vật - Chuyện Chính Trị của những con vật?"
 date: 2026-01-19T15:46:17+07:00
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 draft: false
 cover:
   image: 'img/2026/GeorgeOrwell.png'

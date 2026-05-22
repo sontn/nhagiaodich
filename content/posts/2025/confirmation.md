@@ -1,7 +1,7 @@
 ---
 title: 'Can You Be a Good Trader Without Using Confirmations?'
 date: 2025-02-07T11:13:44+07:00
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 draft: false
 cover:
   image: 'img/2025/confirmation/confirmation.png'

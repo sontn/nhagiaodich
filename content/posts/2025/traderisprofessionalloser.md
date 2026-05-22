@@ -1,7 +1,7 @@
 ---
 title: "Trader là một Professional Loser"
 date: 2025-05-19T17:42:11+07:00
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 draft: false
 cover:
   image: 'img/2025/priceaction/professinalloser.png'

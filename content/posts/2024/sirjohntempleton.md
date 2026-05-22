@@ -1,7 +1,7 @@
 ---
 title: 'Sir John Templeton và Trading'
 date: 2024-04-01T14:08:51+07:00
-author: Nha Giao Dich
+author: Nhà Giao Dịch
 draft: false
 cover:
   image: 'img/2024/sirjohntempleton/sirjohn.jpg'
