@@ -58,3 +58,5 @@ categories: ['trading', 'psychology']
 # Tuấn Hoa Hồng
 
 # Tuấn Quảng Ninh
+
+# Tuấn Mỏ
