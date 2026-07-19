@@ -57,6 +57,8 @@ Tôi là nhà giao dịch có lợi nhuận ổn định
 
 Tôi là nhà giao dịch có lợi nhuận ổn định
 
+Tôi là nhà giao dịch có lợi nhuận ổn định
+
 Tôi không chú trọng vào kết quả của từng lệnh mà chú trọng tới tổng các lệnh
 
 Tôi không tập trung vào kết quả của từng lệnh vì tôi hiểu sẽ có xác suất của từng lệnh
