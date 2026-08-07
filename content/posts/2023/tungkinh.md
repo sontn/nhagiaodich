@@ -13,6 +13,16 @@ categories: ['trading']
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+Tâm lý quyết định chính vào sự thành bại của trading
+
+Tâm lý quyết định chính vào sự thành bại của trading
+
+Tâm lý quyết định chính vào sự thành bại của trading
+
+Tâm lý quyết định chính vào sự thành bại của trading
+
+Tâm lý quyết định chính vào sự thành bại của trading
+
 Tôi là nhà giao dịch có lợi nhuận ổn định
 
 Tôi là nhà giao dịch có lợi nhuận ổn định
