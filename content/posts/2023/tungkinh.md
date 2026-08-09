@@ -13,6 +13,8 @@ categories: ['trading']
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+Tâm lý quyết định chính vạo sự thảnh bại trong trading
+
 Tâm lý quyết định chính vào sự thành bại trong trading
 
 Tâm lý quyết định chính vào sự thành bại của trading
