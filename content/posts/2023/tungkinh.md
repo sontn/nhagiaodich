@@ -13,6 +13,12 @@ categories: ['trading']
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+Tôi cần nhuần nhuyễn nhìn 2 khung quan hệ với nhau (h1, h4)
+ 
+Tôi cần nhuần nhuyễn nhìn 2 khung quan hệ với nhau (h1, h4)
+
+Tôi cần nhuần nhuyễn nhìn 2 khung quan hệ với nhau (h1, h4)
+
 Tâm lý quyết định chính vào sự thành bại trong trading
 
 Tâm lý quyết định chính vào sự thành bại trong trading
