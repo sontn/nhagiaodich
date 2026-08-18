@@ -15,6 +15,12 @@ categories: ['trading']
 
 Tôi cần quan sát nhuần nhuyễn hai khung thời gian h1, h4 quan hệ với nhau
 
+Tôi cần quan sát nhuần nhuyễn hai khung thời gian h1, h4 quan hệ với nhau
+
+Tôi cần quan sát nhuần nhuyễn hai khung thời gian h1, h4 quan hệ với nhau
+
+Tôi cần quan sát nhuần nhuyễn hai khung thời gian h1, h4 quan hệ với nhau
+
 Tôi cần quan sát nhuần nhuyễn 2 khung thời gian h1 h4 quan hệ với nhau
 
 Tôi cần nhuần nhuyễn quan sát 2 khung thời gian h1 h4 quan hệ với nhau
