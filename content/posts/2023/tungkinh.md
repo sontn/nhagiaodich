@@ -13,6 +13,12 @@ categories: ['trading']
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+Tôi là nhà giao dịch có lợi nhuận ổn định
+
+Tôi là nhà giao dịch có lợi nhuận ổn định
+
+Tôi là nhà giao dịch có lợi nhuận ổn định
+
 Tôi cần quan sát nhuần nhuyễn hai khung thời gian h1 h4 quan hệ với nhau
 
 Tôi cần quan sát nhuần nhuyễn hai khung thời gian h1 h4 quan hệ với nhau
