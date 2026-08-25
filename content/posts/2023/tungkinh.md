@@ -13,6 +13,14 @@ categories: ['trading']
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+Tôi phải nhất quán cách làm của tôi
+
+Tôi phải nhất quán cách làm của tôi và tin tưởng vào sự nhất quán đó
+
+Tôi phải nhất quán cách làm của tôi và tin tưởng vào sự nhất quán đó
+
+Tôi phải nhất quán cách làm của tôi và tin tưởng vào sự nhất quán đó
+
 Tôi là nhà giao dịch có lợi nhuận ổn định
 
 Tôi là nhà giao dịch có lợi nhuận ổn định
