@@ -13,6 +13,12 @@ categories: ['trading']
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+Kết quả ngẫu nhiên, kết quả ổn định. Không đặt thắng thua vào một lệnh, mà một chuỗi lệnh
+
+Không đặt thắng thua vào một lệnh, mà là một chuỗi lệnh
+
+Không đặt thắng thua vào một lệnh, mà là một chuỗi lệnh
+
 Tôi phải nhất quán cách làm của tôi
 
 Tôi phải nhất quán cách làm của tôi và tin tưởng vào sự nhất quán đó
