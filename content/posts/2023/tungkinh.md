@@ -15,6 +15,12 @@ categories: ['trading']
 
 Kết quả ngẫu nhiên, kết quả ổn định. Không đặt thắng thua vào một lệnh, mà một chuỗi lệnh
 
+Tự tin vào phương pháp theo trend và kết quả dài hạn
+
+Tự tin vào phương pháp theo trend và kết quả dài hạn
+
+Tự tin vào phương pháp theo trend và kết quả dài hạn
+
 Không đặt thắng thua vào một lệnh, mà là một chuỗi lệnh
 
 Không đặt thắng thua vào một lệnh, mà là một chuỗi lệnh
