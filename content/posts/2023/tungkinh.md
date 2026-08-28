@@ -13,6 +13,12 @@ categories: ['trading']
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+Tự tin vào phương pháp theo trend và kết quả dài hạn
+
+Tự tin vào phương pháp theo trend và kết quả dài hạn
+
+Tự tin vào phương pháp theo trend và kết quả dài hạn
+
 Kết quả ngẫu nhiên, kết quả ổn định. Không đặt thắng thua vào một lệnh, mà một chuỗi lệnh
 
 Tự tin vào phương pháp theo trend và kết quả dài hạn
