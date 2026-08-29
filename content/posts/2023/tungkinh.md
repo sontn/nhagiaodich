@@ -13,6 +13,8 @@ categories: ['trading']
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+Bỏ lỡ cơ hội thì đợi một cơ hội khác. 
+
 Tự tin vào phương pháp theo trend và kết quả dài hạn
 
 Tự tin vào phương pháp theo trend và kết quả dài hạn
