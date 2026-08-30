@@ -13,6 +13,8 @@ categories: ['trading']
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+Tôi là nhà giao dịch có lợi nhuận ổn định
+
 Bỏ lỡ cơ hội thì đợi một cơ hội khác. 
 
 Tự tin vào phương pháp theo trend và kết quả dài hạn
