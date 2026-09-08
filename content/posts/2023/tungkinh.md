@@ -29,6 +29,10 @@ Tôi là nhà giao dịch có lợi nhuận ổn định
 
 Tôi là nhà giao dịch có lợi nhuận ổn định
 
+Tôi là nhà giao dịch có lợi nhuận ổn định
+
+Tôi là nhà giao dịch có lợi nhuận ổn định
+
 Tôi là nhà giao dịch đọc được chart thuần thục
 
 Tôi là nhà giao dịch đọc được chart vàng thuần thục
