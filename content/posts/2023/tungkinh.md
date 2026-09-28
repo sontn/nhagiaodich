@@ -15,6 +15,16 @@ categories: ['trading']
 
 Tôi là nhà giao dịch
 
+Tôi là nhà giao dịch
+
+Tôi là nhà giao dịch
+
+Tôi là nhà giao dịch
+
+Tôi là nhà giao dịch
+
+Tôi là nhà giao dịch
+
 Thử nghiệm thêm MACD để đi theo xu hướng cho nó nét
 
 Tôi là nhà giao dịch
