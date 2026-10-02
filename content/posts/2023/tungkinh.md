@@ -13,6 +13,10 @@ categories: ['trading']
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+Một setup quan trọng: Đi theo trend và đợi pullback để có RR tốt. That's it. Lặp lại 10000 lần!
+
+Một setup phải luyện cho thành thạo: Đi theo trend, và đợi pull back để có RR tốt. That's it. Lặp lại 10000 lần! Đừng có lan man quá nhiều setup và setup nào cũng như con c*c!
+
 This single rule covers everything you need to stay profitable: 1. Trend -> bias (don't fight the market). 2. Clear level -> precision entry (OB, FVG, or swing point). 3. Small SL -> protect capital (risk management). 4. Liquidity target -> realistic TP (where the market wants to go).
 
 If you repeat this rule with discipline, you avoid overtrading, confusion and emotional traps
