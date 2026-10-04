@@ -13,6 +13,8 @@ categories: ['trading']
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+Tôi là nhà giao dịch
+
 one setup for life
 
 Một setup quan trọng: Đi theo trend và đợi pullback để có RR tốt. That's it. Lặp lại 10000 lần!
