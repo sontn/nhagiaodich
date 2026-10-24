@@ -13,6 +13,8 @@ categories: ['trading']
 
 **Đây là thuật tự kỷ ám thị. Cái gì có trong đầu sẽ trở thành hiện thực**
 
+Tôi là nhà giao dịch
+
 The single rule covers everything you need to stay profitable: 1 Trend -> bias (don't fight the market). 2 Clear level -> precision entry (OB, FVG or swing points). 3 Small SL -> protect capital (risk management). 4 Liquidity target -> realistic TP (where the market wants to go)
 
 If you repeat this rule with discipline, you avoid overtrading, confusion and emotional traps.
