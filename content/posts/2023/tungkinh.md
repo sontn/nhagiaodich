@@ -19,6 +19,12 @@ If you repeat this rule with discipline, you avoid overtrading, confusion and em
 
 Consistency + Risk Control = Profitability
 
+The single rule covers everything you need to stay profitable: 1 Trend -> bias (don't fight the market). 2 Clear level -> precision entry (OB, FVG or swing points). 3 small SL -> protect capital (risk management). 4 Liquidity target -> realistic TP (where the market wants to go).
+
+If you repeat this rule with discipline, you avoid overtrading, confusion and emotional gaps.
+
+Consistency + Risk Control = Profitability
+
 Tôi là nhà giao dịch
 
 Tôi là nhà giao dịch
